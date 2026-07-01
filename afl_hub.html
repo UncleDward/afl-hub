@@ -59,10 +59,11 @@ body{background:var(--bg);color:var(--tx);font-family:-apple-system,BlinkMacSyst
 /* CV dot */
 .cvdot{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:5px;vertical-align:middle;flex-shrink:0}
 /* Prob cells */
-.prob-c{text-align:center;min-width:48px}
-.prob-p{font-weight:700;font-size:11px}
-.prob-o{font-size:9px;color:var(--mu)}
-.prob-hr{font-size:9px;margin-top:1px;font-weight:500}
+.prob-c{text-align:center;width:62px;min-width:62px;padding:4px 2px;vertical-align:top}
+.prob-p{font-weight:700;font-size:11px;line-height:1.3}
+.prob-o{font-size:9px;color:var(--mu);line-height:1.3}
+.prob-mkt{font-size:9px;line-height:1.3;margin-top:1px}
+.prob-hr{font-size:9px;margin-top:2px;font-weight:500;line-height:1.3;padding-top:2px;border-top:1px solid var(--b)}
 .ph{color:var(--gn)}.pm{color:var(--bl)}.pa{color:var(--am)}.plo{color:var(--b2)}
 /* Sparkline */
 .spark{display:flex;align-items:flex-end;gap:1px;height:20px}
@@ -341,13 +342,25 @@ function sparkline(games){
   }).join('');
 }
 
-function probCell(p,hr){
+function bookAbbr(b){
+  var map={'Sportsbet':'SB','TAB':'TAB','Betr':'Betr','BetRight':'BR','Pointsbet':'PB','Ladbrokes':'Lads','Bet365':'B365'};
+  return map[b]||b;
+}
+function probCell(p,hr,bestOdd,edge){
   if(!p||p.prob<1) return '<td class="prob-c"><span class="prob-p plo">—</span></td>';
   var hrStr=hr?hr.hits+'/'+hr.total:'';
   var hrc=hr?hrColor(hr.hits,hr.total):'var(--mu)';
+  var mktStr='';
+  if(bestOdd&&bestOdd.odds){
+    var ec = edge>=15?'var(--gn)':edge>=3?'var(--am)':'var(--mu)';
+    var edgeStr = (edge!=null&&edge>=3)?' <span style="color:'+ec+';font-weight:700">+'+edge.toFixed(0)+'%</span>':'';
+    var bookStr = bestOdd.book?'<div class="prob-book" style="font-size:8px;color:var(--mu)">'+bookAbbr(bestOdd.book)+'</div>':'';
+    mktStr='<div class="prob-mkt" style="font-size:9px;color:var(--bl)">$'+bestOdd.odds.toFixed(2)+edgeStr+'</div>'+bookStr;
+  }
   return '<td class="prob-c">'
     +'<div class="prob-p '+probClass(p.prob)+'">'+p.prob.toFixed(0)+'%</div>'
     +'<div class="prob-o">'+(p.odds?'$'+p.odds.toFixed(2):'—')+'</div>'
+    +mktStr
     +(hrStr?'<div class="prob-hr" style="color:'+hrc+'">'+hrStr+'</div>':'')
     +'</td>';
 }
@@ -456,12 +469,24 @@ function renderPlayers(){
   if(!players.length){ tbody.innerHTML=''; empty.style.display='block'; return; }
   empty.style.display='none';
   tbody.innerHTML = players.map(function(p){
+    // Find best edge across all thresholds for row highlighting
+    var bestEdge=0, bestEdgeT=null;
+    if(p.edges){ Object.keys(p.edges).forEach(function(t){ if(p.edges[t]>bestEdge){ bestEdge=p.edges[t]; bestEdgeT=t; } }); }
+    // Quality gate: only highlight when model is trustworthy (confidence) and player isn't too volatile (CV)
+    var conf = p.conf||p.confidence||0;
+    var cvVal = p.cv!=null?p.cv:1;
+    var goodQuality = (conf>=60 && cvVal<=0.30);   // trustworthy + consistent
+    var okQuality   = (conf>=45 && cvVal<=0.40);   // acceptable
+    var rowBg='';
+    if(bestEdge>=10 && goodQuality)      rowBg='background:rgba(34,197,94,0.12)';   // green: strong edge, solid player
+    else if(bestEdge>=5 && okQuality)    rowBg='background:rgba(245,158,11,0.08)';  // amber: decent edge, acceptable player
+    // else: no highlight — either no edge, or edge is on a noisy/low-confidence player
     var dot='<span class="cvdot" style="background:'+cvColor(p.cv)+'" title="CV: '+(p.cv||'—')+' — '+cvLabel(p.cv)+'"></span>';
     var adjBadge=p.adj?'<span style="font-size:9px;font-weight:700;color:'+(p.adj_pct>0?'var(--gn)':'var(--rd)')+'"> '+(p.adj_pct>0?'▲':'▼')+Math.abs(p.adj_pct)+'%</span>':'';
     var capBadge=p.capped?'<span style="font-size:9px;color:var(--am)"> ⚡</span>':'';
     var conf=p.conf||0;
     var confBar='<div style="display:flex;align-items:center;gap:4px"><div style="width:36px;height:4px;background:var(--b);border-radius:2px;overflow:hidden"><div style="width:'+conf+'%;height:100%;background:'+(conf>=80?'var(--gn)':conf>=60?'var(--bl)':conf>=40?'var(--am)':'var(--rd)')+';border-radius:2px"></div></div><span style="font-size:9px;color:var(--mu)">'+conf.toFixed(0)+'</span></div>';
-    return '<tr onclick="showDetail(\''+p.name.replace(/'/g,"\\'")+'\')">'
+    return '<tr style="'+rowBg+'" onclick="showDetail(\''+p.name.replace(/'/g,"\\'")+'\')">'
       +'<td>'+dot+'</td>'
       +'<td><span class="pname">'+p.name+'</span>'+adjBadge+capBadge+'</td>'
       +'<td class="pteam">'+p.team+'</td>'
@@ -469,7 +494,7 @@ function renderPlayers(){
       +'<td style="text-align:right" class="pred-v">'+p.pred+'</td>'
       +'<td><div class="spark">'+sparkline(p.last_games)+'</div></td>'
       +'<td>'+confBar+'</td>'
-      +[10,15,20,25,30,35].map(function(t){ return probCell(p.probs[String(t)], p.hit_rates[String(t)]); }).join('')
+      +[10,15,20,25,30,35].map(function(t){ var bo=(p.best_odds||{})[String(t)]; var ed=(p.edges||{})[String(t)]; return probCell(p.probs[String(t)], p.hit_rates[String(t)], bo, ed); }).join('')
       +'</tr>';
   }).join('');
 }
