@@ -1,7 +1,7 @@
 {
   "meta": {
     "round": 17,
-    "generated_at": "2026-07-03 17:59:53",
+    "generated_at": "2026-07-03 18:31:14",
     "model_version": "v2.1",
     "season": 2026
   },
@@ -3664,9 +3664,9 @@
           "team": "Sydney",
           "l10": 29.1,
           "l5": 29.4,
-          "pred": 33.8,
+          "pred": 33.3,
           "cv": 0.124,
-          "confidence": 83.1,
+          "confidence": 83.6,
           "hit_rates": {
             "10": {
               "hits": 15,
@@ -3706,32 +3706,32 @@
             30
           ],
           "capped": false,
-          "adj": false,
-          "adj_pct": 0,
+          "adj": true,
+          "adj_pct": -15.0,
           "probs": {
             "10": {
               "prob": 99.7,
               "odds": 1.0
             },
             "15": {
-              "prob": 98.9,
+              "prob": 98.8,
               "odds": 1.01
             },
             "20": {
-              "prob": 96.4,
+              "prob": 96.2,
               "odds": 1.04
             },
             "25": {
-              "prob": 89.2,
-              "odds": 1.12
+              "prob": 88.3,
+              "odds": 1.13
             },
             "30": {
-              "prob": 71.4,
-              "odds": 1.4
+              "prob": 69.1,
+              "odds": 1.45
             },
             "35": {
-              "prob": 43.0,
-              "odds": 2.33
+              "prob": 40.0,
+              "odds": 2.5
             }
           },
           "best_odds": {
@@ -4121,15 +4121,15 @@
             ]
           },
           "edges": {
-            "24": 9.5,
-            "25": 17.7,
-            "29": 42.1,
-            "30": 53.4,
-            "34": 95.7,
-            "35": 100.0,
-            "39": 113.7,
-            "40": 104.6,
-            "20": 1.3
+            "24": 8.7,
+            "25": 16.5,
+            "29": 38.5,
+            "30": 48.6,
+            "34": 83.7,
+            "35": 85.9,
+            "39": 91.6,
+            "40": 82.0,
+            "20": 1.0
           }
         },
         {
@@ -4137,9 +4137,9 @@
           "team": "Western Bulldogs",
           "l10": 26.8,
           "l5": 29.0,
-          "pred": 32.4,
+          "pred": 30.9,
           "cv": 0.216,
-          "confidence": 79.2,
+          "confidence": 80.9,
           "hit_rates": {
             "10": {
               "hits": 15,
@@ -4179,32 +4179,32 @@
             30
           ],
           "capped": false,
-          "adj": false,
-          "adj_pct": 0,
+          "adj": true,
+          "adj_pct": -5.0,
           "probs": {
             "10": {
-              "prob": 99.1,
+              "prob": 99.0,
               "odds": 1.01
             },
             "15": {
-              "prob": 97.4,
+              "prob": 97.0,
               "odds": 1.03
             },
             "20": {
-              "prob": 93.0,
-              "odds": 1.07
+              "prob": 91.5,
+              "odds": 1.09
             },
             "25": {
-              "prob": 82.5,
-              "odds": 1.21
+              "prob": 78.3,
+              "odds": 1.28
             },
             "30": {
-              "prob": 62.4,
-              "odds": 1.6
+              "prob": 54.7,
+              "odds": 1.83
             },
             "35": {
-              "prob": 36.9,
-              "odds": 2.71
+              "prob": 28.8,
+              "odds": 3.47
             }
           },
           "best_odds": {
@@ -4618,16 +4618,16 @@
             ]
           },
           "edges": {
-            "24": 26.2,
-            "25": 36.1,
-            "29": 67.9,
-            "30": 93.4,
-            "34": 159.6,
-            "35": 186.0,
-            "39": 183.6,
-            "40": 293.2,
-            "20": 4.2,
-            "19": -0.1
+            "24": 21.1,
+            "25": 29.3,
+            "29": 50.2,
+            "30": 69.7,
+            "34": 107.7,
+            "35": 123.2,
+            "39": 101.8,
+            "40": 174.1,
+            "20": 2.5,
+            "19": -1.3
           }
         },
         {
@@ -4635,9 +4635,9 @@
           "team": "Sydney",
           "l10": 26.1,
           "l5": 27.8,
-          "pred": 31.3,
+          "pred": 29.3,
           "cv": 0.177,
-          "confidence": 80.1,
+          "confidence": 82.4,
           "hit_rates": {
             "10": {
               "hits": 15,
@@ -4678,31 +4678,31 @@
           ],
           "capped": false,
           "adj": true,
-          "adj_pct": 8.0,
+          "adj_pct": -18.0,
           "probs": {
             "10": {
-              "prob": 99.4,
+              "prob": 99.3,
               "odds": 1.01
             },
             "15": {
-              "prob": 98.1,
-              "odds": 1.02
+              "prob": 97.5,
+              "odds": 1.03
             },
             "20": {
-              "prob": 93.8,
-              "odds": 1.07
+              "prob": 91.6,
+              "odds": 1.09
             },
             "25": {
-              "prob": 82.0,
-              "odds": 1.22
+              "prob": 75.2,
+              "odds": 1.33
             },
             "30": {
-              "prob": 57.8,
-              "odds": 1.73
+              "prob": 45.7,
+              "odds": 2.19
             },
             "35": {
-              "prob": 29.2,
-              "odds": 3.43
+              "prob": 18.9,
+              "odds": 5.28
             }
           },
           "best_odds": {
@@ -5114,16 +5114,535 @@
             ]
           },
           "edges": {
-            "24": 19.4,
-            "25": 27.1,
-            "29": 55.6,
-            "30": 84.9,
-            "34": 95.9,
-            "35": 147.9,
-            "39": 76.9,
-            "40": 131.4,
-            "20": 2.2,
-            "19": 0.8
+            "24": 11.5,
+            "25": 16.6,
+            "29": 27.6,
+            "30": 46.2,
+            "34": 32.1,
+            "35": 60.8,
+            "39": 0.4,
+            "40": 27.7,
+            "20": -0.1,
+            "19": -1.0
+          }
+        },
+        {
+          "name": "Ed Richards",
+          "team": "Western Bulldogs",
+          "l10": 25.4,
+          "l5": 26.0,
+          "pred": 27.4,
+          "cv": 0.146,
+          "confidence": 85.1,
+          "hit_rates": {
+            "10": {
+              "hits": 15,
+              "total": 15
+            },
+            "15": {
+              "hits": 15,
+              "total": 15
+            },
+            "20": {
+              "hits": 12,
+              "total": 15
+            },
+            "25": {
+              "hits": 9,
+              "total": 15
+            },
+            "30": {
+              "hits": 4,
+              "total": 15
+            },
+            "35": {
+              "hits": 0,
+              "total": 15
+            }
+          },
+          "last_games": [
+            24,
+            28,
+            29,
+            22,
+            30,
+            18,
+            25,
+            27,
+            28,
+            23
+          ],
+          "capped": false,
+          "adj": true,
+          "adj_pct": -13.0,
+          "probs": {
+            "10": {
+              "prob": 99.3,
+              "odds": 1.01
+            },
+            "15": {
+              "prob": 97.1,
+              "odds": 1.03
+            },
+            "20": {
+              "prob": 88.9,
+              "odds": 1.12
+            },
+            "25": {
+              "prob": 66.2,
+              "odds": 1.51
+            },
+            "30": {
+              "prob": 32.3,
+              "odds": 3.1
+            },
+            "35": {
+              "prob": 10.4,
+              "odds": 9.61
+            }
+          },
+          "best_odds": {
+            "19": {
+              "odds": 1.11,
+              "book": "Pointsbet"
+            },
+            "20": {
+              "odds": 1.19,
+              "book": "Ladbrokes"
+            },
+            "21": {
+              "odds": 1.25,
+              "book": "Pointsbet"
+            },
+            "22": {
+              "odds": 1.36,
+              "book": "Pointsbet"
+            },
+            "23": {
+              "odds": 1.48,
+              "book": "Pointsbet"
+            },
+            "24": {
+              "odds": 1.64,
+              "book": "Ladbrokes"
+            },
+            "25": {
+              "odds": 1.87,
+              "book": "Pointsbet"
+            },
+            "26": {
+              "odds": 2.16,
+              "book": "Sportsbet"
+            },
+            "27": {
+              "odds": 2.56,
+              "book": "Sportsbet"
+            },
+            "28": {
+              "odds": 3.13,
+              "book": "Sportsbet"
+            },
+            "29": {
+              "odds": 3.8,
+              "book": "Sportsbet"
+            },
+            "30": {
+              "odds": 4.65,
+              "book": "Sportsbet"
+            },
+            "31": {
+              "odds": 5.4,
+              "book": "Sportsbet"
+            },
+            "32": {
+              "odds": 6.5,
+              "book": "Sportsbet"
+            },
+            "33": {
+              "odds": 8.5,
+              "book": "Sportsbet"
+            },
+            "34": {
+              "odds": 10.0,
+              "book": "Sportsbet"
+            },
+            "35": {
+              "odds": 12.0,
+              "book": "Sportsbet"
+            },
+            "36": {
+              "odds": 13.0,
+              "book": "Sportsbet"
+            },
+            "37": {
+              "odds": 17.0,
+              "book": "Sportsbet"
+            },
+            "40": {
+              "odds": 34.0,
+              "book": "Ladbrokes"
+            },
+            "15": {
+              "odds": 1.01,
+              "book": "BetRight"
+            },
+            "17": {
+              "odds": 1.04,
+              "book": "Pointsbet"
+            },
+            "18": {
+              "odds": 1.07,
+              "book": "Pointsbet"
+            },
+            "38": {
+              "odds": 19.0,
+              "book": "Ladbrokes"
+            },
+            "39": {
+              "odds": 18.0,
+              "book": "Pointsbet"
+            }
+          },
+          "all_odds": {
+            "19": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.11
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.1
+              }
+            ],
+            "20": [
+              {
+                "book": "Ladbrokes",
+                "odds": 1.19
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 1.17
+              },
+              {
+                "book": "BetRight",
+                "odds": 1.15
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.14
+              },
+              {
+                "book": "TAB",
+                "odds": 1.14
+              },
+              {
+                "book": "Betr",
+                "odds": 1.14
+              }
+            ],
+            "21": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.25
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.22
+              }
+            ],
+            "22": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.36
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 1.36
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.31
+              }
+            ],
+            "23": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.48
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.45
+              }
+            ],
+            "24": [
+              {
+                "book": "Ladbrokes",
+                "odds": 1.64
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.63
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 1.63
+              }
+            ],
+            "25": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.87
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 1.87
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.85
+              },
+              {
+                "book": "BetRight",
+                "odds": 1.82
+              },
+              {
+                "book": "Betr",
+                "odds": 1.75
+              },
+              {
+                "book": "TAB",
+                "odds": 1.68
+              }
+            ],
+            "26": [
+              {
+                "book": "Sportsbet",
+                "odds": 2.16
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 2.1
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 2.05
+              }
+            ],
+            "27": [
+              {
+                "book": "Sportsbet",
+                "odds": 2.56
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 2.45
+              }
+            ],
+            "28": [
+              {
+                "book": "Sportsbet",
+                "odds": 3.13
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 2.75
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 2.7
+              }
+            ],
+            "29": [
+              {
+                "book": "Sportsbet",
+                "odds": 3.8
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 3.2
+              }
+            ],
+            "30": [
+              {
+                "book": "Sportsbet",
+                "odds": 4.65
+              },
+              {
+                "book": "BetRight",
+                "odds": 4.33
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 3.8
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 3.8
+              },
+              {
+                "book": "Betr",
+                "odds": 3.6
+              },
+              {
+                "book": "TAB",
+                "odds": 3.4
+              }
+            ],
+            "31": [
+              {
+                "book": "Sportsbet",
+                "odds": 5.4
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 4.5
+              }
+            ],
+            "32": [
+              {
+                "book": "Sportsbet",
+                "odds": 6.5
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 5.25
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 5.25
+              }
+            ],
+            "33": [
+              {
+                "book": "Sportsbet",
+                "odds": 8.5
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 6.0
+              }
+            ],
+            "34": [
+              {
+                "book": "Sportsbet",
+                "odds": 10.0
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 8.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 7.5
+              }
+            ],
+            "35": [
+              {
+                "book": "Sportsbet",
+                "odds": 12.0
+              },
+              {
+                "book": "Betr",
+                "odds": 10.0
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 10.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 9.5
+              },
+              {
+                "book": "TAB",
+                "odds": 9.0
+              }
+            ],
+            "36": [
+              {
+                "book": "Sportsbet",
+                "odds": 13.0
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 12.5
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 11.0
+              }
+            ],
+            "37": [
+              {
+                "book": "Sportsbet",
+                "odds": 17.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 13.0
+              }
+            ],
+            "40": [
+              {
+                "book": "Ladbrokes",
+                "odds": 34.0
+              },
+              {
+                "book": "TAB",
+                "odds": 31.0
+              }
+            ],
+            "15": [
+              {
+                "book": "BetRight",
+                "odds": 1.01
+              }
+            ],
+            "17": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.04
+              }
+            ],
+            "18": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.07
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 1.05
+              }
+            ],
+            "38": [
+              {
+                "book": "Ladbrokes",
+                "odds": 19.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 16.0
+              }
+            ],
+            "39": [
+              {
+                "book": "Pointsbet",
+                "odds": 18.0
+              }
+            ]
+          },
+          "edges": {
+            "19": 1.5,
+            "20": 5.8,
+            "24": 18.4,
+            "25": 23.7,
+            "29": 47.2,
+            "30": 50.1,
+            "34": 33.5,
+            "35": 24.9,
+            "40": -6.4,
+            "15": -2.0,
+            "39": -34.9
           }
         },
         {
@@ -5131,9 +5650,9 @@
           "team": "Sydney",
           "l10": 26.4,
           "l5": 26.9,
-          "pred": 30.9,
+          "pred": 26.9,
           "cv": 0.23,
-          "confidence": 82.6,
+          "confidence": 87.1,
           "hit_rates": {
             "10": {
               "hits": 15,
@@ -5174,31 +5693,31 @@
           ],
           "capped": false,
           "adj": true,
-          "adj_pct": 15.0,
+          "adj_pct": -15.0,
           "probs": {
             "10": {
-              "prob": 98.9,
-              "odds": 1.01
+              "prob": 98.5,
+              "odds": 1.02
             },
             "15": {
-              "prob": 96.8,
-              "odds": 1.03
+              "prob": 95.0,
+              "odds": 1.05
             },
             "20": {
-              "prob": 91.2,
-              "odds": 1.1
+              "prob": 84.5,
+              "odds": 1.18
             },
             "25": {
-              "prob": 78.0,
-              "odds": 1.28
+              "prob": 61.3,
+              "odds": 1.63
             },
             "30": {
-              "prob": 54.7,
-              "odds": 1.83
+              "prob": 31.4,
+              "odds": 3.18
             },
             "35": {
-              "prob": 29.1,
-              "odds": 3.43
+              "prob": 11.7,
+              "odds": 8.53
             }
           },
           "best_odds": {
@@ -5640,1044 +6159,17 @@
             ]
           },
           "edges": {
-            "19": 3.0,
-            "20": 7.7,
-            "24": 39.3,
-            "25": 45.9,
-            "29": 97.9,
-            "30": 118.9,
-            "34": 153.4,
-            "35": 220.6,
-            "39": 166.4,
-            "40": 317.6,
-            "15": -2.2
-          }
-        },
-        {
-          "name": "Ed Richards",
-          "team": "Western Bulldogs",
-          "l10": 25.4,
-          "l5": 26.0,
-          "pred": 30.0,
-          "cv": 0.146,
-          "confidence": 82.1,
-          "hit_rates": {
-            "10": {
-              "hits": 15,
-              "total": 15
-            },
-            "15": {
-              "hits": 15,
-              "total": 15
-            },
-            "20": {
-              "hits": 12,
-              "total": 15
-            },
-            "25": {
-              "hits": 9,
-              "total": 15
-            },
-            "30": {
-              "hits": 4,
-              "total": 15
-            },
-            "35": {
-              "hits": 0,
-              "total": 15
-            }
-          },
-          "last_games": [
-            24,
-            28,
-            29,
-            22,
-            30,
-            18,
-            25,
-            27,
-            28,
-            23
-          ],
-          "capped": false,
-          "adj": false,
-          "adj_pct": 0,
-          "probs": {
-            "10": {
-              "prob": 99.4,
-              "odds": 1.01
-            },
-            "15": {
-              "prob": 97.9,
-              "odds": 1.02
-            },
-            "20": {
-              "prob": 92.9,
-              "odds": 1.08
-            },
-            "25": {
-              "prob": 78.4,
-              "odds": 1.28
-            },
-            "30": {
-              "prob": 50.0,
-              "odds": 2.0
-            },
-            "35": {
-              "prob": 21.6,
-              "odds": 4.62
-            }
-          },
-          "best_odds": {
-            "19": {
-              "odds": 1.11,
-              "book": "Pointsbet"
-            },
-            "20": {
-              "odds": 1.19,
-              "book": "Ladbrokes"
-            },
-            "21": {
-              "odds": 1.25,
-              "book": "Pointsbet"
-            },
-            "22": {
-              "odds": 1.36,
-              "book": "Pointsbet"
-            },
-            "23": {
-              "odds": 1.48,
-              "book": "Pointsbet"
-            },
-            "24": {
-              "odds": 1.64,
-              "book": "Ladbrokes"
-            },
-            "25": {
-              "odds": 1.87,
-              "book": "Pointsbet"
-            },
-            "26": {
-              "odds": 2.16,
-              "book": "Sportsbet"
-            },
-            "27": {
-              "odds": 2.56,
-              "book": "Sportsbet"
-            },
-            "28": {
-              "odds": 3.13,
-              "book": "Sportsbet"
-            },
-            "29": {
-              "odds": 3.8,
-              "book": "Sportsbet"
-            },
-            "30": {
-              "odds": 4.65,
-              "book": "Sportsbet"
-            },
-            "31": {
-              "odds": 5.4,
-              "book": "Sportsbet"
-            },
-            "32": {
-              "odds": 6.5,
-              "book": "Sportsbet"
-            },
-            "33": {
-              "odds": 8.5,
-              "book": "Sportsbet"
-            },
-            "34": {
-              "odds": 10.0,
-              "book": "Sportsbet"
-            },
-            "35": {
-              "odds": 12.0,
-              "book": "Sportsbet"
-            },
-            "36": {
-              "odds": 13.0,
-              "book": "Sportsbet"
-            },
-            "37": {
-              "odds": 17.0,
-              "book": "Sportsbet"
-            },
-            "40": {
-              "odds": 34.0,
-              "book": "Ladbrokes"
-            },
-            "15": {
-              "odds": 1.01,
-              "book": "BetRight"
-            },
-            "17": {
-              "odds": 1.04,
-              "book": "Pointsbet"
-            },
-            "18": {
-              "odds": 1.07,
-              "book": "Pointsbet"
-            },
-            "38": {
-              "odds": 19.0,
-              "book": "Ladbrokes"
-            },
-            "39": {
-              "odds": 18.0,
-              "book": "Pointsbet"
-            }
-          },
-          "all_odds": {
-            "19": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.11
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.1
-              }
-            ],
-            "20": [
-              {
-                "book": "Ladbrokes",
-                "odds": 1.19
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 1.17
-              },
-              {
-                "book": "BetRight",
-                "odds": 1.15
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.14
-              },
-              {
-                "book": "TAB",
-                "odds": 1.14
-              },
-              {
-                "book": "Betr",
-                "odds": 1.14
-              }
-            ],
-            "21": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.25
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.22
-              }
-            ],
-            "22": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.36
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 1.36
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.31
-              }
-            ],
-            "23": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.48
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.45
-              }
-            ],
-            "24": [
-              {
-                "book": "Ladbrokes",
-                "odds": 1.64
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.63
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 1.63
-              }
-            ],
-            "25": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.87
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 1.87
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.85
-              },
-              {
-                "book": "BetRight",
-                "odds": 1.82
-              },
-              {
-                "book": "Betr",
-                "odds": 1.75
-              },
-              {
-                "book": "TAB",
-                "odds": 1.68
-              }
-            ],
-            "26": [
-              {
-                "book": "Sportsbet",
-                "odds": 2.16
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 2.1
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 2.05
-              }
-            ],
-            "27": [
-              {
-                "book": "Sportsbet",
-                "odds": 2.56
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 2.45
-              }
-            ],
-            "28": [
-              {
-                "book": "Sportsbet",
-                "odds": 3.13
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 2.75
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 2.7
-              }
-            ],
-            "29": [
-              {
-                "book": "Sportsbet",
-                "odds": 3.8
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 3.2
-              }
-            ],
-            "30": [
-              {
-                "book": "Sportsbet",
-                "odds": 4.65
-              },
-              {
-                "book": "BetRight",
-                "odds": 4.33
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 3.8
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 3.8
-              },
-              {
-                "book": "Betr",
-                "odds": 3.6
-              },
-              {
-                "book": "TAB",
-                "odds": 3.4
-              }
-            ],
-            "31": [
-              {
-                "book": "Sportsbet",
-                "odds": 5.4
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 4.5
-              }
-            ],
-            "32": [
-              {
-                "book": "Sportsbet",
-                "odds": 6.5
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 5.25
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 5.25
-              }
-            ],
-            "33": [
-              {
-                "book": "Sportsbet",
-                "odds": 8.5
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 6.0
-              }
-            ],
-            "34": [
-              {
-                "book": "Sportsbet",
-                "odds": 10.0
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 8.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 7.5
-              }
-            ],
-            "35": [
-              {
-                "book": "Sportsbet",
-                "odds": 12.0
-              },
-              {
-                "book": "Betr",
-                "odds": 10.0
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 10.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 9.5
-              },
-              {
-                "book": "TAB",
-                "odds": 9.0
-              }
-            ],
-            "36": [
-              {
-                "book": "Sportsbet",
-                "odds": 13.0
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 12.5
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 11.0
-              }
-            ],
-            "37": [
-              {
-                "book": "Sportsbet",
-                "odds": 17.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 13.0
-              }
-            ],
-            "40": [
-              {
-                "book": "Ladbrokes",
-                "odds": 34.0
-              },
-              {
-                "book": "TAB",
-                "odds": 31.0
-              }
-            ],
-            "15": [
-              {
-                "book": "BetRight",
-                "odds": 1.01
-              }
-            ],
-            "17": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.04
-              }
-            ],
-            "18": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.07
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 1.05
-              }
-            ],
-            "38": [
-              {
-                "book": "Ladbrokes",
-                "odds": 19.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 16.0
-              }
-            ],
-            "39": [
-              {
-                "book": "Pointsbet",
-                "odds": 18.0
-              }
-            ]
-          },
-          "edges": {
-            "19": 4.8,
-            "20": 10.6,
-            "24": 35.2,
-            "25": 46.6,
-            "29": 114.5,
-            "30": 132.7,
-            "34": 163.3,
-            "35": 159.8,
-            "40": 140.7,
-            "15": -1.1,
-            "39": 61.5
-          }
-        },
-        {
-          "name": "Ryley Sanders",
-          "team": "Western Bulldogs",
-          "l10": 25.7,
-          "l5": 25.0,
-          "pred": 29.5,
-          "cv": 0.202,
-          "confidence": 82.9,
-          "hit_rates": {
-            "10": {
-              "hits": 15,
-              "total": 15
-            },
-            "15": {
-              "hits": 15,
-              "total": 15
-            },
-            "20": {
-              "hits": 12,
-              "total": 15
-            },
-            "25": {
-              "hits": 9,
-              "total": 15
-            },
-            "30": {
-              "hits": 3,
-              "total": 15
-            },
-            "35": {
-              "hits": 0,
-              "total": 15
-            }
-          },
-          "last_games": [
-            23,
-            19,
-            34,
-            25,
-            25,
-            28,
-            25,
-            31,
-            19,
-            20
-          ],
-          "capped": false,
-          "adj": false,
-          "adj_pct": 0,
-          "probs": {
-            "10": {
-              "prob": 99.5,
-              "odds": 1.01
-            },
-            "15": {
-              "prob": 98.0,
-              "odds": 1.02
-            },
-            "20": {
-              "prob": 92.7,
-              "odds": 1.08
-            },
-            "25": {
-              "prob": 76.9,
-              "odds": 1.3
-            },
-            "30": {
-              "prob": 46.5,
-              "odds": 2.15
-            },
-            "35": {
-              "prob": 18.5,
-              "odds": 5.4
-            }
-          },
-          "best_odds": {
-            "16": {
-              "odds": 1.09,
-              "book": "Pointsbet"
-            },
-            "17": {
-              "odds": 1.14,
-              "book": "Pointsbet"
-            },
-            "18": {
-              "odds": 1.24,
-              "book": "Pointsbet"
-            },
-            "19": {
-              "odds": 1.33,
-              "book": "Pointsbet"
-            },
-            "20": {
-              "odds": 1.48,
-              "book": "Pointsbet"
-            },
-            "21": {
-              "odds": 1.67,
-              "book": "Pointsbet"
-            },
-            "22": {
-              "odds": 1.87,
-              "book": "Pointsbet"
-            },
-            "23": {
-              "odds": 2.2,
-              "book": "Pointsbet"
-            },
-            "24": {
-              "odds": 2.63,
-              "book": "Sportsbet"
-            },
-            "25": {
-              "odds": 3.22,
-              "book": "Sportsbet"
-            },
-            "26": {
-              "odds": 4.0,
-              "book": "Sportsbet"
-            },
-            "27": {
-              "odds": 4.8,
-              "book": "Sportsbet"
-            },
-            "28": {
-              "odds": 6.0,
-              "book": "Sportsbet"
-            },
-            "29": {
-              "odds": 7.5,
-              "book": "Sportsbet"
-            },
-            "30": {
-              "odds": 9.5,
-              "book": "Sportsbet"
-            },
-            "31": {
-              "odds": 10.0,
-              "book": "Sportsbet"
-            },
-            "32": {
-              "odds": 12.0,
-              "book": "Sportsbet"
-            },
-            "33": {
-              "odds": 15.0,
-              "book": "Sportsbet"
-            },
-            "35": {
-              "odds": 23.0,
-              "book": "Ladbrokes"
-            },
-            "40": {
-              "odds": 61.0,
-              "book": "TAB"
-            },
-            "15": {
-              "odds": 1.05,
-              "book": "Pointsbet"
-            },
-            "34": {
-              "odds": 19.0,
-              "book": "Ladbrokes"
-            },
-            "36": {
-              "odds": 31.0,
-              "book": "Ladbrokes"
-            },
-            "38": {
-              "odds": 51.0,
-              "book": "Ladbrokes"
-            }
-          },
-          "all_odds": {
-            "16": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.09
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.07
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 1.07
-              }
-            ],
-            "17": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.14
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.13
-              }
-            ],
-            "18": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.24
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 1.22
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.2
-              }
-            ],
-            "19": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.33
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.3
-              }
-            ],
-            "20": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.48
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 1.48
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.42
-              },
-              {
-                "book": "Betr",
-                "odds": 1.35
-              },
-              {
-                "book": "BetRight",
-                "odds": 1.26
-              },
-              {
-                "book": "TAB",
-                "odds": 1.24
-              }
-            ],
-            "21": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.67
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.61
-              }
-            ],
-            "22": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.87
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 1.85
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 1.8
-              }
-            ],
-            "23": [
-              {
-                "book": "Pointsbet",
-                "odds": 2.2
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 2.17
-              }
-            ],
-            "24": [
-              {
-                "book": "Sportsbet",
-                "odds": 2.63
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 2.5
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 2.35
-              }
-            ],
-            "25": [
-              {
-                "book": "Sportsbet",
-                "odds": 3.22
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 3.0
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 2.8
-              },
-              {
-                "book": "Betr",
-                "odds": 2.5
-              },
-              {
-                "book": "BetRight",
-                "odds": 2.3
-              },
-              {
-                "book": "TAB",
-                "odds": 2.05
-              }
-            ],
-            "26": [
-              {
-                "book": "Sportsbet",
-                "odds": 4.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 3.5
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 3.25
-              }
-            ],
-            "27": [
-              {
-                "book": "Sportsbet",
-                "odds": 4.8
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 4.1
-              }
-            ],
-            "28": [
-              {
-                "book": "Sportsbet",
-                "odds": 6.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 4.75
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 4.6
-              }
-            ],
-            "29": [
-              {
-                "book": "Sportsbet",
-                "odds": 7.5
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 5.5
-              }
-            ],
-            "30": [
-              {
-                "book": "Sportsbet",
-                "odds": 9.5
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 7.0
-              },
-              {
-                "book": "Betr",
-                "odds": 6.5
-              },
-              {
-                "book": "BetRight",
-                "odds": 6.5
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 6.5
-              },
-              {
-                "book": "TAB",
-                "odds": 4.75
-              }
-            ],
-            "31": [
-              {
-                "book": "Sportsbet",
-                "odds": 10.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 8.0
-              }
-            ],
-            "32": [
-              {
-                "book": "Sportsbet",
-                "odds": 12.0
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 11.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 10.0
-              }
-            ],
-            "33": [
-              {
-                "book": "Sportsbet",
-                "odds": 15.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 12.0
-              }
-            ],
-            "35": [
-              {
-                "book": "Ladbrokes",
-                "odds": 23.0
-              },
-              {
-                "book": "Betr",
-                "odds": 19.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 16.0
-              },
-              {
-                "book": "TAB",
-                "odds": 15.0
-              }
-            ],
-            "40": [
-              {
-                "book": "TAB",
-                "odds": 61.0
-              }
-            ],
-            "15": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.05
-              },
-              {
-                "book": "BetRight",
-                "odds": 1.03
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 1.01
-              }
-            ],
-            "34": [
-              {
-                "book": "Ladbrokes",
-                "odds": 19.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 14.0
-              }
-            ],
-            "36": [
-              {
-                "book": "Ladbrokes",
-                "odds": 31.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 21.0
-              }
-            ],
-            "38": [
-              {
-                "book": "Ladbrokes",
-                "odds": 51.0
-              }
-            ]
-          },
-          "edges": {
-            "19": 25.5,
-            "20": 37.2,
-            "24": 113.8,
-            "25": 147.5,
-            "29": 299.1,
-            "30": 341.9,
-            "35": 326.2,
-            "40": 242.5,
-            "15": 2.9,
-            "34": 335.5
+            "19": -2.9,
+            "20": -0.3,
+            "24": 14.5,
+            "25": 14.6,
+            "29": 22.1,
+            "30": 25.8,
+            "34": 9.1,
+            "35": 29.0,
+            "39": -15.4,
+            "40": 26.0,
+            "15": -4.1
           }
         },
         {
@@ -7685,6 +7177,513 @@
           }
         },
         {
+          "name": "Ryley Sanders",
+          "team": "Western Bulldogs",
+          "l10": 25.7,
+          "l5": 25.0,
+          "pred": 24.8,
+          "cv": 0.202,
+          "confidence": 86.3,
+          "hit_rates": {
+            "10": {
+              "hits": 15,
+              "total": 15
+            },
+            "15": {
+              "hits": 15,
+              "total": 15
+            },
+            "20": {
+              "hits": 12,
+              "total": 15
+            },
+            "25": {
+              "hits": 9,
+              "total": 15
+            },
+            "30": {
+              "hits": 3,
+              "total": 15
+            },
+            "35": {
+              "hits": 0,
+              "total": 15
+            }
+          },
+          "last_games": [
+            23,
+            19,
+            34,
+            25,
+            25,
+            28,
+            25,
+            31,
+            19,
+            20
+          ],
+          "capped": false,
+          "adj": true,
+          "adj_pct": -18.0,
+          "probs": {
+            "10": {
+              "prob": 99.1,
+              "odds": 1.01
+            },
+            "15": {
+              "prob": 95.8,
+              "odds": 1.04
+            },
+            "20": {
+              "prob": 82.4,
+              "odds": 1.21
+            },
+            "25": {
+              "prob": 48.8,
+              "odds": 2.05
+            },
+            "30": {
+              "prob": 16.2,
+              "odds": 6.16
+            },
+            "35": {
+              "prob": 3.8,
+              "odds": 26.33
+            }
+          },
+          "best_odds": {
+            "16": {
+              "odds": 1.09,
+              "book": "Pointsbet"
+            },
+            "17": {
+              "odds": 1.14,
+              "book": "Pointsbet"
+            },
+            "18": {
+              "odds": 1.24,
+              "book": "Pointsbet"
+            },
+            "19": {
+              "odds": 1.33,
+              "book": "Pointsbet"
+            },
+            "20": {
+              "odds": 1.48,
+              "book": "Pointsbet"
+            },
+            "21": {
+              "odds": 1.67,
+              "book": "Pointsbet"
+            },
+            "22": {
+              "odds": 1.87,
+              "book": "Pointsbet"
+            },
+            "23": {
+              "odds": 2.2,
+              "book": "Pointsbet"
+            },
+            "24": {
+              "odds": 2.63,
+              "book": "Sportsbet"
+            },
+            "25": {
+              "odds": 3.22,
+              "book": "Sportsbet"
+            },
+            "26": {
+              "odds": 4.0,
+              "book": "Sportsbet"
+            },
+            "27": {
+              "odds": 4.8,
+              "book": "Sportsbet"
+            },
+            "28": {
+              "odds": 6.0,
+              "book": "Sportsbet"
+            },
+            "29": {
+              "odds": 7.5,
+              "book": "Sportsbet"
+            },
+            "30": {
+              "odds": 9.5,
+              "book": "Sportsbet"
+            },
+            "31": {
+              "odds": 10.0,
+              "book": "Sportsbet"
+            },
+            "32": {
+              "odds": 12.0,
+              "book": "Sportsbet"
+            },
+            "33": {
+              "odds": 15.0,
+              "book": "Sportsbet"
+            },
+            "35": {
+              "odds": 23.0,
+              "book": "Ladbrokes"
+            },
+            "40": {
+              "odds": 61.0,
+              "book": "TAB"
+            },
+            "15": {
+              "odds": 1.05,
+              "book": "Pointsbet"
+            },
+            "34": {
+              "odds": 19.0,
+              "book": "Ladbrokes"
+            },
+            "36": {
+              "odds": 31.0,
+              "book": "Ladbrokes"
+            },
+            "38": {
+              "odds": 51.0,
+              "book": "Ladbrokes"
+            }
+          },
+          "all_odds": {
+            "16": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.09
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.07
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 1.07
+              }
+            ],
+            "17": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.14
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.13
+              }
+            ],
+            "18": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.24
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 1.22
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.2
+              }
+            ],
+            "19": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.33
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.3
+              }
+            ],
+            "20": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.48
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 1.48
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.42
+              },
+              {
+                "book": "Betr",
+                "odds": 1.35
+              },
+              {
+                "book": "BetRight",
+                "odds": 1.26
+              },
+              {
+                "book": "TAB",
+                "odds": 1.24
+              }
+            ],
+            "21": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.67
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.61
+              }
+            ],
+            "22": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.87
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 1.85
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 1.8
+              }
+            ],
+            "23": [
+              {
+                "book": "Pointsbet",
+                "odds": 2.2
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 2.17
+              }
+            ],
+            "24": [
+              {
+                "book": "Sportsbet",
+                "odds": 2.63
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 2.5
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 2.35
+              }
+            ],
+            "25": [
+              {
+                "book": "Sportsbet",
+                "odds": 3.22
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 3.0
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 2.8
+              },
+              {
+                "book": "Betr",
+                "odds": 2.5
+              },
+              {
+                "book": "BetRight",
+                "odds": 2.3
+              },
+              {
+                "book": "TAB",
+                "odds": 2.05
+              }
+            ],
+            "26": [
+              {
+                "book": "Sportsbet",
+                "odds": 4.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 3.5
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 3.25
+              }
+            ],
+            "27": [
+              {
+                "book": "Sportsbet",
+                "odds": 4.8
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 4.1
+              }
+            ],
+            "28": [
+              {
+                "book": "Sportsbet",
+                "odds": 6.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 4.75
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 4.6
+              }
+            ],
+            "29": [
+              {
+                "book": "Sportsbet",
+                "odds": 7.5
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 5.5
+              }
+            ],
+            "30": [
+              {
+                "book": "Sportsbet",
+                "odds": 9.5
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 7.0
+              },
+              {
+                "book": "Betr",
+                "odds": 6.5
+              },
+              {
+                "book": "BetRight",
+                "odds": 6.5
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 6.5
+              },
+              {
+                "book": "TAB",
+                "odds": 4.75
+              }
+            ],
+            "31": [
+              {
+                "book": "Sportsbet",
+                "odds": 10.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 8.0
+              }
+            ],
+            "32": [
+              {
+                "book": "Sportsbet",
+                "odds": 12.0
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 11.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 10.0
+              }
+            ],
+            "33": [
+              {
+                "book": "Sportsbet",
+                "odds": 15.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 12.0
+              }
+            ],
+            "35": [
+              {
+                "book": "Ladbrokes",
+                "odds": 23.0
+              },
+              {
+                "book": "Betr",
+                "odds": 19.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 16.0
+              },
+              {
+                "book": "TAB",
+                "odds": 15.0
+              }
+            ],
+            "40": [
+              {
+                "book": "TAB",
+                "odds": 61.0
+              }
+            ],
+            "15": [
+              {
+                "book": "Pointsbet",
+                "odds": 1.05
+              },
+              {
+                "book": "BetRight",
+                "odds": 1.03
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 1.01
+              }
+            ],
+            "34": [
+              {
+                "book": "Ladbrokes",
+                "odds": 19.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 14.0
+              }
+            ],
+            "36": [
+              {
+                "book": "Ladbrokes",
+                "odds": 31.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 21.0
+              }
+            ],
+            "38": [
+              {
+                "book": "Ladbrokes",
+                "odds": 51.0
+              }
+            ]
+          },
+          "edges": {
+            "19": 15.1,
+            "20": 21.9,
+            "24": 49.1,
+            "25": 57.0,
+            "29": 57.8,
+            "30": 54.3,
+            "35": -12.6,
+            "15": 0.6,
+            "34": -2.2
+          }
+        },
+        {
           "name": "Callum Mills",
           "team": "Sydney",
           "l10": 24.0,
@@ -7743,7 +7742,7 @@
               "odds": 1.06
             },
             "20": {
-              "prob": 79.1,
+              "prob": 79.2,
               "odds": 1.26
             },
             "25": {
@@ -7752,11 +7751,11 @@
             },
             "30": {
               "prob": 14.8,
-              "odds": 6.78
+              "odds": 6.76
             },
             "35": {
               "prob": 3.6,
-              "odds": 28.04
+              "odds": 27.97
             }
           },
           "best_odds": {
@@ -8183,12 +8182,12 @@
           },
           "edges": {
             "20": -9.8,
-            "24": -20.3,
-            "25": -23.9,
-            "29": -44.1,
-            "30": -49.1,
+            "24": -20.2,
+            "25": -23.8,
+            "29": -44.0,
+            "30": -49.0,
             "34": -64.0,
-            "35": -66.1,
+            "35": -66.0,
             "19": -9.5
           }
         },
@@ -8247,7 +8246,7 @@
               "odds": 1.03
             },
             "15": {
-              "prob": 89.9,
+              "prob": 90.0,
               "odds": 1.11
             },
             "20": {
@@ -8255,16 +8254,16 @@
               "odds": 1.38
             },
             "25": {
-              "prob": 43.6,
-              "odds": 2.29
+              "prob": 43.8,
+              "odds": 2.28
             },
             "30": {
-              "prob": 18.6,
-              "odds": 5.39
+              "prob": 18.7,
+              "odds": 5.36
             },
             "35": {
               "prob": 6.3,
-              "odds": 15.9
+              "odds": 15.8
             }
           },
           "best_odds": {
@@ -8698,16 +8697,16 @@
             ]
           },
           "edges": {
-            "19": -14.5,
-            "20": -13.8,
-            "24": -16.0,
-            "25": -18.4,
-            "29": -22.2,
-            "30": -20.2,
-            "34": -25.0,
-            "35": -30.8,
-            "15": -9.2,
-            "39": -55.7
+            "19": -14.4,
+            "20": -13.7,
+            "24": -15.8,
+            "25": -18.2,
+            "29": -21.9,
+            "30": -19.8,
+            "34": -24.5,
+            "35": -30.4,
+            "15": -9.1,
+            "39": -55.4
           }
         },
         {
@@ -9274,28 +9273,28 @@
           "adj_pct": 0,
           "probs": {
             "10": {
-              "prob": 95.0,
+              "prob": 95.1,
               "odds": 1.05
             },
             "15": {
-              "prob": 86.6,
-              "odds": 1.16
+              "prob": 86.7,
+              "odds": 1.15
             },
             "20": {
-              "prob": 68.4,
+              "prob": 68.7,
               "odds": 1.46
             },
             "25": {
-              "prob": 42.2,
-              "odds": 2.37
+              "prob": 42.5,
+              "odds": 2.35
             },
             "30": {
-              "prob": 19.7,
-              "odds": 5.07
+              "prob": 20.0,
+              "odds": 5.0
             },
             "35": {
-              "prob": 7.6,
-              "odds": 13.07
+              "prob": 7.8,
+              "odds": 12.86
             }
           },
           "best_odds": {
@@ -9719,17 +9718,17 @@
             ]
           },
           "edges": {
-            "14": -2.2,
-            "15": -1.3,
-            "19": 23.3,
-            "20": 28.0,
-            "24": 78.5,
-            "25": 102.6,
-            "29": 122.5,
-            "30": 156.6,
-            "35": 290.1,
-            "40": 174.1,
-            "34": 282.8
+            "14": -2.1,
+            "15": -1.2,
+            "19": 23.6,
+            "20": 28.4,
+            "24": 79.6,
+            "25": 104.1,
+            "29": 125.0,
+            "30": 159.8,
+            "35": 296.6,
+            "40": 179.6,
+            "34": 288.9
           }
         },
         {
@@ -9783,28 +9782,28 @@
           "adj_pct": 0,
           "probs": {
             "10": {
-              "prob": 92.2,
+              "prob": 92.3,
               "odds": 1.08
             },
             "15": {
-              "prob": 82.2,
+              "prob": 82.3,
               "odds": 1.22
             },
             "20": {
-              "prob": 64.2,
-              "odds": 1.56
+              "prob": 64.4,
+              "odds": 1.55
             },
             "25": {
-              "prob": 41.1,
-              "odds": 2.43
+              "prob": 41.3,
+              "odds": 2.42
             },
             "30": {
-              "prob": 21.3,
-              "odds": 4.68
+              "prob": 21.5,
+              "odds": 4.65
             },
             "35": {
-              "prob": 9.5,
-              "odds": 10.48
+              "prob": 9.6,
+              "odds": 10.39
             }
           },
           "best_odds": {
@@ -10220,17 +10219,17 @@
             ]
           },
           "edges": {
-            "15": -9.6,
-            "19": 1.3,
-            "20": 10.5,
-            "24": 42.8,
-            "25": 74.7,
-            "29": 134.6,
-            "30": 156.2,
-            "35": 291.3,
-            "40": 297.9,
+            "15": -9.5,
+            "19": 1.5,
+            "20": 10.7,
+            "24": 43.3,
+            "25": 75.4,
+            "29": 136.0,
+            "30": 157.8,
+            "35": 294.7,
+            "40": 302.1,
             "14": -11.8,
-            "34": 193.9
+            "34": 196.3
           }
         },
         {
@@ -10292,20 +10291,20 @@
               "odds": 1.17
             },
             "20": {
-              "prob": 61.7,
+              "prob": 61.9,
               "odds": 1.62
             },
             "25": {
-              "prob": 31.0,
-              "odds": 3.23
+              "prob": 31.2,
+              "odds": 3.21
             },
             "30": {
-              "prob": 11.1,
-              "odds": 9.0
+              "prob": 11.2,
+              "odds": 8.93
             },
             "35": {
               "prob": 3.4,
-              "odds": 29.76
+              "odds": 29.44
             }
           },
           "best_odds": {
@@ -10715,16 +10714,16 @@
             ]
           },
           "edges": {
-            "14": -2.1,
-            "15": 2.3,
-            "19": 26.4,
-            "20": 35.8,
-            "24": 50.5,
-            "25": 54.9,
-            "29": 52.8,
-            "30": 88.8,
-            "35": 172.2,
-            "34": 76.2
+            "14": -2.0,
+            "15": 2.4,
+            "19": 26.6,
+            "20": 36.1,
+            "24": 51.2,
+            "25": 55.8,
+            "29": 54.1,
+            "30": 90.4,
+            "35": 175.1,
+            "34": 78.0
           }
         },
         {
@@ -10782,20 +10781,20 @@
               "odds": 1.03
             },
             "15": {
-              "prob": 87.2,
+              "prob": 87.3,
               "odds": 1.15
             },
             "20": {
-              "prob": 59.3,
-              "odds": 1.69
+              "prob": 59.5,
+              "odds": 1.68
             },
             "25": {
-              "prob": 23.7,
-              "odds": 4.21
+              "prob": 23.9,
+              "odds": 4.19
             },
             "30": {
-              "prob": 6.2,
-              "odds": 16.05
+              "prob": 6.3,
+              "odds": 15.93
             },
             "35": {
               "prob": 1.4,
@@ -11219,13 +11218,13 @@
             ]
           },
           "edges": {
-            "15": -5.8,
-            "19": -1.5,
-            "20": -0.9,
-            "24": -8.9,
-            "25": -12.1,
-            "29": -29.5,
-            "30": -37.7,
+            "15": -5.7,
+            "19": -1.4,
+            "20": -0.7,
+            "24": -8.5,
+            "25": -11.7,
+            "29": -29.0,
+            "30": -37.2,
             "14": -5.2
           }
         },
@@ -11281,26 +11280,26 @@
           "probs": {
             "10": {
               "prob": 93.9,
-              "odds": 1.07
+              "odds": 1.06
             },
             "15": {
-              "prob": 79.4,
+              "prob": 79.6,
               "odds": 1.26
             },
             "20": {
-              "prob": 49.3,
-              "odds": 2.03
+              "prob": 49.6,
+              "odds": 2.02
             },
             "25": {
-              "prob": 19.7,
-              "odds": 5.08
+              "prob": 19.9,
+              "odds": 5.03
             },
             "30": {
-              "prob": 5.8,
-              "odds": 17.22
+              "prob": 5.9,
+              "odds": 16.98
             },
             "35": {
-              "prob": 1.5,
+              "prob": 1.6,
               "odds": null
             }
           },
@@ -11691,15 +11690,15 @@
             ]
           },
           "edges": {
-            "19": -6.2,
-            "20": -7.8,
-            "24": -12.2,
-            "25": -17.4,
-            "29": -28.6,
-            "30": -24.5,
-            "15": -9.4,
-            "14": -9.7,
-            "34": -17.8
+            "19": -5.8,
+            "20": -7.3,
+            "24": -11.4,
+            "25": -16.5,
+            "29": -27.7,
+            "30": -23.4,
+            "15": -9.3,
+            "14": -9.6,
+            "34": -16.4
           }
         },
         {
@@ -14115,16 +14114,16 @@
               "odds": 1.09
             },
             "15": {
-              "prob": 61.3,
+              "prob": 61.4,
               "odds": 1.63
             },
             "20": {
               "prob": 17.8,
-              "odds": 5.63
+              "odds": 5.62
             },
             "25": {
               "prob": 2.9,
-              "odds": 35.0
+              "odds": 34.95
             },
             "30": {
               "prob": 0.4,
@@ -14501,11 +14500,11 @@
           },
           "edges": {
             "14": 5.4,
-            "15": 7.3,
-            "19": -22.1,
+            "15": 7.4,
+            "19": -22.0,
             "20": -21.8,
             "24": -49.6,
-            "25": -54.3,
+            "25": -54.2,
             "10": -6.1
           }
         },
@@ -14964,9 +14963,9 @@
           "team": "Sydney",
           "l10": 11.0,
           "l5": 12.9,
-          "pred": 14.7,
+          "pred": 14.8,
           "cv": 0.287,
-          "confidence": 72.2,
+          "confidence": 71.9,
           "hit_rates": {
             "10": {
               "hits": 11,
@@ -15010,23 +15009,23 @@
           "adj_pct": 0,
           "probs": {
             "10": {
-              "prob": 81.2,
+              "prob": 81.4,
               "odds": 1.23
             },
             "15": {
-              "prob": 47.6,
-              "odds": 2.1
+              "prob": 48.1,
+              "odds": 2.08
             },
             "20": {
-              "prob": 16.0,
-              "odds": 6.25
+              "prob": 16.4,
+              "odds": 6.12
             },
             "25": {
-              "prob": 3.8,
-              "odds": 26.01
+              "prob": 4.0,
+              "odds": 25.23
             },
             "30": {
-              "prob": 0.8,
+              "prob": 0.9,
               "odds": null
             },
             "35": {
@@ -15359,13 +15358,13 @@
             ]
           },
           "edges": {
-            "10": -5.8,
-            "14": 16.3,
-            "15": 19.0,
-            "19": 24.0,
-            "20": 36.1,
-            "25": -0.1,
-            "24": -32.7
+            "10": -5.5,
+            "14": 17.2,
+            "15": 20.2,
+            "19": 26.4,
+            "20": 39.0,
+            "25": 3.1,
+            "24": -30.7
           }
         },
         {
@@ -15373,9 +15372,9 @@
           "team": "Sydney",
           "l10": 11.3,
           "l5": 14.7,
-          "pred": 14.6,
+          "pred": 14.7,
           "cv": 0.415,
-          "confidence": 69.0,
+          "confidence": 68.8,
           "hit_rates": {
             "10": {
               "hits": 8,
@@ -15419,27 +15418,27 @@
           "adj_pct": 0,
           "probs": {
             "10": {
-              "prob": 71.4,
+              "prob": 71.5,
               "odds": 1.4
             },
             "15": {
-              "prob": 48.0,
-              "odds": 2.08
+              "prob": 48.3,
+              "odds": 2.07
             },
             "20": {
-              "prob": 25.5,
-              "odds": 3.92
+              "prob": 25.8,
+              "odds": 3.88
             },
             "25": {
-              "prob": 11.3,
-              "odds": 8.87
+              "prob": 11.5,
+              "odds": 8.73
             },
             "30": {
-              "prob": 4.5,
-              "odds": 22.21
+              "prob": 4.6,
+              "odds": 21.76
             },
             "35": {
-              "prob": 1.7,
+              "prob": 1.8,
               "odds": null
             }
           },
@@ -15822,15 +15821,15 @@
             ]
           },
           "edges": {
-            "14": -24.7,
-            "15": -22.7,
-            "19": -3.3,
-            "20": 2.1,
-            "24": 27.5,
-            "25": 46.6,
-            "30": 129.6,
-            "29": 14.2,
-            "10": -27.9
+            "14": -24.4,
+            "15": -22.2,
+            "19": -2.4,
+            "20": 3.2,
+            "24": 29.4,
+            "25": 49.0,
+            "30": 134.4,
+            "29": 16.4,
+            "10": -27.8
           }
         },
         {
@@ -17193,19 +17192,19 @@
           "adj_pct": 0,
           "probs": {
             "10": {
-              "prob": 82.1,
+              "prob": 82.2,
               "odds": 1.22
             },
             "15": {
-              "prob": 34.0,
-              "odds": 2.94
+              "prob": 34.3,
+              "odds": 2.92
             },
             "20": {
               "prob": 5.5,
-              "odds": 18.28
+              "odds": 18.03
             },
             "25": {
-              "prob": 0.6,
+              "prob": 0.7,
               "odds": null
             },
             "30": {
@@ -17570,11 +17569,11 @@
             ]
           },
           "edges": {
-            "10": -8.0,
-            "14": -15.7,
-            "15": -23.5,
-            "19": -62.2,
-            "20": -62.8
+            "10": -7.9,
+            "14": -15.2,
+            "15": -22.9,
+            "19": -61.7,
+            "20": -62.3
           }
         },
         {
@@ -19230,7 +19229,7 @@
             },
             "20": {
               "prob": 3.0,
-              "odds": 32.99
+              "odds": 32.98
             },
             "25": {
               "prob": 0.4,
@@ -20378,6 +20377,390 @@
           }
         },
         {
+          "name": "Joel Hamling",
+          "team": "Sydney",
+          "l10": 8.3,
+          "l5": 9.3,
+          "pred": 9.7,
+          "cv": 0.284,
+          "confidence": 79.1,
+          "hit_rates": {
+            "10": {
+              "hits": 5,
+              "total": 15
+            },
+            "15": {
+              "hits": 0,
+              "total": 15
+            },
+            "20": {
+              "hits": 0,
+              "total": 15
+            },
+            "25": {
+              "hits": 0,
+              "total": 15
+            },
+            "30": {
+              "hits": 0,
+              "total": 15
+            },
+            "35": {
+              "hits": 0,
+              "total": 15
+            }
+          },
+          "last_games": [
+            12,
+            6,
+            7,
+            9,
+            8,
+            6,
+            14,
+            9,
+            10,
+            11
+          ],
+          "capped": false,
+          "adj": false,
+          "adj_pct": 0,
+          "probs": {
+            "10": {
+              "prob": 47.3,
+              "odds": 2.11
+            },
+            "15": {
+              "prob": 10.4,
+              "odds": 9.65
+            },
+            "20": {
+              "prob": 1.5,
+              "odds": null
+            },
+            "25": {
+              "prob": 0.2,
+              "odds": null
+            },
+            "30": {
+              "prob": 0.0,
+              "odds": null
+            },
+            "35": {
+              "prob": 0.0,
+              "odds": null
+            }
+          },
+          "best_odds": {
+            "10": {
+              "odds": 1.39,
+              "book": "Sportsbet"
+            },
+            "11": {
+              "odds": 1.6,
+              "book": "Sportsbet"
+            },
+            "12": {
+              "odds": 1.88,
+              "book": "Sportsbet"
+            },
+            "13": {
+              "odds": 2.26,
+              "book": "Sportsbet"
+            },
+            "14": {
+              "odds": 2.78,
+              "book": "Sportsbet"
+            },
+            "15": {
+              "odds": 3.6,
+              "book": "BetRight"
+            },
+            "16": {
+              "odds": 4.3,
+              "book": "Sportsbet"
+            },
+            "17": {
+              "odds": 5.4,
+              "book": "Sportsbet"
+            },
+            "18": {
+              "odds": 6.5,
+              "book": "Sportsbet"
+            },
+            "19": {
+              "odds": 8.5,
+              "book": "Sportsbet"
+            },
+            "20": {
+              "odds": 10.0,
+              "book": "Sportsbet"
+            },
+            "21": {
+              "odds": 12.0,
+              "book": "Sportsbet"
+            },
+            "22": {
+              "odds": 15.0,
+              "book": "Sportsbet"
+            },
+            "25": {
+              "odds": 26.0,
+              "book": "TAB"
+            },
+            "30": {
+              "odds": 51.0,
+              "book": "TAB"
+            },
+            "35": {
+              "odds": 81.0,
+              "book": "TAB"
+            },
+            "40": {
+              "odds": 101.0,
+              "book": "TAB"
+            },
+            "23": {
+              "odds": 15.0,
+              "book": "Pointsbet"
+            },
+            "24": {
+              "odds": 18.0,
+              "book": "Pointsbet"
+            }
+          },
+          "all_odds": {
+            "10": [
+              {
+                "book": "Sportsbet",
+                "odds": 1.39
+              },
+              {
+                "book": "TAB",
+                "odds": 1.24
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 1.22
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 1.16
+              }
+            ],
+            "11": [
+              {
+                "book": "Sportsbet",
+                "odds": 1.6
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 1.4
+              }
+            ],
+            "12": [
+              {
+                "book": "Sportsbet",
+                "odds": 1.88
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 1.59
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 1.48
+              }
+            ],
+            "13": [
+              {
+                "book": "Sportsbet",
+                "odds": 2.26
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 1.87
+              }
+            ],
+            "14": [
+              {
+                "book": "Sportsbet",
+                "odds": 2.78
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 2.25
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 2.1
+              }
+            ],
+            "15": [
+              {
+                "book": "BetRight",
+                "odds": 3.6
+              },
+              {
+                "book": "Sportsbet",
+                "odds": 3.45
+              },
+              {
+                "book": "Betr",
+                "odds": 3.3
+              },
+              {
+                "book": "TAB",
+                "odds": 2.9
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 2.65
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 2.5
+              }
+            ],
+            "16": [
+              {
+                "book": "Sportsbet",
+                "odds": 4.3
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 3.2
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 3.0
+              }
+            ],
+            "17": [
+              {
+                "book": "Sportsbet",
+                "odds": 5.4
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 4.0
+              }
+            ],
+            "18": [
+              {
+                "book": "Sportsbet",
+                "odds": 6.5
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 4.75
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 4.75
+              }
+            ],
+            "19": [
+              {
+                "book": "Sportsbet",
+                "odds": 8.5
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 6.0
+              }
+            ],
+            "20": [
+              {
+                "book": "Sportsbet",
+                "odds": 10.0
+              },
+              {
+                "book": "Betr",
+                "odds": 9.5
+              },
+              {
+                "book": "TAB",
+                "odds": 9.0
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 8.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 7.5
+              }
+            ],
+            "21": [
+              {
+                "book": "Sportsbet",
+                "odds": 12.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 10.0
+              }
+            ],
+            "22": [
+              {
+                "book": "Sportsbet",
+                "odds": 15.0
+              },
+              {
+                "book": "Ladbrokes",
+                "odds": 14.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 12.0
+              }
+            ],
+            "25": [
+              {
+                "book": "TAB",
+                "odds": 26.0
+              }
+            ],
+            "30": [
+              {
+                "book": "TAB",
+                "odds": 51.0
+              }
+            ],
+            "35": [
+              {
+                "book": "TAB",
+                "odds": 81.0
+              }
+            ],
+            "40": [
+              {
+                "book": "TAB",
+                "odds": 101.0
+              }
+            ],
+            "23": [
+              {
+                "book": "Pointsbet",
+                "odds": 15.0
+              }
+            ],
+            "24": [
+              {
+                "book": "Pointsbet",
+                "odds": 18.0
+              }
+            ]
+          },
+          "edges": {
+            "10": -34.3,
+            "14": -58.8,
+            "15": -62.7,
+            "19": -81.3
+          }
+        },
+        {
           "name": "Cody Weightman",
           "team": "Western Bulldogs",
           "l10": 10.6,
@@ -20730,390 +21113,6 @@
             "10": -30.6,
             "14": -56.0,
             "15": -63.0
-          }
-        },
-        {
-          "name": "Joel Hamling",
-          "team": "Sydney",
-          "l10": 8.3,
-          "l5": 9.3,
-          "pred": 9.7,
-          "cv": 0.284,
-          "confidence": 79.1,
-          "hit_rates": {
-            "10": {
-              "hits": 5,
-              "total": 15
-            },
-            "15": {
-              "hits": 0,
-              "total": 15
-            },
-            "20": {
-              "hits": 0,
-              "total": 15
-            },
-            "25": {
-              "hits": 0,
-              "total": 15
-            },
-            "30": {
-              "hits": 0,
-              "total": 15
-            },
-            "35": {
-              "hits": 0,
-              "total": 15
-            }
-          },
-          "last_games": [
-            12,
-            6,
-            7,
-            9,
-            8,
-            6,
-            14,
-            9,
-            10,
-            11
-          ],
-          "capped": false,
-          "adj": false,
-          "adj_pct": 0,
-          "probs": {
-            "10": {
-              "prob": 47.1,
-              "odds": 2.12
-            },
-            "15": {
-              "prob": 10.2,
-              "odds": 9.76
-            },
-            "20": {
-              "prob": 1.4,
-              "odds": null
-            },
-            "25": {
-              "prob": 0.2,
-              "odds": null
-            },
-            "30": {
-              "prob": 0.0,
-              "odds": null
-            },
-            "35": {
-              "prob": 0.0,
-              "odds": null
-            }
-          },
-          "best_odds": {
-            "10": {
-              "odds": 1.39,
-              "book": "Sportsbet"
-            },
-            "11": {
-              "odds": 1.6,
-              "book": "Sportsbet"
-            },
-            "12": {
-              "odds": 1.88,
-              "book": "Sportsbet"
-            },
-            "13": {
-              "odds": 2.26,
-              "book": "Sportsbet"
-            },
-            "14": {
-              "odds": 2.78,
-              "book": "Sportsbet"
-            },
-            "15": {
-              "odds": 3.6,
-              "book": "BetRight"
-            },
-            "16": {
-              "odds": 4.3,
-              "book": "Sportsbet"
-            },
-            "17": {
-              "odds": 5.4,
-              "book": "Sportsbet"
-            },
-            "18": {
-              "odds": 6.5,
-              "book": "Sportsbet"
-            },
-            "19": {
-              "odds": 8.5,
-              "book": "Sportsbet"
-            },
-            "20": {
-              "odds": 10.0,
-              "book": "Sportsbet"
-            },
-            "21": {
-              "odds": 12.0,
-              "book": "Sportsbet"
-            },
-            "22": {
-              "odds": 15.0,
-              "book": "Sportsbet"
-            },
-            "25": {
-              "odds": 26.0,
-              "book": "TAB"
-            },
-            "30": {
-              "odds": 51.0,
-              "book": "TAB"
-            },
-            "35": {
-              "odds": 81.0,
-              "book": "TAB"
-            },
-            "40": {
-              "odds": 101.0,
-              "book": "TAB"
-            },
-            "23": {
-              "odds": 15.0,
-              "book": "Pointsbet"
-            },
-            "24": {
-              "odds": 18.0,
-              "book": "Pointsbet"
-            }
-          },
-          "all_odds": {
-            "10": [
-              {
-                "book": "Sportsbet",
-                "odds": 1.39
-              },
-              {
-                "book": "TAB",
-                "odds": 1.24
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 1.22
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 1.16
-              }
-            ],
-            "11": [
-              {
-                "book": "Sportsbet",
-                "odds": 1.6
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 1.4
-              }
-            ],
-            "12": [
-              {
-                "book": "Sportsbet",
-                "odds": 1.88
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 1.59
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 1.48
-              }
-            ],
-            "13": [
-              {
-                "book": "Sportsbet",
-                "odds": 2.26
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 1.87
-              }
-            ],
-            "14": [
-              {
-                "book": "Sportsbet",
-                "odds": 2.78
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 2.25
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 2.1
-              }
-            ],
-            "15": [
-              {
-                "book": "BetRight",
-                "odds": 3.6
-              },
-              {
-                "book": "Sportsbet",
-                "odds": 3.45
-              },
-              {
-                "book": "Betr",
-                "odds": 3.3
-              },
-              {
-                "book": "TAB",
-                "odds": 2.9
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 2.65
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 2.5
-              }
-            ],
-            "16": [
-              {
-                "book": "Sportsbet",
-                "odds": 4.3
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 3.2
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 3.0
-              }
-            ],
-            "17": [
-              {
-                "book": "Sportsbet",
-                "odds": 5.4
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 4.0
-              }
-            ],
-            "18": [
-              {
-                "book": "Sportsbet",
-                "odds": 6.5
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 4.75
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 4.75
-              }
-            ],
-            "19": [
-              {
-                "book": "Sportsbet",
-                "odds": 8.5
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 6.0
-              }
-            ],
-            "20": [
-              {
-                "book": "Sportsbet",
-                "odds": 10.0
-              },
-              {
-                "book": "Betr",
-                "odds": 9.5
-              },
-              {
-                "book": "TAB",
-                "odds": 9.0
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 8.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 7.5
-              }
-            ],
-            "21": [
-              {
-                "book": "Sportsbet",
-                "odds": 12.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 10.0
-              }
-            ],
-            "22": [
-              {
-                "book": "Sportsbet",
-                "odds": 15.0
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 14.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 12.0
-              }
-            ],
-            "25": [
-              {
-                "book": "TAB",
-                "odds": 26.0
-              }
-            ],
-            "30": [
-              {
-                "book": "TAB",
-                "odds": 51.0
-              }
-            ],
-            "35": [
-              {
-                "book": "TAB",
-                "odds": 81.0
-              }
-            ],
-            "40": [
-              {
-                "book": "TAB",
-                "odds": 101.0
-              }
-            ],
-            "23": [
-              {
-                "book": "Pointsbet",
-                "odds": 15.0
-              }
-            ],
-            "24": [
-              {
-                "book": "Pointsbet",
-                "odds": 18.0
-              }
-            ]
-          },
-          "edges": {
-            "10": -34.6,
-            "14": -59.2,
-            "15": -63.1,
-            "19": -81.6
           }
         },
         {
@@ -150652,58 +150651,6 @@
       "l10": 30.3
     },
     {
-      "player": "Ryley Sanders",
-      "team": "Western Bulldogs",
-      "threshold": 30,
-      "model_prob": 46.5,
-      "best_odds": 9.5,
-      "book": "Sportsbet",
-      "edge": 341.9,
-      "cv": 0.202,
-      "confidence": 84.8,
-      "pred": 29.5,
-      "l10": 25.7
-    },
-    {
-      "player": "Ryley Sanders",
-      "team": "Western Bulldogs",
-      "threshold": 34,
-      "model_prob": null,
-      "best_odds": 19.0,
-      "book": "Ladbrokes",
-      "edge": 335.5,
-      "cv": 0.202,
-      "confidence": 84.8,
-      "pred": 29.5,
-      "l10": 25.7
-    },
-    {
-      "player": "Ryley Sanders",
-      "team": "Western Bulldogs",
-      "threshold": 35,
-      "model_prob": 18.5,
-      "best_odds": 23.0,
-      "book": "Ladbrokes",
-      "edge": 326.2,
-      "cv": 0.202,
-      "confidence": 84.8,
-      "pred": 29.5,
-      "l10": 25.7
-    },
-    {
-      "player": "Errol Gulden",
-      "team": "Sydney",
-      "threshold": 40,
-      "model_prob": null,
-      "best_odds": 34.0,
-      "book": "TAB",
-      "edge": 317.6,
-      "cv": 0.23,
-      "confidence": 84.8,
-      "pred": 30.9,
-      "l10": 26.4
-    },
-    {
       "player": "Xavier Duursma",
       "team": "Essendon",
       "threshold": 30,
@@ -150715,6 +150662,19 @@
       "confidence": 84.8,
       "pred": 21.7,
       "l10": 16.8
+    },
+    {
+      "player": "Brodie Grundy",
+      "team": "Sydney",
+      "threshold": 40,
+      "model_prob": null,
+      "best_odds": 101.0,
+      "book": "TAB",
+      "edge": 302.1,
+      "cv": 0.239,
+      "confidence": 84.8,
+      "pred": 23.1,
+      "l10": 20.9
     },
     {
       "player": "Will Setterfield",
@@ -150730,26 +150690,26 @@
       "l10": 22.7
     },
     {
-      "player": "Ryley Sanders",
-      "team": "Western Bulldogs",
-      "threshold": 29,
-      "model_prob": null,
-      "best_odds": 7.5,
-      "book": "Sportsbet",
-      "edge": 299.1,
-      "cv": 0.202,
+      "player": "Tom McCartin",
+      "team": "Sydney",
+      "threshold": 35,
+      "model_prob": 7.8,
+      "best_odds": 51.0,
+      "book": "TAB",
+      "edge": 296.6,
+      "cv": 0.284,
       "confidence": 84.8,
-      "pred": 29.5,
-      "l10": 25.7
+      "pred": 23.6,
+      "l10": 20.0
     },
     {
       "player": "Brodie Grundy",
       "team": "Sydney",
-      "threshold": 40,
-      "model_prob": null,
-      "best_odds": 101.0,
+      "threshold": 35,
+      "model_prob": 9.6,
+      "best_odds": 41.0,
       "book": "TAB",
-      "edge": 297.9,
+      "edge": 294.7,
       "cv": 0.239,
       "confidence": 84.8,
       "pred": 23.1,
@@ -150769,39 +150729,13 @@
       "l10": 30.3
     },
     {
-      "player": "Bailey Dale",
-      "team": "Western Bulldogs",
-      "threshold": 40,
-      "model_prob": null,
-      "best_odds": 23.0,
-      "book": "Ladbrokes",
-      "edge": 293.2,
-      "cv": 0.216,
-      "confidence": 84.8,
-      "pred": 32.4,
-      "l10": 26.8
-    },
-    {
-      "player": "Brodie Grundy",
-      "team": "Sydney",
-      "threshold": 35,
-      "model_prob": 9.5,
-      "best_odds": 41.0,
-      "book": "TAB",
-      "edge": 291.3,
-      "cv": 0.239,
-      "confidence": 84.8,
-      "pred": 23.1,
-      "l10": 20.9
-    },
-    {
       "player": "Tom McCartin",
       "team": "Sydney",
-      "threshold": 35,
-      "model_prob": 7.6,
-      "best_odds": 51.0,
-      "book": "TAB",
-      "edge": 290.1,
+      "threshold": 34,
+      "model_prob": null,
+      "best_odds": 41.0,
+      "book": "Ladbrokes",
+      "edge": 288.9,
       "cv": 0.284,
       "confidence": 84.8,
       "pred": 23.6,
@@ -150845,19 +150779,6 @@
       "confidence": 84.8,
       "pred": 23.5,
       "l10": 17.7
-    },
-    {
-      "player": "Tom McCartin",
-      "team": "Sydney",
-      "threshold": 34,
-      "model_prob": null,
-      "best_odds": 41.0,
-      "book": "Ladbrokes",
-      "edge": 282.8,
-      "cv": 0.284,
-      "confidence": 84.8,
-      "pred": 23.6,
-      "l10": 20.0
     },
     {
       "player": "Harry McKay",
@@ -150990,19 +150911,6 @@
       "l10": 16.8
     },
     {
-      "player": "Ryley Sanders",
-      "team": "Western Bulldogs",
-      "threshold": 40,
-      "model_prob": null,
-      "best_odds": 61.0,
-      "book": "TAB",
-      "edge": 242.5,
-      "cv": 0.202,
-      "confidence": 84.8,
-      "pred": 29.5,
-      "l10": 25.7
-    },
-    {
       "player": "Connor Idun",
       "team": "Greater Western Sydney",
       "threshold": 29,
@@ -151092,19 +151000,6 @@
       "confidence": 84.8,
       "pred": 21.7,
       "l10": 16.8
-    },
-    {
-      "player": "Errol Gulden",
-      "team": "Sydney",
-      "threshold": 35,
-      "model_prob": 29.1,
-      "best_odds": 11.0,
-      "book": "Betr",
-      "edge": 220.6,
-      "cv": 0.23,
-      "confidence": 84.8,
-      "pred": 30.9,
-      "l10": 26.4
     },
     {
       "player": "Sam Collins",
@@ -151256,7 +151151,7 @@
       "model_prob": null,
       "best_odds": 26.0,
       "book": "Ladbrokes",
-      "edge": 193.9,
+      "edge": 196.3,
       "cv": 0.239,
       "confidence": 84.8,
       "pred": 23.1,
@@ -151315,19 +151210,6 @@
       "l10": 22.1
     },
     {
-      "player": "Bailey Dale",
-      "team": "Western Bulldogs",
-      "threshold": 35,
-      "model_prob": 36.9,
-      "best_odds": 7.75,
-      "book": "Sportsbet",
-      "edge": 186.0,
-      "cv": 0.216,
-      "confidence": 84.8,
-      "pred": 32.4,
-      "l10": 26.8
-    },
-    {
       "player": "Harvey Langford",
       "team": "Melbourne",
       "threshold": 29,
@@ -151341,19 +151223,6 @@
       "l10": 16.8
     },
     {
-      "player": "Bailey Dale",
-      "team": "Western Bulldogs",
-      "threshold": 39,
-      "model_prob": null,
-      "best_odds": 14.0,
-      "book": "Sportsbet",
-      "edge": 183.6,
-      "cv": 0.216,
-      "confidence": 84.8,
-      "pred": 32.4,
-      "l10": 26.8
-    },
-    {
       "player": "Jake Soligo",
       "team": "Adelaide",
       "threshold": 35,
@@ -151365,6 +151234,19 @@
       "confidence": 84.8,
       "pred": 21.4,
       "l10": 16.8
+    },
+    {
+      "player": "Tom McCartin",
+      "team": "Sydney",
+      "threshold": 40,
+      "model_prob": null,
+      "best_odds": 101.0,
+      "book": "TAB",
+      "edge": 179.6,
+      "cv": 0.284,
+      "confidence": 84.8,
+      "pred": 23.6,
+      "l10": 20.0
     },
     {
       "player": "Connor Idun",
@@ -151393,17 +151275,30 @@
       "l10": 18.6
     },
     {
-      "player": "Tom McCartin",
+      "player": "Jai Serong",
       "team": "Sydney",
+      "threshold": 35,
+      "model_prob": 3.4,
+      "best_odds": 81.0,
+      "book": "TAB",
+      "edge": 175.1,
+      "cv": 0.31,
+      "confidence": 84.8,
+      "pred": 21.9,
+      "l10": 20.0
+    },
+    {
+      "player": "Bailey Dale",
+      "team": "Western Bulldogs",
       "threshold": 40,
       "model_prob": null,
-      "best_odds": 101.0,
-      "book": "TAB",
+      "best_odds": 23.0,
+      "book": "Ladbrokes",
       "edge": 174.1,
-      "cv": 0.284,
+      "cv": 0.216,
       "confidence": 84.8,
-      "pred": 23.6,
-      "l10": 20.0
+      "pred": 30.9,
+      "l10": 26.8
     },
     {
       "player": "Dylan Moore",
@@ -151432,19 +151327,6 @@
       "l10": 18.6
     },
     {
-      "player": "Jai Serong",
-      "team": "Sydney",
-      "threshold": 35,
-      "model_prob": 3.4,
-      "best_odds": 81.0,
-      "book": "TAB",
-      "edge": 172.2,
-      "cv": 0.31,
-      "confidence": 84.8,
-      "pred": 21.9,
-      "l10": 20.0
-    },
-    {
       "player": "Rory Laird",
       "team": "Adelaide",
       "threshold": 40,
@@ -151455,19 +151337,6 @@
       "cv": 0.233,
       "confidence": 84.8,
       "pred": 29.7,
-      "l10": 26.4
-    },
-    {
-      "player": "Errol Gulden",
-      "team": "Sydney",
-      "threshold": 39,
-      "model_prob": null,
-      "best_odds": 18.0,
-      "book": "Pointsbet",
-      "edge": 166.4,
-      "cv": 0.23,
-      "confidence": 84.8,
-      "pred": 30.9,
       "l10": 26.4
     },
     {
@@ -151510,19 +151379,6 @@
       "l10": 23.1
     },
     {
-      "player": "Ed Richards",
-      "team": "Western Bulldogs",
-      "threshold": 34,
-      "model_prob": null,
-      "best_odds": 10.0,
-      "book": "Sportsbet",
-      "edge": 163.3,
-      "cv": 0.146,
-      "confidence": 84.8,
-      "pred": 30.0,
-      "l10": 25.4
-    },
-    {
       "player": "Harry Perryman",
       "team": "Collingwood",
       "threshold": 24,
@@ -151562,30 +151418,17 @@
       "l10": 21.0
     },
     {
-      "player": "Ed Richards",
-      "team": "Western Bulldogs",
-      "threshold": 35,
-      "model_prob": 21.6,
-      "best_odds": 12.0,
-      "book": "Sportsbet",
+      "player": "Tom McCartin",
+      "team": "Sydney",
+      "threshold": 30,
+      "model_prob": 20.0,
+      "best_odds": 13.0,
+      "book": "Betr",
       "edge": 159.8,
-      "cv": 0.146,
+      "cv": 0.284,
       "confidence": 84.8,
-      "pred": 30.0,
-      "l10": 25.4
-    },
-    {
-      "player": "Bailey Dale",
-      "team": "Western Bulldogs",
-      "threshold": 34,
-      "model_prob": null,
-      "best_odds": 6.2,
-      "book": "Ladbrokes",
-      "edge": 159.6,
-      "cv": 0.216,
-      "confidence": 84.8,
-      "pred": 32.4,
-      "l10": 26.8
+      "pred": 23.6,
+      "l10": 20.0
     },
     {
       "player": "Patrick Lipinski",
@@ -151614,26 +151457,13 @@
       "l10": 20.5
     },
     {
-      "player": "Tom McCartin",
-      "team": "Sydney",
-      "threshold": 30,
-      "model_prob": 19.7,
-      "best_odds": 13.0,
-      "book": "Betr",
-      "edge": 156.6,
-      "cv": 0.284,
-      "confidence": 84.8,
-      "pred": 23.6,
-      "l10": 20.0
-    },
-    {
       "player": "Brodie Grundy",
       "team": "Sydney",
       "threshold": 30,
-      "model_prob": 21.3,
+      "model_prob": 21.5,
       "best_odds": 12.0,
       "book": "Betr",
-      "edge": 156.2,
+      "edge": 157.8,
       "cv": 0.239,
       "confidence": 84.8,
       "pred": 23.1,
@@ -151651,19 +151481,6 @@
       "confidence": 84.8,
       "pred": 28.2,
       "l10": 25.2
-    },
-    {
-      "player": "Errol Gulden",
-      "team": "Sydney",
-      "threshold": 34,
-      "model_prob": null,
-      "best_odds": 7.5,
-      "book": "Pointsbet",
-      "edge": 153.4,
-      "cv": 0.23,
-      "confidence": 84.8,
-      "pred": 30.9,
-      "l10": 26.4
     },
     {
       "player": "Connor Idun",
@@ -151716,32 +151533,6 @@
       "confidence": 84.8,
       "pred": 28.1,
       "l10": 23.8
-    },
-    {
-      "player": "Nick Blakey",
-      "team": "Sydney",
-      "threshold": 35,
-      "model_prob": 29.2,
-      "best_odds": 8.5,
-      "book": "Betr",
-      "edge": 147.9,
-      "cv": 0.177,
-      "confidence": 84.8,
-      "pred": 31.3,
-      "l10": 26.1
-    },
-    {
-      "player": "Ryley Sanders",
-      "team": "Western Bulldogs",
-      "threshold": 25,
-      "model_prob": 76.9,
-      "best_odds": 3.22,
-      "book": "Sportsbet",
-      "edge": 147.5,
-      "cv": 0.202,
-      "confidence": 84.8,
-      "pred": 29.5,
-      "l10": 25.7
     },
     {
       "player": "Patrick Lipinski",
@@ -151861,19 +151652,6 @@
       "l10": 25.2
     },
     {
-      "player": "Ed Richards",
-      "team": "Western Bulldogs",
-      "threshold": 40,
-      "model_prob": null,
-      "best_odds": 34.0,
-      "book": "Ladbrokes",
-      "edge": 140.7,
-      "cv": 0.146,
-      "confidence": 84.8,
-      "pred": 30.0,
-      "l10": 25.4
-    },
-    {
       "player": "Ben Miller",
       "team": "Richmond",
       "threshold": 24,
@@ -151885,6 +151663,19 @@
       "confidence": 84.8,
       "pred": 18.3,
       "l10": 14.1
+    },
+    {
+      "player": "Brodie Grundy",
+      "team": "Sydney",
+      "threshold": 29,
+      "model_prob": null,
+      "best_odds": 9.5,
+      "book": "Sportsbet",
+      "edge": 136.0,
+      "cv": 0.239,
+      "confidence": 84.8,
+      "pred": 23.1,
+      "l10": 20.9
     },
     {
       "player": "Rory Laird",
@@ -151926,30 +151717,17 @@
       "l10": 15.1
     },
     {
-      "player": "Brodie Grundy",
+      "player": "Caiden Cleary",
       "team": "Sydney",
-      "threshold": 29,
-      "model_prob": null,
-      "best_odds": 9.5,
-      "book": "Sportsbet",
-      "edge": 134.6,
-      "cv": 0.239,
-      "confidence": 84.8,
-      "pred": 23.1,
-      "l10": 20.9
-    },
-    {
-      "player": "Ed Richards",
-      "team": "Western Bulldogs",
       "threshold": 30,
-      "model_prob": 50.0,
-      "best_odds": 4.65,
-      "book": "Sportsbet",
-      "edge": 132.7,
-      "cv": 0.146,
+      "model_prob": 4.6,
+      "best_odds": 51.0,
+      "book": "TAB",
+      "edge": 134.4,
+      "cv": 0.415,
       "confidence": 84.8,
-      "pred": 30.0,
-      "l10": 25.4
+      "pred": 14.7,
+      "l10": 11.3
     },
     {
       "player": "Joe Richards",
@@ -151963,32 +151741,6 @@
       "confidence": 84.8,
       "pred": 22.0,
       "l10": 17.2
-    },
-    {
-      "player": "Nick Blakey",
-      "team": "Sydney",
-      "threshold": 40,
-      "model_prob": null,
-      "best_odds": 21.0,
-      "book": "TAB",
-      "edge": 131.4,
-      "cv": 0.177,
-      "confidence": 84.8,
-      "pred": 31.3,
-      "l10": 26.1
-    },
-    {
-      "player": "Caiden Cleary",
-      "team": "Sydney",
-      "threshold": 30,
-      "model_prob": 4.5,
-      "best_odds": 51.0,
-      "book": "TAB",
-      "edge": 129.6,
-      "cv": 0.415,
-      "confidence": 84.8,
-      "pred": 14.6,
-      "l10": 11.3
     },
     {
       "player": "Josh Ward",
@@ -152030,6 +151782,19 @@
       "l10": 23.8
     },
     {
+      "player": "Tom McCartin",
+      "team": "Sydney",
+      "threshold": 29,
+      "model_prob": null,
+      "best_odds": 9.5,
+      "book": "Sportsbet",
+      "edge": 125.0,
+      "cv": 0.284,
+      "confidence": 84.8,
+      "pred": 23.6,
+      "l10": 20.0
+    },
+    {
       "player": "Toby Nankervis",
       "team": "Richmond",
       "threshold": 25,
@@ -152069,17 +151834,17 @@
       "l10": 16.8
     },
     {
-      "player": "Tom McCartin",
-      "team": "Sydney",
-      "threshold": 29,
-      "model_prob": null,
-      "best_odds": 9.5,
+      "player": "Bailey Dale",
+      "team": "Western Bulldogs",
+      "threshold": 35,
+      "model_prob": 28.8,
+      "best_odds": 7.75,
       "book": "Sportsbet",
-      "edge": 122.5,
-      "cv": 0.284,
+      "edge": 123.2,
+      "cv": 0.216,
       "confidence": 84.8,
-      "pred": 23.6,
-      "l10": 20.0
+      "pred": 30.9,
+      "l10": 26.8
     },
     {
       "player": "Jake Soligo",
@@ -152121,19 +151886,6 @@
       "l10": 20.5
     },
     {
-      "player": "Errol Gulden",
-      "team": "Sydney",
-      "threshold": 30,
-      "model_prob": 54.7,
-      "best_odds": 4.0,
-      "book": "Betr",
-      "edge": 118.9,
-      "cv": 0.23,
-      "confidence": 84.8,
-      "pred": 30.9,
-      "l10": 26.4
-    },
-    {
       "player": "Rory Laird",
       "team": "Adelaide",
       "threshold": 39,
@@ -152171,45 +151923,6 @@
       "confidence": 84.8,
       "pred": 20.1,
       "l10": 15.6
-    },
-    {
-      "player": "Ed Richards",
-      "team": "Western Bulldogs",
-      "threshold": 29,
-      "model_prob": null,
-      "best_odds": 3.8,
-      "book": "Sportsbet",
-      "edge": 114.5,
-      "cv": 0.146,
-      "confidence": 84.8,
-      "pred": 30.0,
-      "l10": 25.4
-    },
-    {
-      "player": "Ryley Sanders",
-      "team": "Western Bulldogs",
-      "threshold": 24,
-      "model_prob": null,
-      "best_odds": 2.63,
-      "book": "Sportsbet",
-      "edge": 113.8,
-      "cv": 0.202,
-      "confidence": 84.8,
-      "pred": 29.5,
-      "l10": 25.7
-    },
-    {
-      "player": "Isaac Heeney",
-      "team": "Sydney",
-      "threshold": 39,
-      "model_prob": null,
-      "best_odds": 9.5,
-      "book": "Sportsbet",
-      "edge": 113.7,
-      "cv": 0.124,
-      "confidence": 84.8,
-      "pred": 33.8,
-      "l10": 29.1
     },
     {
       "player": "Rory Laird",
@@ -152277,6 +151990,19 @@
       "l10": 9.2
     },
     {
+      "player": "Bailey Dale",
+      "team": "Western Bulldogs",
+      "threshold": 34,
+      "model_prob": null,
+      "best_odds": 6.2,
+      "book": "Ladbrokes",
+      "edge": 107.7,
+      "cv": 0.216,
+      "confidence": 84.8,
+      "pred": 30.9,
+      "l10": 26.8
+    },
+    {
       "player": "James Sicily",
       "team": "Hawthorn",
       "threshold": 35,
@@ -152342,17 +152068,17 @@
       "l10": 30.3
     },
     {
-      "player": "Isaac Heeney",
+      "player": "Tom McCartin",
       "team": "Sydney",
-      "threshold": 40,
-      "model_prob": null,
-      "best_odds": 11.0,
+      "threshold": 25,
+      "model_prob": 42.5,
+      "best_odds": 4.8,
       "book": "Betr",
-      "edge": 104.6,
-      "cv": 0.124,
+      "edge": 104.1,
+      "cv": 0.284,
       "confidence": 84.8,
-      "pred": 33.8,
-      "l10": 29.1
+      "pred": 23.6,
+      "l10": 20.0
     },
     {
       "player": "Matthew Kennedy",
@@ -152407,19 +152133,6 @@
       "l10": 22.1
     },
     {
-      "player": "Tom McCartin",
-      "team": "Sydney",
-      "threshold": 25,
-      "model_prob": 42.2,
-      "best_odds": 4.8,
-      "book": "Betr",
-      "edge": 102.6,
-      "cv": 0.284,
-      "confidence": 84.8,
-      "pred": 23.6,
-      "l10": 20.0
-    },
-    {
       "player": "Josh Ward",
       "team": "Hawthorn",
       "threshold": 35,
@@ -152444,6 +152157,19 @@
       "confidence": 84.8,
       "pred": 20.1,
       "l10": 15.6
+    },
+    {
+      "player": "Bailey Dale",
+      "team": "Western Bulldogs",
+      "threshold": 39,
+      "model_prob": null,
+      "best_odds": 14.0,
+      "book": "Sportsbet",
+      "edge": 101.8,
+      "cv": 0.216,
+      "confidence": 84.8,
+      "pred": 30.9,
+      "l10": 26.8
     },
     {
       "player": "Matthew Kennedy",
@@ -152550,19 +152276,6 @@
       "l10": 13.9
     },
     {
-      "player": "Isaac Heeney",
-      "team": "Sydney",
-      "threshold": 35,
-      "model_prob": 43.0,
-      "best_odds": 4.65,
-      "book": "Sportsbet",
-      "edge": 100.0,
-      "cv": 0.124,
-      "confidence": 84.8,
-      "pred": 33.8,
-      "l10": 29.1
-    },
-    {
       "player": "Rory Laird",
       "team": "Adelaide",
       "threshold": 29,
@@ -152613,19 +152326,6 @@
       "confidence": 84.8,
       "pred": 17.8,
       "l10": 16.3
-    },
-    {
-      "player": "Errol Gulden",
-      "team": "Sydney",
-      "threshold": 29,
-      "model_prob": null,
-      "best_odds": 3.3,
-      "book": "Pointsbet",
-      "edge": 97.9,
-      "cv": 0.23,
-      "confidence": 84.8,
-      "pred": 30.9,
-      "l10": 26.4
     },
     {
       "player": "Lachlan Bramble",
@@ -152680,32 +152380,6 @@
       "l10": 19.8
     },
     {
-      "player": "Nick Blakey",
-      "team": "Sydney",
-      "threshold": 34,
-      "model_prob": null,
-      "best_odds": 5.7,
-      "book": "Sportsbet",
-      "edge": 95.9,
-      "cv": 0.177,
-      "confidence": 84.8,
-      "pred": 31.3,
-      "l10": 26.1
-    },
-    {
-      "player": "Isaac Heeney",
-      "team": "Sydney",
-      "threshold": 34,
-      "model_prob": null,
-      "best_odds": 4.0,
-      "book": "Sportsbet",
-      "edge": 95.7,
-      "cv": 0.124,
-      "confidence": 84.8,
-      "pred": 33.8,
-      "l10": 29.1
-    },
-    {
       "player": "Izak Rankine",
       "team": "Adelaide",
       "threshold": 24,
@@ -152730,19 +152404,6 @@
       "confidence": 84.8,
       "pred": 19.0,
       "l10": 16.4
-    },
-    {
-      "player": "Bailey Dale",
-      "team": "Western Bulldogs",
-      "threshold": 30,
-      "model_prob": 62.4,
-      "best_odds": 3.1,
-      "book": "Ladbrokes",
-      "edge": 93.4,
-      "cv": 0.216,
-      "confidence": 84.8,
-      "pred": 32.4,
-      "l10": 26.8
     },
     {
       "player": "Touk Miller",
@@ -152795,6 +152456,32 @@
       "confidence": 84.8,
       "pred": 20.1,
       "l10": 15.6
+    },
+    {
+      "player": "Isaac Heeney",
+      "team": "Sydney",
+      "threshold": 39,
+      "model_prob": null,
+      "best_odds": 9.5,
+      "book": "Sportsbet",
+      "edge": 91.6,
+      "cv": 0.124,
+      "confidence": 84.8,
+      "pred": 33.3,
+      "l10": 29.1
+    },
+    {
+      "player": "Jai Serong",
+      "team": "Sydney",
+      "threshold": 30,
+      "model_prob": 11.2,
+      "best_odds": 17.0,
+      "book": "TAB",
+      "edge": 90.4,
+      "cv": 0.31,
+      "confidence": 84.8,
+      "pred": 21.9,
+      "l10": 20.0
     },
     {
       "player": "Massimo D'Ambrosio",
@@ -152873,19 +152560,6 @@
       "confidence": 84.8,
       "pred": 16.0,
       "l10": 13.1
-    },
-    {
-      "player": "Jai Serong",
-      "team": "Sydney",
-      "threshold": 30,
-      "model_prob": 11.1,
-      "best_odds": 17.0,
-      "book": "TAB",
-      "edge": 88.8,
-      "cv": 0.31,
-      "confidence": 84.8,
-      "pred": 21.9,
-      "l10": 20.0
     },
     {
       "player": "Touk Miller",
@@ -152992,6 +152666,19 @@
       "l10": 18.4
     },
     {
+      "player": "Isaac Heeney",
+      "team": "Sydney",
+      "threshold": 35,
+      "model_prob": 40.0,
+      "best_odds": 4.65,
+      "book": "Sportsbet",
+      "edge": 85.9,
+      "cv": 0.124,
+      "confidence": 84.8,
+      "pred": 33.3,
+      "l10": 29.1
+    },
+    {
       "player": "Patrick Lipinski",
       "team": "Collingwood",
       "threshold": 24,
@@ -153057,19 +152744,6 @@
       "l10": 15.1
     },
     {
-      "player": "Nick Blakey",
-      "team": "Sydney",
-      "threshold": 30,
-      "model_prob": 57.8,
-      "best_odds": 3.2,
-      "book": "Betr",
-      "edge": 84.9,
-      "cv": 0.177,
-      "confidence": 84.8,
-      "pred": 31.3,
-      "l10": 26.1
-    },
-    {
       "player": "Daniel Curtin",
       "team": "Adelaide",
       "threshold": 25,
@@ -153094,6 +152768,19 @@
       "confidence": 84.8,
       "pred": 21.7,
       "l10": 16.8
+    },
+    {
+      "player": "Isaac Heeney",
+      "team": "Sydney",
+      "threshold": 34,
+      "model_prob": null,
+      "best_odds": 4.0,
+      "book": "Sportsbet",
+      "edge": 83.7,
+      "cv": 0.124,
+      "confidence": 84.8,
+      "pred": 33.3,
+      "l10": 29.1
     },
     {
       "player": "Mitch Owens",
@@ -153146,6 +152833,19 @@
       "confidence": 84.8,
       "pred": 16.2,
       "l10": 12.8
+    },
+    {
+      "player": "Isaac Heeney",
+      "team": "Sydney",
+      "threshold": 40,
+      "model_prob": null,
+      "best_odds": 11.0,
+      "book": "Betr",
+      "edge": 82.0,
+      "cv": 0.124,
+      "confidence": 84.8,
+      "pred": 33.3,
+      "l10": 29.1
     },
     {
       "player": "Cam Mackenzie",
@@ -153252,6 +152952,19 @@
       "l10": 23.8
     },
     {
+      "player": "Tom McCartin",
+      "team": "Sydney",
+      "threshold": 24,
+      "model_prob": null,
+      "best_odds": 3.75,
+      "book": "Sportsbet",
+      "edge": 79.6,
+      "cv": 0.284,
+      "confidence": 84.8,
+      "pred": 23.6,
+      "l10": 20.0
+    },
+    {
       "player": "Joe Berry",
       "team": "Port Adelaide",
       "threshold": 20,
@@ -153304,19 +153017,6 @@
       "l10": 27.4
     },
     {
-      "player": "Tom McCartin",
-      "team": "Sydney",
-      "threshold": 24,
-      "model_prob": null,
-      "best_odds": 3.75,
-      "book": "Sportsbet",
-      "edge": 78.5,
-      "cv": 0.284,
-      "confidence": 84.8,
-      "pred": 23.6,
-      "l10": 20.0
-    },
-    {
       "player": "Darcy Parish",
       "team": "Essendon",
       "threshold": 40,
@@ -153356,6 +153056,19 @@
       "l10": 18.4
     },
     {
+      "player": "Jai Serong",
+      "team": "Sydney",
+      "threshold": 34,
+      "model_prob": null,
+      "best_odds": 41.0,
+      "book": "Ladbrokes",
+      "edge": 78.0,
+      "cv": 0.31,
+      "confidence": 84.8,
+      "pred": 21.9,
+      "l10": 20.0
+    },
+    {
       "player": "Tim English",
       "team": "Western Bulldogs",
       "threshold": 30,
@@ -153380,19 +153093,6 @@
       "confidence": 84.8,
       "pred": 20.8,
       "l10": 17.6
-    },
-    {
-      "player": "Nick Blakey",
-      "team": "Sydney",
-      "threshold": 39,
-      "model_prob": null,
-      "best_odds": 13.0,
-      "book": "Sportsbet",
-      "edge": 76.9,
-      "cv": 0.177,
-      "confidence": 84.8,
-      "pred": 31.3,
-      "l10": 26.1
     },
     {
       "player": "Patrick Cripps",
@@ -153434,19 +153134,6 @@
       "l10": 16.8
     },
     {
-      "player": "Jai Serong",
-      "team": "Sydney",
-      "threshold": 34,
-      "model_prob": null,
-      "best_odds": 41.0,
-      "book": "Ladbrokes",
-      "edge": 76.2,
-      "cv": 0.31,
-      "confidence": 84.8,
-      "pred": 21.9,
-      "l10": 20.0
-    },
-    {
       "player": "Matt Rowell",
       "team": "Gold Coast",
       "threshold": 40,
@@ -153473,6 +153160,19 @@
       "l10": 15.9
     },
     {
+      "player": "Brodie Grundy",
+      "team": "Sydney",
+      "threshold": 25,
+      "model_prob": 41.3,
+      "best_odds": 4.25,
+      "book": "Betr",
+      "edge": 75.4,
+      "cv": 0.239,
+      "confidence": 84.8,
+      "pred": 23.1,
+      "l10": 20.9
+    },
+    {
       "player": "Max Gawn",
       "team": "Melbourne",
       "threshold": 25,
@@ -153497,19 +153197,6 @@
       "confidence": 84.8,
       "pred": 16.0,
       "l10": 13.1
-    },
-    {
-      "player": "Brodie Grundy",
-      "team": "Sydney",
-      "threshold": 25,
-      "model_prob": 41.1,
-      "best_odds": 4.25,
-      "book": "Betr",
-      "edge": 74.7,
-      "cv": 0.239,
-      "confidence": 84.8,
-      "pred": 23.1,
-      "l10": 20.9
     },
     {
       "player": "Daniel Curtin",
@@ -153694,6 +153381,19 @@
       "l10": 22.1
     },
     {
+      "player": "Bailey Dale",
+      "team": "Western Bulldogs",
+      "threshold": 30,
+      "model_prob": 54.7,
+      "best_odds": 3.1,
+      "book": "Ladbrokes",
+      "edge": 69.7,
+      "cv": 0.216,
+      "confidence": 84.8,
+      "pred": 30.9,
+      "l10": 26.8
+    },
+    {
       "player": "Tim English",
       "team": "Western Bulldogs",
       "threshold": 19,
@@ -153770,19 +153470,6 @@
       "confidence": 84.8,
       "pred": 19.1,
       "l10": 15.4
-    },
-    {
-      "player": "Bailey Dale",
-      "team": "Western Bulldogs",
-      "threshold": 29,
-      "model_prob": null,
-      "best_odds": 2.5,
-      "book": "Sportsbet",
-      "edge": 67.9,
-      "cv": 0.216,
-      "confidence": 84.8,
-      "pred": 32.4,
-      "l10": 26.8
     },
     {
       "player": "Joe Fonti",
@@ -153954,19 +153641,6 @@
       "l10": 15.4
     },
     {
-      "player": "Ed Richards",
-      "team": "Western Bulldogs",
-      "threshold": 39,
-      "model_prob": null,
-      "best_odds": 18.0,
-      "book": "Pointsbet",
-      "edge": 61.5,
-      "cv": 0.146,
-      "confidence": 84.8,
-      "pred": 30.0,
-      "l10": 25.4
-    },
-    {
       "player": "Ryan Byrnes",
       "team": "St Kilda",
       "threshold": 24,
@@ -154004,6 +153678,19 @@
       "confidence": 84.8,
       "pred": 15.8,
       "l10": 13.7
+    },
+    {
+      "player": "Nick Blakey",
+      "team": "Sydney",
+      "threshold": 35,
+      "model_prob": 18.9,
+      "best_odds": 8.5,
+      "book": "Betr",
+      "edge": 60.8,
+      "cv": 0.177,
+      "confidence": 84.8,
+      "pred": 29.3,
+      "l10": 26.1
     },
     {
       "player": "Daniel Curtin",
@@ -154149,6 +153836,19 @@
       "l10": 23.6
     },
     {
+      "player": "Ryley Sanders",
+      "team": "Western Bulldogs",
+      "threshold": 29,
+      "model_prob": null,
+      "best_odds": 7.5,
+      "book": "Sportsbet",
+      "edge": 57.8,
+      "cv": 0.202,
+      "confidence": 84.8,
+      "pred": 24.8,
+      "l10": 25.7
+    },
+    {
       "player": "Toby Nankervis",
       "team": "Richmond",
       "threshold": 30,
@@ -154175,6 +153875,32 @@
       "l10": 19.8
     },
     {
+      "player": "Ryley Sanders",
+      "team": "Western Bulldogs",
+      "threshold": 25,
+      "model_prob": 48.8,
+      "best_odds": 3.22,
+      "book": "Sportsbet",
+      "edge": 57.0,
+      "cv": 0.202,
+      "confidence": 84.8,
+      "pred": 24.8,
+      "l10": 25.7
+    },
+    {
+      "player": "Jai Serong",
+      "team": "Sydney",
+      "threshold": 25,
+      "model_prob": 31.2,
+      "best_odds": 5.0,
+      "book": "Pointsbet",
+      "edge": 55.8,
+      "cv": 0.31,
+      "confidence": 84.8,
+      "pred": 21.9,
+      "l10": 20.0
+    },
+    {
       "player": "Rhyan Mansell",
       "team": "Richmond",
       "threshold": 14,
@@ -154186,19 +153912,6 @@
       "confidence": 84.8,
       "pred": 16.0,
       "l10": 13.4
-    },
-    {
-      "player": "Nick Blakey",
-      "team": "Sydney",
-      "threshold": 29,
-      "model_prob": null,
-      "best_odds": 2.45,
-      "book": "Pointsbet",
-      "edge": 55.6,
-      "cv": 0.177,
-      "confidence": 84.8,
-      "pred": 31.3,
-      "l10": 26.1
     },
     {
       "player": "Jake Soligo",
@@ -154279,17 +153992,17 @@
       "l10": 15.7
     },
     {
-      "player": "Jai Serong",
-      "team": "Sydney",
-      "threshold": 25,
-      "model_prob": 31.0,
-      "best_odds": 5.0,
-      "book": "Pointsbet",
-      "edge": 54.9,
-      "cv": 0.31,
+      "player": "Ryley Sanders",
+      "team": "Western Bulldogs",
+      "threshold": 30,
+      "model_prob": 16.2,
+      "best_odds": 9.5,
+      "book": "Sportsbet",
+      "edge": 54.3,
+      "cv": 0.202,
       "confidence": 84.8,
-      "pred": 21.9,
-      "l10": 20.0
+      "pred": 24.8,
+      "l10": 25.7
     },
     {
       "player": "Tom McCarthy",
@@ -154305,6 +154018,19 @@
       "l10": 23.6
     },
     {
+      "player": "Jai Serong",
+      "team": "Sydney",
+      "threshold": 29,
+      "model_prob": null,
+      "best_odds": 11.0,
+      "book": "Pointsbet",
+      "edge": 54.1,
+      "cv": 0.31,
+      "confidence": 84.8,
+      "pred": 21.9,
+      "l10": 20.0
+    },
+    {
       "player": "Mitch Owens",
       "team": "St Kilda",
       "threshold": 24,
@@ -154316,19 +154042,6 @@
       "confidence": 84.8,
       "pred": 15.4,
       "l10": 11.7
-    },
-    {
-      "player": "Isaac Heeney",
-      "team": "Sydney",
-      "threshold": 30,
-      "model_prob": 71.4,
-      "best_odds": 2.15,
-      "book": "Pointsbet",
-      "edge": 53.4,
-      "cv": 0.124,
-      "confidence": 84.8,
-      "pred": 33.8,
-      "l10": 29.1
     },
     {
       "player": "Touk Miller",
@@ -154355,19 +154068,6 @@
       "confidence": 84.8,
       "pred": 16.5,
       "l10": 13.6
-    },
-    {
-      "player": "Jai Serong",
-      "team": "Sydney",
-      "threshold": 29,
-      "model_prob": null,
-      "best_odds": 11.0,
-      "book": "Pointsbet",
-      "edge": 52.8,
-      "cv": 0.31,
-      "confidence": 84.8,
-      "pred": 21.9,
-      "l10": 20.0
     },
     {
       "player": "Zach Merrett",
@@ -154500,6 +154200,19 @@
       "l10": 18.4
     },
     {
+      "player": "Jai Serong",
+      "team": "Sydney",
+      "threshold": 24,
+      "model_prob": null,
+      "best_odds": 4.1,
+      "book": "Pointsbet",
+      "edge": 51.2,
+      "cv": 0.31,
+      "confidence": 84.8,
+      "pred": 21.9,
+      "l10": 20.0
+    },
+    {
       "player": "Leonardo Lombard",
       "team": "Gold Coast",
       "threshold": 20,
@@ -154526,17 +154239,30 @@
       "l10": 21.0
     },
     {
-      "player": "Jai Serong",
-      "team": "Sydney",
-      "threshold": 24,
+      "player": "Bailey Dale",
+      "team": "Western Bulldogs",
+      "threshold": 29,
       "model_prob": null,
-      "best_odds": 4.1,
-      "book": "Pointsbet",
-      "edge": 50.5,
-      "cv": 0.31,
+      "best_odds": 2.5,
+      "book": "Sportsbet",
+      "edge": 50.2,
+      "cv": 0.216,
       "confidence": 84.8,
-      "pred": 21.9,
-      "l10": 20.0
+      "pred": 30.9,
+      "l10": 26.8
+    },
+    {
+      "player": "Ed Richards",
+      "team": "Western Bulldogs",
+      "threshold": 30,
+      "model_prob": 32.3,
+      "best_odds": 4.65,
+      "book": "Sportsbet",
+      "edge": 50.1,
+      "cv": 0.146,
+      "confidence": 84.8,
+      "pred": 27.4,
+      "l10": 25.4
     },
     {
       "player": "Ben Ainsworth",
@@ -154578,6 +154304,19 @@
       "l10": 13.4
     },
     {
+      "player": "Ryley Sanders",
+      "team": "Western Bulldogs",
+      "threshold": 24,
+      "model_prob": null,
+      "best_odds": 2.63,
+      "book": "Sportsbet",
+      "edge": 49.1,
+      "cv": 0.202,
+      "confidence": 84.8,
+      "pred": 24.8,
+      "l10": 25.7
+    },
+    {
       "player": "Jaxon Prior",
       "team": "Essendon",
       "threshold": 25,
@@ -154589,6 +154328,19 @@
       "confidence": 84.8,
       "pred": 19.5,
       "l10": 17.0
+    },
+    {
+      "player": "Caiden Cleary",
+      "team": "Sydney",
+      "threshold": 25,
+      "model_prob": 11.5,
+      "best_odds": 13.0,
+      "book": "TAB",
+      "edge": 49.0,
+      "cv": 0.415,
+      "confidence": 84.8,
+      "pred": 14.7,
+      "l10": 11.3
     },
     {
       "player": "Mitch Owens",
@@ -154628,6 +154380,19 @@
       "confidence": 84.8,
       "pred": 24.7,
       "l10": 23.6
+    },
+    {
+      "player": "Isaac Heeney",
+      "team": "Sydney",
+      "threshold": 30,
+      "model_prob": 69.1,
+      "best_odds": 2.15,
+      "book": "Pointsbet",
+      "edge": 48.6,
+      "cv": 0.124,
+      "confidence": 84.8,
+      "pred": 33.3,
+      "l10": 29.1
     },
     {
       "player": "Daniel Turner",
@@ -154682,6 +154447,19 @@
       "l10": 24.9
     },
     {
+      "player": "Ed Richards",
+      "team": "Western Bulldogs",
+      "threshold": 29,
+      "model_prob": null,
+      "best_odds": 3.8,
+      "book": "Sportsbet",
+      "edge": 47.2,
+      "cv": 0.146,
+      "confidence": 84.8,
+      "pred": 27.4,
+      "l10": 25.4
+    },
+    {
       "player": "Dylan Moore",
       "team": "Hawthorn",
       "threshold": 19,
@@ -154719,32 +154497,6 @@
       "confidence": 84.8,
       "pred": 22.0,
       "l10": 18.4
-    },
-    {
-      "player": "Ed Richards",
-      "team": "Western Bulldogs",
-      "threshold": 25,
-      "model_prob": 78.4,
-      "best_odds": 1.87,
-      "book": "Pointsbet",
-      "edge": 46.6,
-      "cv": 0.146,
-      "confidence": 84.8,
-      "pred": 30.0,
-      "l10": 25.4
-    },
-    {
-      "player": "Caiden Cleary",
-      "team": "Sydney",
-      "threshold": 25,
-      "model_prob": 11.3,
-      "best_odds": 13.0,
-      "book": "TAB",
-      "edge": 46.6,
-      "cv": 0.415,
-      "confidence": 84.8,
-      "pred": 14.6,
-      "l10": 11.3
     },
     {
       "player": "Harry Himmelberg",
@@ -154786,6 +154538,19 @@
       "l10": 13.4
     },
     {
+      "player": "Nick Blakey",
+      "team": "Sydney",
+      "threshold": 30,
+      "model_prob": 45.7,
+      "best_odds": 3.2,
+      "book": "Betr",
+      "edge": 46.2,
+      "cv": 0.177,
+      "confidence": 84.8,
+      "pred": 29.3,
+      "l10": 26.1
+    },
+    {
       "player": "Zach Merrett",
       "team": "Essendon",
       "threshold": 29,
@@ -154797,19 +154562,6 @@
       "confidence": 84.8,
       "pred": 33.7,
       "l10": 30.0
-    },
-    {
-      "player": "Errol Gulden",
-      "team": "Sydney",
-      "threshold": 25,
-      "model_prob": 78.0,
-      "best_odds": 1.87,
-      "book": "Pointsbet",
-      "edge": 45.9,
-      "cv": 0.23,
-      "confidence": 84.8,
-      "pred": 30.9,
-      "l10": 26.4
     },
     {
       "player": "Noah Balta",
@@ -154994,6 +154746,19 @@
       "l10": 14.3
     },
     {
+      "player": "Brodie Grundy",
+      "team": "Sydney",
+      "threshold": 24,
+      "model_prob": null,
+      "best_odds": 3.12,
+      "book": "Sportsbet",
+      "edge": 43.3,
+      "cv": 0.239,
+      "confidence": 84.8,
+      "pred": 23.1,
+      "l10": 20.9
+    },
+    {
       "player": "Will Hayward",
       "team": "Carlton",
       "threshold": 19,
@@ -155020,19 +154785,6 @@
       "l10": 18.4
     },
     {
-      "player": "Brodie Grundy",
-      "team": "Sydney",
-      "threshold": 24,
-      "model_prob": null,
-      "best_odds": 3.12,
-      "book": "Sportsbet",
-      "edge": 42.8,
-      "cv": 0.239,
-      "confidence": 84.8,
-      "pred": 23.1,
-      "l10": 20.9
-    },
-    {
       "player": "Tom McCarthy",
       "team": "West Coast",
       "threshold": 29,
@@ -155057,19 +154809,6 @@
       "confidence": 84.8,
       "pred": 22.0,
       "l10": 18.4
-    },
-    {
-      "player": "Isaac Heeney",
-      "team": "Sydney",
-      "threshold": 29,
-      "model_prob": null,
-      "best_odds": 1.87,
-      "book": "Pointsbet",
-      "edge": 42.1,
-      "cv": 0.124,
-      "confidence": 84.8,
-      "pred": 33.8,
-      "l10": 29.1
     },
     {
       "player": "Will Hayward",
@@ -155163,19 +154902,6 @@
       "l10": 12.3
     },
     {
-      "player": "Errol Gulden",
-      "team": "Sydney",
-      "threshold": 24,
-      "model_prob": null,
-      "best_odds": 1.71,
-      "book": "Pointsbet",
-      "edge": 39.3,
-      "cv": 0.23,
-      "confidence": 84.8,
-      "pred": 30.9,
-      "l10": 26.4
-    },
-    {
       "player": "Daniel Turner",
       "team": "Melbourne",
       "threshold": 19,
@@ -155187,6 +154913,19 @@
       "confidence": 84.8,
       "pred": 19.1,
       "l10": 15.4
+    },
+    {
+      "player": "Charlie Curnow",
+      "team": "Sydney",
+      "threshold": 20,
+      "model_prob": 16.4,
+      "best_odds": 8.5,
+      "book": "Sportsbet",
+      "edge": 39.0,
+      "cv": 0.287,
+      "confidence": 84.8,
+      "pred": 14.8,
+      "l10": 11.0
     },
     {
       "player": "Connor Idun",
@@ -155239,6 +154978,19 @@
       "confidence": 84.8,
       "pred": 18.8,
       "l10": 16.4
+    },
+    {
+      "player": "Isaac Heeney",
+      "team": "Sydney",
+      "threshold": 29,
+      "model_prob": null,
+      "best_odds": 1.87,
+      "book": "Pointsbet",
+      "edge": 38.5,
+      "cv": 0.124,
+      "confidence": 84.8,
+      "pred": 33.3,
+      "l10": 29.1
     },
     {
       "player": "Finn O'Sullivan",
@@ -155317,19 +155069,6 @@
       "confidence": 84.8,
       "pred": 13.1,
       "l10": 11.6
-    },
-    {
-      "player": "Ryley Sanders",
-      "team": "Western Bulldogs",
-      "threshold": 20,
-      "model_prob": 92.7,
-      "best_odds": 1.48,
-      "book": "Pointsbet",
-      "edge": 37.2,
-      "cv": 0.202,
-      "confidence": 84.8,
-      "pred": 29.5,
-      "l10": 25.7
     },
     {
       "player": "Joe Berry",
@@ -155423,30 +155162,17 @@
       "l10": 29.4
     },
     {
-      "player": "Bailey Dale",
-      "team": "Western Bulldogs",
-      "threshold": 25,
-      "model_prob": 82.5,
-      "best_odds": 1.65,
-      "book": "Ladbrokes",
-      "edge": 36.1,
-      "cv": 0.216,
-      "confidence": 84.8,
-      "pred": 32.4,
-      "l10": 26.8
-    },
-    {
-      "player": "Charlie Curnow",
+      "player": "Jai Serong",
       "team": "Sydney",
       "threshold": 20,
-      "model_prob": 16.0,
-      "best_odds": 8.5,
-      "book": "Sportsbet",
+      "model_prob": 61.9,
+      "best_odds": 2.2,
+      "book": "Pointsbet",
       "edge": 36.1,
-      "cv": 0.287,
+      "cv": 0.31,
       "confidence": 84.8,
-      "pred": 14.7,
-      "l10": 11.0
+      "pred": 21.9,
+      "l10": 20.0
     },
     {
       "player": "Matthew Kennedy",
@@ -155460,19 +155186,6 @@
       "confidence": 84.8,
       "pred": 26.7,
       "l10": 24.9
-    },
-    {
-      "player": "Jai Serong",
-      "team": "Sydney",
-      "threshold": 20,
-      "model_prob": 61.7,
-      "best_odds": 2.2,
-      "book": "Pointsbet",
-      "edge": 35.8,
-      "cv": 0.31,
-      "confidence": 84.8,
-      "pred": 21.9,
-      "l10": 20.0
     },
     {
       "player": "Connor Macdonald",
@@ -155538,19 +155251,6 @@
       "confidence": 84.8,
       "pred": 17.3,
       "l10": 15.5
-    },
-    {
-      "player": "Ed Richards",
-      "team": "Western Bulldogs",
-      "threshold": 24,
-      "model_prob": null,
-      "best_odds": 1.64,
-      "book": "Ladbrokes",
-      "edge": 35.2,
-      "cv": 0.146,
-      "confidence": 84.8,
-      "pred": 30.0,
-      "l10": 25.4
     },
     {
       "player": "Tylar Young",
@@ -155761,6 +155461,19 @@
       "l10": 15.6
     },
     {
+      "player": "Ed Richards",
+      "team": "Western Bulldogs",
+      "threshold": 34,
+      "model_prob": null,
+      "best_odds": 10.0,
+      "book": "Sportsbet",
+      "edge": 33.5,
+      "cv": 0.146,
+      "confidence": 84.8,
+      "pred": 27.4,
+      "l10": 25.4
+    },
+    {
       "player": "Harry Rowston",
       "team": "Greater Western Sydney",
       "threshold": 30,
@@ -155915,6 +155628,19 @@
       "confidence": 84.8,
       "pred": 25.2,
       "l10": 23.4
+    },
+    {
+      "player": "Nick Blakey",
+      "team": "Sydney",
+      "threshold": 34,
+      "model_prob": null,
+      "best_odds": 5.7,
+      "book": "Sportsbet",
+      "edge": 32.1,
+      "cv": 0.177,
+      "confidence": 84.8,
+      "pred": 29.3,
+      "l10": 26.1
     },
     {
       "player": "Lachie Whitfield",
@@ -156216,6 +155942,32 @@
       "l10": 12.3
     },
     {
+      "player": "Caiden Cleary",
+      "team": "Sydney",
+      "threshold": 24,
+      "model_prob": null,
+      "best_odds": 9.5,
+      "book": "Sportsbet",
+      "edge": 29.4,
+      "cv": 0.415,
+      "confidence": 84.8,
+      "pred": 14.7,
+      "l10": 11.3
+    },
+    {
+      "player": "Bailey Dale",
+      "team": "Western Bulldogs",
+      "threshold": 25,
+      "model_prob": 78.3,
+      "best_odds": 1.65,
+      "book": "Ladbrokes",
+      "edge": 29.3,
+      "cv": 0.216,
+      "confidence": 84.8,
+      "pred": 30.9,
+      "l10": 26.8
+    },
+    {
       "player": "Riley Thilthorpe",
       "team": "Adelaide",
       "threshold": 19,
@@ -156229,6 +155981,19 @@
       "l10": 13.1
     },
     {
+      "player": "Errol Gulden",
+      "team": "Sydney",
+      "threshold": 35,
+      "model_prob": 11.7,
+      "best_odds": 11.0,
+      "book": "Betr",
+      "edge": 29.0,
+      "cv": 0.23,
+      "confidence": 84.8,
+      "pred": 26.9,
+      "l10": 26.4
+    },
+    {
       "player": "Ben Ainsworth",
       "team": "Carlton",
       "threshold": 29,
@@ -156240,6 +156005,19 @@
       "confidence": 84.8,
       "pred": 22.2,
       "l10": 18.6
+    },
+    {
+      "player": "Tom McCartin",
+      "team": "Sydney",
+      "threshold": 20,
+      "model_prob": 68.7,
+      "best_odds": 1.87,
+      "book": "Sportsbet",
+      "edge": 28.4,
+      "cv": 0.284,
+      "confidence": 84.8,
+      "pred": 23.6,
+      "l10": 20.0
     },
     {
       "player": "Tim Kelly",
@@ -156320,19 +156098,6 @@
       "l10": 26.0
     },
     {
-      "player": "Tom McCartin",
-      "team": "Sydney",
-      "threshold": 20,
-      "model_prob": 68.4,
-      "best_odds": 1.87,
-      "book": "Sportsbet",
-      "edge": 28.0,
-      "cv": 0.284,
-      "confidence": 84.8,
-      "pred": 23.6,
-      "l10": 20.0
-    },
-    {
       "player": "Harry Himmelberg",
       "team": "Greater Western Sydney",
       "threshold": 25,
@@ -156359,6 +156124,19 @@
       "l10": 23.4
     },
     {
+      "player": "Nick Blakey",
+      "team": "Sydney",
+      "threshold": 40,
+      "model_prob": null,
+      "best_odds": 21.0,
+      "book": "TAB",
+      "edge": 27.7,
+      "cv": 0.177,
+      "confidence": 84.8,
+      "pred": 29.3,
+      "l10": 26.1
+    },
+    {
       "player": "Harvey Thomas",
       "team": "Greater Western Sydney",
       "threshold": 25,
@@ -156372,17 +156150,17 @@
       "l10": 20.3
     },
     {
-      "player": "Caiden Cleary",
+      "player": "Nick Blakey",
       "team": "Sydney",
-      "threshold": 24,
+      "threshold": 29,
       "model_prob": null,
-      "best_odds": 9.5,
-      "book": "Sportsbet",
-      "edge": 27.5,
-      "cv": 0.415,
+      "best_odds": 2.45,
+      "book": "Pointsbet",
+      "edge": 27.6,
+      "cv": 0.177,
       "confidence": 84.8,
-      "pred": 14.6,
-      "l10": 11.3
+      "pred": 29.3,
+      "l10": 26.1
     },
     {
       "player": "Jack Ross",
@@ -156476,19 +156254,6 @@
       "l10": 21.5
     },
     {
-      "player": "Nick Blakey",
-      "team": "Sydney",
-      "threshold": 25,
-      "model_prob": 82.0,
-      "best_odds": 1.55,
-      "book": "Betr",
-      "edge": 27.1,
-      "cv": 0.177,
-      "confidence": 84.8,
-      "pred": 31.3,
-      "l10": 26.1
-    },
-    {
       "player": "Leonardo Lombard",
       "team": "Gold Coast",
       "threshold": 30,
@@ -156552,6 +156317,19 @@
       "confidence": 84.8,
       "pred": 19.0,
       "l10": 16.4
+    },
+    {
+      "player": "Jai Serong",
+      "team": "Sydney",
+      "threshold": 19,
+      "model_prob": null,
+      "best_odds": 1.87,
+      "book": "Pointsbet",
+      "edge": 26.6,
+      "cv": 0.31,
+      "confidence": 84.8,
+      "pred": 21.9,
+      "l10": 20.0
     },
     {
       "player": "Patrick Lipinski",
@@ -156632,17 +156410,17 @@
       "l10": 15.1
     },
     {
-      "player": "Jai Serong",
+      "player": "Charlie Curnow",
       "team": "Sydney",
       "threshold": 19,
       "model_prob": null,
-      "best_odds": 1.87,
-      "book": "Pointsbet",
+      "best_odds": 6.0,
+      "book": "Sportsbet",
       "edge": 26.4,
-      "cv": 0.31,
+      "cv": 0.287,
       "confidence": 84.8,
-      "pred": 21.9,
-      "l10": 20.0
+      "pred": 14.8,
+      "l10": 11.0
     },
     {
       "player": "Clayton Oliver",
@@ -156671,17 +156449,17 @@
       "l10": 12.8
     },
     {
-      "player": "Bailey Dale",
-      "team": "Western Bulldogs",
-      "threshold": 24,
+      "player": "Errol Gulden",
+      "team": "Sydney",
+      "threshold": 40,
       "model_prob": null,
-      "best_odds": 1.48,
-      "book": "Ladbrokes",
-      "edge": 26.2,
-      "cv": 0.216,
+      "best_odds": 34.0,
+      "book": "TAB",
+      "edge": 26.0,
+      "cv": 0.23,
       "confidence": 84.8,
-      "pred": 32.4,
-      "l10": 26.8
+      "pred": 26.9,
+      "l10": 26.4
     },
     {
       "player": "Koltyn Tholstrup",
@@ -156697,6 +156475,19 @@
       "l10": 17.3
     },
     {
+      "player": "Errol Gulden",
+      "team": "Sydney",
+      "threshold": 30,
+      "model_prob": 31.4,
+      "best_odds": 4.0,
+      "book": "Betr",
+      "edge": 25.8,
+      "cv": 0.23,
+      "confidence": 84.8,
+      "pred": 26.9,
+      "l10": 26.4
+    },
+    {
       "player": "Max Gawn",
       "team": "Melbourne",
       "threshold": 19,
@@ -156708,19 +156499,6 @@
       "confidence": 84.8,
       "pred": 24.3,
       "l10": 21.1
-    },
-    {
-      "player": "Ryley Sanders",
-      "team": "Western Bulldogs",
-      "threshold": 19,
-      "model_prob": null,
-      "best_odds": 1.33,
-      "book": "Pointsbet",
-      "edge": 25.5,
-      "cv": 0.202,
-      "confidence": 84.8,
-      "pred": 29.5,
-      "l10": 25.7
     },
     {
       "player": "Max Michalanney",
@@ -156773,6 +156551,19 @@
       "confidence": 84.8,
       "pred": 28.4,
       "l10": 27.4
+    },
+    {
+      "player": "Ed Richards",
+      "team": "Western Bulldogs",
+      "threshold": 35,
+      "model_prob": 10.4,
+      "best_odds": 12.0,
+      "book": "Sportsbet",
+      "edge": 24.9,
+      "cv": 0.146,
+      "confidence": 84.8,
+      "pred": 27.4,
+      "l10": 25.4
     },
     {
       "player": "Sam Berry",
@@ -156840,19 +156631,6 @@
       "l10": 26.0
     },
     {
-      "player": "Charlie Curnow",
-      "team": "Sydney",
-      "threshold": 19,
-      "model_prob": null,
-      "best_odds": 6.0,
-      "book": "Sportsbet",
-      "edge": 24.0,
-      "cv": 0.287,
-      "confidence": 84.8,
-      "pred": 14.7,
-      "l10": 11.0
-    },
-    {
       "player": "Connor Macdonald",
       "team": "Hawthorn",
       "threshold": 25,
@@ -156890,6 +156668,19 @@
       "confidence": 84.8,
       "pred": 28.1,
       "l10": 23.8
+    },
+    {
+      "player": "Ed Richards",
+      "team": "Western Bulldogs",
+      "threshold": 25,
+      "model_prob": 66.2,
+      "best_odds": 1.87,
+      "book": "Pointsbet",
+      "edge": 23.7,
+      "cv": 0.146,
+      "confidence": 84.8,
+      "pred": 27.4,
+      "l10": 25.4
     },
     {
       "player": "Lachie Schultz",
@@ -156931,6 +156722,19 @@
       "l10": 17.2
     },
     {
+      "player": "Tom McCartin",
+      "team": "Sydney",
+      "threshold": 19,
+      "model_prob": null,
+      "best_odds": 1.69,
+      "book": "Pointsbet",
+      "edge": 23.6,
+      "cv": 0.284,
+      "confidence": 84.8,
+      "pred": 23.6,
+      "l10": 20.0
+    },
+    {
       "player": "Lachlan Bramble",
       "team": "Western Bulldogs",
       "threshold": 29,
@@ -156955,19 +156759,6 @@
       "confidence": 84.8,
       "pred": 26.3,
       "l10": 22.1
-    },
-    {
-      "player": "Tom McCartin",
-      "team": "Sydney",
-      "threshold": 19,
-      "model_prob": null,
-      "best_odds": 1.69,
-      "book": "Pointsbet",
-      "edge": 23.3,
-      "cv": 0.284,
-      "confidence": 84.8,
-      "pred": 23.6,
-      "l10": 20.0
     },
     {
       "player": "Tom Lynch",
@@ -157048,6 +156839,19 @@
       "l10": 15.1
     },
     {
+      "player": "Errol Gulden",
+      "team": "Sydney",
+      "threshold": 29,
+      "model_prob": null,
+      "best_odds": 3.3,
+      "book": "Pointsbet",
+      "edge": 22.1,
+      "cv": 0.23,
+      "confidence": 84.8,
+      "pred": 26.9,
+      "l10": 26.4
+    },
+    {
       "player": "Connor Macdonald",
       "team": "Hawthorn",
       "threshold": 34,
@@ -157098,6 +156902,19 @@
       "confidence": 84.8,
       "pred": 13.1,
       "l10": 11.6
+    },
+    {
+      "player": "Ryley Sanders",
+      "team": "Western Bulldogs",
+      "threshold": 20,
+      "model_prob": 82.4,
+      "best_odds": 1.48,
+      "book": "Pointsbet",
+      "edge": 21.9,
+      "cv": 0.202,
+      "confidence": 84.8,
+      "pred": 24.8,
+      "l10": 25.7
     },
     {
       "player": "Xavier Duursma",
@@ -157178,6 +156995,19 @@
       "l10": 25.2
     },
     {
+      "player": "Bailey Dale",
+      "team": "Western Bulldogs",
+      "threshold": 24,
+      "model_prob": null,
+      "best_odds": 1.48,
+      "book": "Ladbrokes",
+      "edge": 21.1,
+      "cv": 0.216,
+      "confidence": 84.8,
+      "pred": 30.9,
+      "l10": 26.8
+    },
+    {
       "player": "Luke Jackson",
       "team": "Fremantle",
       "threshold": 34,
@@ -157241,6 +157071,19 @@
       "confidence": 84.8,
       "pred": 18.6,
       "l10": 15.9
+    },
+    {
+      "player": "Charlie Curnow",
+      "team": "Sydney",
+      "threshold": 15,
+      "model_prob": 48.1,
+      "best_odds": 2.5,
+      "book": "Ladbrokes",
+      "edge": 20.2,
+      "cv": 0.287,
+      "confidence": 84.8,
+      "pred": 14.8,
+      "l10": 11.0
     },
     {
       "player": "Beau McCreery",
@@ -157308,19 +157151,6 @@
       "l10": 14.0
     },
     {
-      "player": "Nick Blakey",
-      "team": "Sydney",
-      "threshold": 24,
-      "model_prob": null,
-      "best_odds": 1.4,
-      "book": "Pointsbet",
-      "edge": 19.4,
-      "cv": 0.177,
-      "confidence": 84.8,
-      "pred": 31.3,
-      "l10": 26.1
-    },
-    {
       "player": "Tim Membrey",
       "team": "Collingwood",
       "threshold": 15,
@@ -157384,19 +157214,6 @@
       "confidence": 84.8,
       "pred": 16.5,
       "l10": 13.6
-    },
-    {
-      "player": "Charlie Curnow",
-      "team": "Sydney",
-      "threshold": 15,
-      "model_prob": 47.6,
-      "best_odds": 2.5,
-      "book": "Ladbrokes",
-      "edge": 19.0,
-      "cv": 0.287,
-      "confidence": 84.8,
-      "pred": 14.7,
-      "l10": 11.0
     },
     {
       "player": "Darcy Fogarty",
@@ -157503,6 +157320,19 @@
       "l10": 10.8
     },
     {
+      "player": "Ed Richards",
+      "team": "Western Bulldogs",
+      "threshold": 24,
+      "model_prob": null,
+      "best_odds": 1.64,
+      "book": "Ladbrokes",
+      "edge": 18.4,
+      "cv": 0.146,
+      "confidence": 84.8,
+      "pred": 27.4,
+      "l10": 25.4
+    },
+    {
       "player": "Josh Rachele",
       "team": "Adelaide",
       "threshold": 15,
@@ -157553,19 +157383,6 @@
       "confidence": 84.8,
       "pred": 18.1,
       "l10": 15.7
-    },
-    {
-      "player": "Isaac Heeney",
-      "team": "Sydney",
-      "threshold": 25,
-      "model_prob": 89.2,
-      "best_odds": 1.32,
-      "book": "Ladbrokes",
-      "edge": 17.7,
-      "cv": 0.124,
-      "confidence": 84.8,
-      "pred": 33.8,
-      "l10": 29.1
     },
     {
       "player": "Sam Durham",
@@ -157631,6 +157448,19 @@
       "confidence": 84.8,
       "pred": 33.7,
       "l10": 30.0
+    },
+    {
+      "player": "Charlie Curnow",
+      "team": "Sydney",
+      "threshold": 14,
+      "model_prob": null,
+      "best_odds": 2.1,
+      "book": "Ladbrokes",
+      "edge": 17.2,
+      "cv": 0.287,
+      "confidence": 84.8,
+      "pred": 14.8,
+      "l10": 11.0
     },
     {
       "player": "Leonardo Lombard",
@@ -157724,6 +157554,19 @@
       "l10": 13.7
     },
     {
+      "player": "Nick Blakey",
+      "team": "Sydney",
+      "threshold": 25,
+      "model_prob": 75.2,
+      "best_odds": 1.55,
+      "book": "Betr",
+      "edge": 16.6,
+      "cv": 0.177,
+      "confidence": 84.8,
+      "pred": 29.3,
+      "l10": 26.1
+    },
+    {
       "player": "Koltyn Tholstrup",
       "team": "Melbourne",
       "threshold": 14,
@@ -157737,6 +157580,32 @@
       "l10": 17.3
     },
     {
+      "player": "Isaac Heeney",
+      "team": "Sydney",
+      "threshold": 25,
+      "model_prob": 88.3,
+      "best_odds": 1.32,
+      "book": "Ladbrokes",
+      "edge": 16.5,
+      "cv": 0.124,
+      "confidence": 84.8,
+      "pred": 33.3,
+      "l10": 29.1
+    },
+    {
+      "player": "Caiden Cleary",
+      "team": "Sydney",
+      "threshold": 29,
+      "model_prob": null,
+      "best_odds": 21.0,
+      "book": "Pointsbet",
+      "edge": 16.4,
+      "cv": 0.415,
+      "confidence": 84.8,
+      "pred": 14.7,
+      "l10": 11.3
+    },
+    {
       "player": "Jagga Smith",
       "team": "Carlton",
       "threshold": 29,
@@ -157748,19 +157617,6 @@
       "confidence": 84.8,
       "pred": 28.6,
       "l10": 25.5
-    },
-    {
-      "player": "Charlie Curnow",
-      "team": "Sydney",
-      "threshold": 14,
-      "model_prob": null,
-      "best_odds": 2.1,
-      "book": "Ladbrokes",
-      "edge": 16.3,
-      "cv": 0.287,
-      "confidence": 84.8,
-      "pred": 14.7,
-      "l10": 11.0
     },
     {
       "player": "Nic Newman",
@@ -157906,6 +157762,19 @@
       "l10": 21.5
     },
     {
+      "player": "Ryley Sanders",
+      "team": "Western Bulldogs",
+      "threshold": 19,
+      "model_prob": null,
+      "best_odds": 1.33,
+      "book": "Pointsbet",
+      "edge": 15.1,
+      "cv": 0.202,
+      "confidence": 84.8,
+      "pred": 24.8,
+      "l10": 25.7
+    },
+    {
       "player": "Joe Fonti",
       "team": "Greater Western Sydney",
       "threshold": 15,
@@ -157984,6 +157853,19 @@
       "l10": 18.6
     },
     {
+      "player": "Errol Gulden",
+      "team": "Sydney",
+      "threshold": 25,
+      "model_prob": 61.3,
+      "best_odds": 1.87,
+      "book": "Pointsbet",
+      "edge": 14.6,
+      "cv": 0.23,
+      "confidence": 84.8,
+      "pred": 26.9,
+      "l10": 26.4
+    },
+    {
       "player": "Tom Sparrow",
       "team": "Melbourne",
       "threshold": 30,
@@ -158008,6 +157890,19 @@
       "confidence": 84.8,
       "pred": 20.6,
       "l10": 18.1
+    },
+    {
+      "player": "Errol Gulden",
+      "team": "Sydney",
+      "threshold": 24,
+      "model_prob": null,
+      "best_odds": 1.71,
+      "book": "Pointsbet",
+      "edge": 14.5,
+      "cv": 0.23,
+      "confidence": 84.8,
+      "pred": 26.9,
+      "l10": 26.4
     },
     {
       "player": "Jack Ross",
@@ -158073,19 +157968,6 @@
       "confidence": 84.8,
       "pred": 19.1,
       "l10": 15.4
-    },
-    {
-      "player": "Caiden Cleary",
-      "team": "Sydney",
-      "threshold": 29,
-      "model_prob": null,
-      "best_odds": 21.0,
-      "book": "Pointsbet",
-      "edge": 14.2,
-      "cv": 0.415,
-      "confidence": 84.8,
-      "pred": 14.6,
-      "l10": 11.3
     },
     {
       "player": "Elliot Yeo",
@@ -158478,6 +158360,19 @@
       "l10": 18.2
     },
     {
+      "player": "Nick Blakey",
+      "team": "Sydney",
+      "threshold": 24,
+      "model_prob": null,
+      "best_odds": 1.4,
+      "book": "Pointsbet",
+      "edge": 11.5,
+      "cv": 0.177,
+      "confidence": 84.8,
+      "pred": 29.3,
+      "l10": 26.1
+    },
+    {
       "player": "Sam Berry",
       "team": "Adelaide",
       "threshold": 20,
@@ -158582,6 +158477,19 @@
       "l10": 17.6
     },
     {
+      "player": "Brodie Grundy",
+      "team": "Sydney",
+      "threshold": 20,
+      "model_prob": 64.4,
+      "best_odds": 1.72,
+      "book": "Betr",
+      "edge": 10.7,
+      "cv": 0.239,
+      "confidence": 84.8,
+      "pred": 23.1,
+      "l10": 20.9
+    },
+    {
       "player": "Ed Langdon",
       "team": "Melbourne",
       "threshold": 25,
@@ -158619,32 +158527,6 @@
       "confidence": 84.8,
       "pred": 20.3,
       "l10": 20.3
-    },
-    {
-      "player": "Ed Richards",
-      "team": "Western Bulldogs",
-      "threshold": 20,
-      "model_prob": 92.9,
-      "best_odds": 1.19,
-      "book": "Ladbrokes",
-      "edge": 10.6,
-      "cv": 0.146,
-      "confidence": 84.8,
-      "pred": 30.0,
-      "l10": 25.4
-    },
-    {
-      "player": "Brodie Grundy",
-      "team": "Sydney",
-      "threshold": 20,
-      "model_prob": 64.2,
-      "best_odds": 1.72,
-      "book": "Betr",
-      "edge": 10.5,
-      "cv": 0.239,
-      "confidence": 84.8,
-      "pred": 23.1,
-      "l10": 20.9
     },
     {
       "player": "Tom Blamires",
@@ -158855,19 +158737,6 @@
       "l10": 16.3
     },
     {
-      "player": "Isaac Heeney",
-      "team": "Sydney",
-      "threshold": 24,
-      "model_prob": null,
-      "best_odds": 1.2,
-      "book": "Pointsbet",
-      "edge": 9.5,
-      "cv": 0.124,
-      "confidence": 84.8,
-      "pred": 33.8,
-      "l10": 29.1
-    },
-    {
       "player": "Andrew Brayshaw",
       "team": "Fremantle",
       "threshold": 24,
@@ -158972,6 +158841,19 @@
       "l10": 14.1
     },
     {
+      "player": "Errol Gulden",
+      "team": "Sydney",
+      "threshold": 34,
+      "model_prob": null,
+      "best_odds": 7.5,
+      "book": "Pointsbet",
+      "edge": 9.1,
+      "cv": 0.23,
+      "confidence": 84.8,
+      "pred": 26.9,
+      "l10": 26.4
+    },
+    {
       "player": "Trent Rivers",
       "team": "Melbourne",
       "threshold": 20,
@@ -159022,6 +158904,19 @@
       "confidence": 84.8,
       "pred": 11.3,
       "l10": 10.4
+    },
+    {
+      "player": "Isaac Heeney",
+      "team": "Sydney",
+      "threshold": 24,
+      "model_prob": null,
+      "best_odds": 1.2,
+      "book": "Pointsbet",
+      "edge": 8.7,
+      "cv": 0.124,
+      "confidence": 84.8,
+      "pred": 33.3,
+      "l10": 29.1
     },
     {
       "player": "Lachlan Bramble",
@@ -159271,19 +159166,6 @@
       "l10": 12.3
     },
     {
-      "player": "Errol Gulden",
-      "team": "Sydney",
-      "threshold": 20,
-      "model_prob": 91.2,
-      "best_odds": 1.18,
-      "book": "Pointsbet",
-      "edge": 7.7,
-      "cv": 0.23,
-      "confidence": 84.8,
-      "pred": 30.9,
-      "l10": 26.4
-    },
-    {
       "player": "Alex Neal-Bullen",
       "team": "Adelaide",
       "threshold": 20,
@@ -159313,10 +159195,10 @@
       "player": "James Jordon",
       "team": "Sydney",
       "threshold": 15,
-      "model_prob": 61.3,
+      "model_prob": 61.4,
       "best_odds": 1.75,
       "book": "Ladbrokes",
-      "edge": 7.3,
+      "edge": 7.4,
       "cv": 0.16,
       "confidence": 84.8,
       "pred": 16.2,
@@ -159635,6 +159517,19 @@
       "l10": 20.7
     },
     {
+      "player": "Ed Richards",
+      "team": "Western Bulldogs",
+      "threshold": 20,
+      "model_prob": 88.9,
+      "best_odds": 1.19,
+      "book": "Ladbrokes",
+      "edge": 5.8,
+      "cv": 0.146,
+      "confidence": 84.8,
+      "pred": 27.4,
+      "l10": 25.4
+    },
+    {
       "player": "Lachie Whitfield",
       "team": "Greater Western Sydney",
       "threshold": 24,
@@ -159869,19 +159764,6 @@
       "l10": 23.1
     },
     {
-      "player": "Ed Richards",
-      "team": "Western Bulldogs",
-      "threshold": 19,
-      "model_prob": null,
-      "best_odds": 1.11,
-      "book": "Pointsbet",
-      "edge": 4.8,
-      "cv": 0.146,
-      "confidence": 84.8,
-      "pred": 30.0,
-      "l10": 25.4
-    },
-    {
       "player": "Aaron Naughton",
       "team": "Western Bulldogs",
       "threshold": 15,
@@ -159997,19 +159879,6 @@
       "confidence": 84.8,
       "pred": 25.9,
       "l10": 24.3
-    },
-    {
-      "player": "Bailey Dale",
-      "team": "Western Bulldogs",
-      "threshold": 20,
-      "model_prob": 93.0,
-      "best_odds": 1.12,
-      "book": "Ladbrokes",
-      "edge": 4.2,
-      "cv": 0.216,
-      "confidence": 84.8,
-      "pred": 32.4,
-      "l10": 26.8
     },
     {
       "player": "Rory Laird",
@@ -160207,6 +160076,19 @@
       "l10": 14.1
     },
     {
+      "player": "Caiden Cleary",
+      "team": "Sydney",
+      "threshold": 20,
+      "model_prob": 25.8,
+      "best_odds": 4.0,
+      "book": "Sportsbet",
+      "edge": 3.2,
+      "cv": 0.415,
+      "confidence": 84.8,
+      "pred": 14.7,
+      "l10": 11.3
+    },
+    {
       "player": "Josh Treacy",
       "team": "Fremantle",
       "threshold": 10,
@@ -160231,6 +160113,19 @@
       "confidence": 84.8,
       "pred": 22.4,
       "l10": 18.7
+    },
+    {
+      "player": "Charlie Curnow",
+      "team": "Sydney",
+      "threshold": 25,
+      "model_prob": 4.0,
+      "best_odds": 26.0,
+      "book": "TAB",
+      "edge": 3.1,
+      "cv": 0.287,
+      "confidence": 84.8,
+      "pred": 14.8,
+      "l10": 11.0
     },
     {
       "player": "Tom McCarthy",
@@ -160283,19 +160178,6 @@
       "confidence": 84.8,
       "pred": 19.1,
       "l10": 18.2
-    },
-    {
-      "player": "Errol Gulden",
-      "team": "Sydney",
-      "threshold": 19,
-      "model_prob": null,
-      "best_odds": 1.11,
-      "book": "Pointsbet",
-      "edge": 3.0,
-      "cv": 0.23,
-      "confidence": 84.8,
-      "pred": 30.9,
-      "l10": 26.4
     },
     {
       "player": "Isaac Kako",
