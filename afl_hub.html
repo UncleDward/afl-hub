@@ -528,7 +528,13 @@ function showDetail(name){
     +'<div><div class="ct">Prediction breakdown</div>'
     +[['Prediction',p.pred],['L10 avg',p.l10],['L5 avg',p.l5],['Confidence',p.conf||'—'],['CV',p.cv||'—'],['Consistency',cvLabel(p.cv)]].map(function(r){
       return '<div class="stat-row"><span style="color:var(--mu)">'+r[0]+'</span><span style="font-weight:600">'+r[1]+'</span></div>';
-    }).join('')+'</div>'
+    }).join('')
+    +(p.vs_opp&&p.vs_opp.n_games>0?
+      '<div class="stat-row" style="margin-top:4px;padding-top:4px;border-top:1px solid var(--b)"><span style="color:var(--mu)">vs opp L5</span><span style="font-weight:600">'+(p.vs_opp.l5!=null?p.vs_opp.l5:'—')+'</span></div>'
+      +'<div class="stat-row"><span style="color:var(--mu)">vs opp L3</span><span style="font-weight:600">'+(p.vs_opp.l3!=null?p.vs_opp.l3:'—')+'</span></div>'
+      +'<div class="stat-row"><span style="color:var(--mu);font-size:9px">('+p.vs_opp.n_games+' career meetings)</span></div>'
+      :'<div class="stat-row" style="margin-top:4px;padding-top:4px;border-top:1px solid var(--b)"><span style="color:var(--mu);font-size:10px">No history vs opponent</span></div>')
+    +'</div>'
     +'<div><div class="ct">Hit rates (last 15)</div>'
     +[10,15,20,25,30,35].map(function(t){
       var hr=p.hit_rates[String(t)]||{};
