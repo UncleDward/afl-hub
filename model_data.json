@@ -1,7 +1,7 @@
 {
   "meta": {
     "round": 24,
-    "generated_at": "2026-08-21 17:50:43",
+    "generated_at": "2026-08-21 18:23:20",
     "model_version": "v2.1",
     "season": 2026
   },
@@ -100,7 +100,7 @@
               "book": "Ladbrokes"
             },
             "27": {
-              "odds": 1.27,
+              "odds": 1.25,
               "book": "Pointsbet"
             },
             "28": {
@@ -108,7 +108,7 @@
               "book": "Ladbrokes"
             },
             "29": {
-              "odds": 1.48,
+              "odds": 1.44,
               "book": "Pointsbet"
             },
             "30": {
@@ -180,7 +180,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.14
+                "odds": 1.13
               },
               {
                 "book": "BetRight",
@@ -216,7 +216,7 @@
             "27": [
               {
                 "book": "Pointsbet",
-                "odds": 1.27
+                "odds": 1.25
               },
               {
                 "book": "Sportsbet",
@@ -230,7 +230,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.36
+                "odds": 1.33
               },
               {
                 "book": "Sportsbet",
@@ -240,7 +240,7 @@
             "29": [
               {
                 "book": "Pointsbet",
-                "odds": 1.48
+                "odds": 1.44
               },
               {
                 "book": "Sportsbet",
@@ -258,7 +258,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.63
+                "odds": 1.59
               },
               {
                 "book": "Betr",
@@ -280,7 +280,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.8
+                "odds": 1.77
               }
             ],
             "32": [
@@ -304,7 +304,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.3
+                "odds": 2.25
               }
             ],
             "34": [
@@ -331,11 +331,11 @@
                 "odds": 3.1
               },
               {
-                "book": "Pointsbet",
-                "odds": 3.1
+                "book": "Betr",
+                "odds": 3.0
               },
               {
-                "book": "Betr",
+                "book": "Pointsbet",
                 "odds": 3.0
               },
               {
@@ -354,7 +354,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.6
+                "odds": 3.4
               },
               {
                 "book": "Ladbrokes",
@@ -378,7 +378,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 5.0
+                "odds": 4.75
               },
               {
                 "book": "Ladbrokes",
@@ -456,7 +456,7 @@
           },
           "edges": {
             "25": 10.3,
-            "29": 18.3,
+            "29": 15.1,
             "30": 21.7,
             "34": -1.7,
             "35": -11.2,
@@ -547,11 +547,11 @@
           },
           "best_odds": {
             "23": {
-              "odds": 1.21,
+              "odds": 1.19,
               "book": "Pointsbet"
             },
             "24": {
-              "odds": 1.29,
+              "odds": 1.27,
               "book": "Pointsbet"
             },
             "25": {
@@ -567,7 +567,7 @@
               "book": "Pointsbet"
             },
             "28": {
-              "odds": 1.88,
+              "odds": 1.9,
               "book": "Pointsbet"
             },
             "29": {
@@ -575,7 +575,7 @@
               "book": "Pointsbet"
             },
             "30": {
-              "odds": 2.4,
+              "odds": 2.5,
               "book": "Pointsbet"
             },
             "31": {
@@ -607,7 +607,7 @@
               "book": "Pointsbet"
             },
             "38": {
-              "odds": 9.5,
+              "odds": 10.0,
               "book": "Pointsbet"
             },
             "39": {
@@ -623,11 +623,11 @@
               "book": "Pointsbet"
             },
             "19": {
-              "odds": 1.04,
+              "odds": 1.03,
               "book": "Pointsbet"
             },
             "21": {
-              "odds": 1.1,
+              "odds": 1.09,
               "book": "Pointsbet"
             },
             "22": {
@@ -639,7 +639,7 @@
             "23": [
               {
                 "book": "Pointsbet",
-                "odds": 1.21
+                "odds": 1.19
               },
               {
                 "book": "Sportsbet",
@@ -649,7 +649,7 @@
             "24": [
               {
                 "book": "Pointsbet",
-                "odds": 1.29
+                "odds": 1.27
               },
               {
                 "book": "Ladbrokes",
@@ -713,7 +713,7 @@
             "28": [
               {
                 "book": "Pointsbet",
-                "odds": 1.88
+                "odds": 1.9
               },
               {
                 "book": "Ladbrokes",
@@ -737,7 +737,7 @@
             "30": [
               {
                 "book": "Pointsbet",
-                "odds": 2.4
+                "odds": 2.5
               },
               {
                 "book": "Betr",
@@ -861,7 +861,7 @@
             "38": [
               {
                 "book": "Pointsbet",
-                "odds": 9.5
+                "odds": 10.0
               },
               {
                 "book": "Sportsbet",
@@ -921,13 +921,13 @@
             "19": [
               {
                 "book": "Pointsbet",
-                "odds": 1.04
+                "odds": 1.03
               }
             ],
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 1.1
+                "odds": 1.09
               }
             ],
             "22": [
@@ -942,16 +942,16 @@
             ]
           },
           "edges": {
-            "24": 8.9,
+            "24": 7.2,
             "25": 13.6,
             "29": 36.3,
-            "30": 39.1,
+            "30": 44.9,
             "34": 60.4,
             "35": 68.3,
             "39": 80.7,
             "40": 85.5,
             "20": -1.3,
-            "19": -1.8
+            "19": -2.8
           },
           "vs_opp": {
             "l5": 30.6,
@@ -1036,7 +1036,7 @@
           },
           "best_odds": {
             "29": {
-              "odds": 1.19,
+              "odds": 1.18,
               "book": "Pointsbet"
             },
             "30": {
@@ -1052,11 +1052,11 @@
               "book": "Pointsbet"
             },
             "33": {
-              "odds": 1.53,
+              "odds": 1.56,
               "book": "Pointsbet"
             },
             "34": {
-              "odds": 1.67,
+              "odds": 1.69,
               "book": "Pointsbet"
             },
             "35": {
@@ -1068,19 +1068,19 @@
               "book": "Pointsbet"
             },
             "37": {
-              "odds": 2.35,
+              "odds": 2.4,
               "book": "Pointsbet"
             },
             "38": {
-              "odds": 2.7,
+              "odds": 2.75,
               "book": "Pointsbet"
             },
             "39": {
-              "odds": 3.1,
+              "odds": 3.25,
               "book": "Pointsbet"
             },
             "40": {
-              "odds": 3.6,
+              "odds": 3.7,
               "book": "Pointsbet"
             },
             "25": {
@@ -1100,7 +1100,7 @@
               "book": "Pointsbet"
             },
             "28": {
-              "odds": 1.14,
+              "odds": 1.13,
               "book": "Pointsbet"
             }
           },
@@ -1108,7 +1108,7 @@
             "29": [
               {
                 "book": "Pointsbet",
-                "odds": 1.19
+                "odds": 1.18
               },
               {
                 "book": "Sportsbet",
@@ -1168,7 +1168,7 @@
             "33": [
               {
                 "book": "Pointsbet",
-                "odds": 1.53
+                "odds": 1.56
               },
               {
                 "book": "Sportsbet",
@@ -1178,7 +1178,7 @@
             "34": [
               {
                 "book": "Pointsbet",
-                "odds": 1.67
+                "odds": 1.69
               },
               {
                 "book": "Ladbrokes",
@@ -1232,7 +1232,7 @@
             "37": [
               {
                 "book": "Pointsbet",
-                "odds": 2.35
+                "odds": 2.4
               },
               {
                 "book": "Sportsbet",
@@ -1242,7 +1242,7 @@
             "38": [
               {
                 "book": "Pointsbet",
-                "odds": 2.7
+                "odds": 2.75
               },
               {
                 "book": "Ladbrokes",
@@ -1256,7 +1256,7 @@
             "39": [
               {
                 "book": "Pointsbet",
-                "odds": 3.1
+                "odds": 3.25
               },
               {
                 "book": "Sportsbet",
@@ -1266,7 +1266,7 @@
             "40": [
               {
                 "book": "Pointsbet",
-                "odds": 3.6
+                "odds": 3.7
               },
               {
                 "book": "Betr",
@@ -1324,7 +1324,7 @@
             "28": [
               {
                 "book": "Pointsbet",
-                "odds": 1.14
+                "odds": 1.13
               },
               {
                 "book": "Ladbrokes",
@@ -1333,11 +1333,11 @@
             ]
           },
           "edges": {
-            "29": -46.7,
+            "29": -47.1,
             "30": -54.2,
-            "34": -78.3,
+            "34": -78.0,
             "35": -81.9,
-            "39": -91.7,
+            "39": -91.3,
             "25": -21.1
           },
           "vs_opp": {
@@ -1423,7 +1423,7 @@
           },
           "best_odds": {
             "24": {
-              "odds": 1.4,
+              "odds": 1.36,
               "book": "Pointsbet"
             },
             "25": {
@@ -1459,11 +1459,11 @@
               "book": "Pointsbet"
             },
             "33": {
-              "odds": 4.75,
+              "odds": 4.5,
               "book": "Pointsbet"
             },
             "34": {
-              "odds": 5.75,
+              "odds": 5.5,
               "book": "Pointsbet"
             },
             "35": {
@@ -1479,15 +1479,15 @@
               "book": "Pointsbet"
             },
             "38": {
-              "odds": 12.0,
+              "odds": 13.0,
               "book": "Pointsbet"
             },
             "39": {
-              "odds": 15.0,
+              "odds": 16.0,
               "book": "Pointsbet"
             },
             "40": {
-              "odds": 19.0,
+              "odds": 21.0,
               "book": "Pointsbet"
             },
             "20": {
@@ -1503,7 +1503,7 @@
               "book": "Pointsbet"
             },
             "22": {
-              "odds": 1.19,
+              "odds": 1.18,
               "book": "Pointsbet"
             },
             "23": {
@@ -1515,7 +1515,7 @@
             "24": [
               {
                 "book": "Pointsbet",
-                "odds": 1.4
+                "odds": 1.36
               },
               {
                 "book": "Ladbrokes",
@@ -1653,7 +1653,7 @@
             "33": [
               {
                 "book": "Pointsbet",
-                "odds": 4.75
+                "odds": 4.5
               },
               {
                 "book": "Sportsbet",
@@ -1663,7 +1663,7 @@
             "34": [
               {
                 "book": "Pointsbet",
-                "odds": 5.75
+                "odds": 5.5
               },
               {
                 "book": "Sportsbet",
@@ -1727,7 +1727,7 @@
             "38": [
               {
                 "book": "Pointsbet",
-                "odds": 12.0
+                "odds": 13.0
               },
               {
                 "book": "Sportsbet",
@@ -1741,7 +1741,7 @@
             "39": [
               {
                 "book": "Pointsbet",
-                "odds": 15.0
+                "odds": 16.0
               },
               {
                 "book": "Sportsbet",
@@ -1751,7 +1751,7 @@
             "40": [
               {
                 "book": "Pointsbet",
-                "odds": 19.0
+                "odds": 21.0
               },
               {
                 "book": "Betr",
@@ -1799,7 +1799,7 @@
             "22": [
               {
                 "book": "Pointsbet",
-                "odds": 1.19
+                "odds": 1.18
               },
               {
                 "book": "Ladbrokes",
@@ -1814,14 +1814,14 @@
             ]
           },
           "edges": {
-            "24": -17.1,
+            "24": -19.5,
             "25": -19.5,
             "29": -22.8,
             "30": -21.7,
-            "34": -22.9,
+            "34": -26.2,
             "35": -28.3,
-            "39": -27.7,
-            "40": -26.0,
+            "39": -22.9,
+            "40": -18.2,
             "20": -15.8,
             "19": -14.3
           },
@@ -1912,92 +1912,92 @@
               "book": "Ladbrokes"
             },
             "23": {
-              "odds": 1.36,
+              "odds": 1.27,
               "book": "Pointsbet"
             },
             "24": {
               "odds": 1.48,
-              "book": "Pointsbet"
+              "book": "Ladbrokes"
             },
             "25": {
               "odds": 1.65,
-              "book": "Pointsbet"
+              "book": "Ladbrokes"
             },
             "26": {
+              "odds": 1.8,
+              "book": "Ladbrokes"
+            },
+            "27": {
               "odds": 1.88,
               "book": "Pointsbet"
             },
-            "27": {
-              "odds": 2.15,
-              "book": "Pointsbet"
-            },
             "28": {
-              "odds": 2.5,
-              "book": "Pointsbet"
+              "odds": 2.3,
+              "book": "Ladbrokes"
             },
             "29": {
-              "odds": 2.85,
-              "book": "Pointsbet"
+              "odds": 2.52,
+              "book": "Sportsbet"
             },
             "30": {
-              "odds": 3.4,
-              "book": "Pointsbet"
+              "odds": 3.1,
+              "book": "Ladbrokes"
             },
             "31": {
-              "odds": 3.9,
-              "book": "Pointsbet"
+              "odds": 3.5,
+              "book": "Sportsbet"
             },
             "32": {
-              "odds": 4.75,
-              "book": "Pointsbet"
+              "odds": 4.25,
+              "book": "Sportsbet"
             },
             "33": {
-              "odds": 5.75,
-              "book": "Pointsbet"
+              "odds": 5.2,
+              "book": "Sportsbet"
             },
             "34": {
-              "odds": 7.0,
-              "book": "Pointsbet"
+              "odds": 6.2,
+              "book": "Ladbrokes"
             },
             "35": {
-              "odds": 8.5,
-              "book": "Pointsbet"
+              "odds": 7.5,
+              "book": "Sportsbet"
             },
             "36": {
+              "odds": 9.5,
+              "book": "Sportsbet"
+            },
+            "37": {
               "odds": 10.5,
               "book": "Pointsbet"
             },
-            "37": {
-              "odds": 13.0,
-              "book": "Pointsbet"
-            },
             "38": {
+              "odds": 14.0,
+              "book": "Ladbrokes"
+            },
+            "39": {
               "odds": 16.0,
               "book": "Pointsbet"
             },
-            "39": {
-              "odds": 21.0,
-              "book": "Pointsbet"
-            },
             "40": {
-              "odds": 26.0,
-              "book": "Pointsbet"
+              "odds": 23.0,
+              "book": "Ladbrokes"
             },
             "20": {
               "odds": 1.12,
               "book": "Ladbrokes"
             },
-            "18": {
-              "odds": 1.04,
-              "book": "Pointsbet"
-            },
             "19": {
-              "odds": 1.07,
+              "odds": 1.05,
               "book": "Pointsbet"
             },
             "21": {
-              "odds": 1.18,
+              "odds": 1.13,
               "book": "Pointsbet"
+            },
+            "18": {
+              "odds": 1.01,
+              "book": "Ladbrokes"
             }
           },
           "all_odds": {
@@ -2008,7 +2008,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.25
+                "odds": 1.19
               },
               {
                 "book": "Sportsbet",
@@ -2018,7 +2018,7 @@
             "23": [
               {
                 "book": "Pointsbet",
-                "odds": 1.36
+                "odds": 1.27
               },
               {
                 "book": "Sportsbet",
@@ -2027,12 +2027,12 @@
             ],
             "24": [
               {
-                "book": "Pointsbet",
+                "book": "Ladbrokes",
                 "odds": 1.48
               },
               {
-                "book": "Ladbrokes",
-                "odds": 1.48
+                "book": "Pointsbet",
+                "odds": 1.4
               },
               {
                 "book": "Sportsbet",
@@ -2041,12 +2041,12 @@
             ],
             "25": [
               {
-                "book": "Pointsbet",
+                "book": "Ladbrokes",
                 "odds": 1.65
               },
               {
-                "book": "Ladbrokes",
-                "odds": 1.65
+                "book": "Pointsbet",
+                "odds": 1.5
               },
               {
                 "book": "Sportsbet",
@@ -2067,12 +2067,12 @@
             ],
             "26": [
               {
-                "book": "Pointsbet",
-                "odds": 1.88
-              },
-              {
                 "book": "Ladbrokes",
                 "odds": 1.8
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 1.69
               },
               {
                 "book": "Sportsbet",
@@ -2082,7 +2082,7 @@
             "27": [
               {
                 "book": "Pointsbet",
-                "odds": 2.15
+                "odds": 1.88
               },
               {
                 "book": "Sportsbet",
@@ -2091,12 +2091,12 @@
             ],
             "28": [
               {
-                "book": "Pointsbet",
-                "odds": 2.5
-              },
-              {
                 "book": "Ladbrokes",
                 "odds": 2.3
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 2.15
               },
               {
                 "book": "Sportsbet",
@@ -2105,19 +2105,15 @@
             ],
             "29": [
               {
-                "book": "Pointsbet",
-                "odds": 2.85
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 2.52
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 2.5
               }
             ],
             "30": [
-              {
-                "book": "Pointsbet",
-                "odds": 3.4
-              },
               {
                 "book": "Ladbrokes",
                 "odds": 3.1
@@ -2125,6 +2121,10 @@
               {
                 "book": "Sportsbet",
                 "odds": 3.01
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 2.85
               },
               {
                 "book": "Betr",
@@ -2141,19 +2141,15 @@
             ],
             "31": [
               {
-                "book": "Pointsbet",
-                "odds": 3.9
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 3.5
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 3.4
               }
             ],
             "32": [
-              {
-                "book": "Pointsbet",
-                "odds": 4.75
-              },
               {
                 "book": "Sportsbet",
                 "odds": 4.25
@@ -2161,23 +2157,23 @@
               {
                 "book": "Ladbrokes",
                 "odds": 4.25
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 4.0
               }
             ],
             "33": [
               {
-                "book": "Pointsbet",
-                "odds": 5.75
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 5.2
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 4.75
               }
             ],
             "34": [
-              {
-                "book": "Pointsbet",
-                "odds": 7.0
-              },
               {
                 "book": "Ladbrokes",
                 "odds": 6.2
@@ -2185,13 +2181,13 @@
               {
                 "book": "Sportsbet",
                 "odds": 6.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 5.5
               }
             ],
             "35": [
-              {
-                "book": "Pointsbet",
-                "odds": 8.5
-              },
               {
                 "book": "Sportsbet",
                 "odds": 7.5
@@ -2199,6 +2195,10 @@
               {
                 "book": "Ladbrokes",
                 "odds": 7.5
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 7.0
               },
               {
                 "book": "Betr",
@@ -2215,22 +2215,22 @@
             ],
             "36": [
               {
-                "book": "Pointsbet",
-                "odds": 10.5
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 9.5
               },
               {
                 "book": "Ladbrokes",
                 "odds": 9.25
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 8.5
               }
             ],
             "37": [
               {
                 "book": "Pointsbet",
-                "odds": 13.0
+                "odds": 10.5
               },
               {
                 "book": "Sportsbet",
@@ -2239,12 +2239,12 @@
             ],
             "38": [
               {
-                "book": "Pointsbet",
-                "odds": 16.0
-              },
-              {
                 "book": "Ladbrokes",
                 "odds": 14.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 13.0
               },
               {
                 "book": "Sportsbet",
@@ -2254,7 +2254,7 @@
             "39": [
               {
                 "book": "Pointsbet",
-                "odds": 21.0
+                "odds": 16.0
               },
               {
                 "book": "Sportsbet",
@@ -2263,12 +2263,12 @@
             ],
             "40": [
               {
-                "book": "Pointsbet",
-                "odds": 26.0
-              },
-              {
                 "book": "Ladbrokes",
                 "odds": 23.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 20.0
               },
               {
                 "book": "Betr",
@@ -2290,7 +2290,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.11
+                "odds": 1.08
               },
               {
                 "book": "Betr",
@@ -2301,39 +2301,35 @@
                 "odds": 1.02
               }
             ],
-            "18": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.04
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 1.01
-              }
-            ],
             "19": [
               {
                 "book": "Pointsbet",
-                "odds": 1.07
+                "odds": 1.05
               }
             ],
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 1.18
+                "odds": 1.13
+              }
+            ],
+            "18": [
+              {
+                "book": "Ladbrokes",
+                "odds": 1.01
               }
             ]
           },
           "edges": {
             "24": -14.9,
             "25": -16.3,
-            "29": -26.7,
-            "30": -29.0,
-            "34": -43.0,
-            "35": -46.2,
-            "39": -53.4,
+            "29": -35.2,
+            "30": -35.3,
+            "34": -49.5,
+            "35": -52.6,
+            "39": -64.5,
             "20": -10.3,
-            "19": -10.0
+            "19": -11.7
           },
           "vs_opp": {
             "l5": 25.2,
@@ -2418,7 +2414,7 @@
           },
           "best_odds": {
             "17": {
-              "odds": 1.13,
+              "odds": 1.14,
               "book": "Pointsbet"
             },
             "18": {
@@ -2430,8 +2426,8 @@
               "book": "Pointsbet"
             },
             "20": {
-              "odds": 1.46,
-              "book": "Ladbrokes"
+              "odds": 1.48,
+              "book": "Pointsbet"
             },
             "21": {
               "odds": 1.65,
@@ -2442,27 +2438,27 @@
               "book": "Pointsbet"
             },
             "23": {
-              "odds": 2.15,
+              "odds": 2.2,
               "book": "Pointsbet"
             },
             "24": {
-              "odds": 2.5,
+              "odds": 2.55,
               "book": "Pointsbet"
             },
             "25": {
-              "odds": 2.9,
+              "odds": 3.0,
               "book": "Pointsbet"
             },
             "26": {
-              "odds": 3.4,
+              "odds": 3.6,
               "book": "Pointsbet"
             },
             "27": {
-              "odds": 4.0,
+              "odds": 4.2,
               "book": "Pointsbet"
             },
             "28": {
-              "odds": 4.75,
+              "odds": 5.0,
               "book": "Pointsbet"
             },
             "29": {
@@ -2470,7 +2466,7 @@
               "book": "Pointsbet"
             },
             "30": {
-              "odds": 7.0,
+              "odds": 7.5,
               "book": "Pointsbet"
             },
             "31": {
@@ -2478,7 +2474,7 @@
               "book": "Pointsbet"
             },
             "32": {
-              "odds": 11.0,
+              "odds": 12.0,
               "book": "Pointsbet"
             },
             "33": {
@@ -2486,11 +2482,11 @@
               "book": "Pointsbet"
             },
             "34": {
-              "odds": 19.0,
+              "odds": 20.0,
               "book": "Pointsbet"
             },
             "35": {
-              "odds": 23.0,
+              "odds": 26.0,
               "book": "Pointsbet"
             },
             "40": {
@@ -2506,8 +2502,8 @@
               "book": "Pointsbet"
             },
             "36": {
-              "odds": 29.0,
-              "book": "Ladbrokes"
+              "odds": 31.0,
+              "book": "Pointsbet"
             },
             "38": {
               "odds": 51.0,
@@ -2518,7 +2514,7 @@
             "17": [
               {
                 "book": "Pointsbet",
-                "odds": 1.13
+                "odds": 1.14
               },
               {
                 "book": "Sportsbet",
@@ -2551,12 +2547,12 @@
             ],
             "20": [
               {
-                "book": "Ladbrokes",
-                "odds": 1.46
+                "book": "Pointsbet",
+                "odds": 1.48
               },
               {
-                "book": "Pointsbet",
-                "odds": 1.44
+                "book": "Ladbrokes",
+                "odds": 1.46
               },
               {
                 "book": "TAB",
@@ -2602,7 +2598,7 @@
             "23": [
               {
                 "book": "Pointsbet",
-                "odds": 2.15
+                "odds": 2.2
               },
               {
                 "book": "Sportsbet",
@@ -2612,7 +2608,7 @@
             "24": [
               {
                 "book": "Pointsbet",
-                "odds": 2.5
+                "odds": 2.55
               },
               {
                 "book": "Ladbrokes",
@@ -2626,7 +2622,7 @@
             "25": [
               {
                 "book": "Pointsbet",
-                "odds": 2.9
+                "odds": 3.0
               },
               {
                 "book": "Ladbrokes",
@@ -2652,7 +2648,7 @@
             "26": [
               {
                 "book": "Pointsbet",
-                "odds": 3.4
+                "odds": 3.6
               },
               {
                 "book": "Ladbrokes",
@@ -2666,7 +2662,7 @@
             "27": [
               {
                 "book": "Pointsbet",
-                "odds": 4.0
+                "odds": 4.2
               },
               {
                 "book": "Sportsbet",
@@ -2676,7 +2672,7 @@
             "28": [
               {
                 "book": "Pointsbet",
-                "odds": 4.75
+                "odds": 5.0
               },
               {
                 "book": "Sportsbet",
@@ -2700,7 +2696,7 @@
             "30": [
               {
                 "book": "Pointsbet",
-                "odds": 7.0
+                "odds": 7.5
               },
               {
                 "book": "Ladbrokes",
@@ -2736,7 +2732,7 @@
             "32": [
               {
                 "book": "Pointsbet",
-                "odds": 11.0
+                "odds": 12.0
               },
               {
                 "book": "Ladbrokes",
@@ -2760,7 +2756,7 @@
             "34": [
               {
                 "book": "Pointsbet",
-                "odds": 19.0
+                "odds": 20.0
               },
               {
                 "book": "Ladbrokes",
@@ -2774,7 +2770,7 @@
             "35": [
               {
                 "book": "Pointsbet",
-                "odds": 23.0
+                "odds": 26.0
               },
               {
                 "book": "Ladbrokes",
@@ -2825,6 +2821,10 @@
             ],
             "36": [
               {
+                "book": "Pointsbet",
+                "odds": 31.0
+              },
+              {
                 "book": "Ladbrokes",
                 "odds": 29.0
               }
@@ -2838,13 +2838,13 @@
           },
           "edges": {
             "19": 11.2,
-            "20": 17.6,
-            "24": 37.9,
-            "25": 38.0,
+            "20": 19.2,
+            "24": 40.6,
+            "25": 42.7,
             "29": 27.4,
-            "30": 16.2,
-            "34": 6.0,
-            "35": -3.8,
+            "30": 24.5,
+            "34": 11.6,
+            "35": 8.7,
             "15": -1.2
           },
           "vs_opp": {
@@ -2930,7 +2930,7 @@
           },
           "best_odds": {
             "17": {
-              "odds": 1.21,
+              "odds": 1.22,
               "book": "Pointsbet"
             },
             "18": {
@@ -2958,7 +2958,7 @@
               "book": "Pointsbet"
             },
             "24": {
-              "odds": 3.0,
+              "odds": 2.9,
               "book": "Pointsbet"
             },
             "25": {
@@ -2999,7 +2999,7 @@
             },
             "34": {
               "odds": 26.0,
-              "book": "Ladbrokes"
+              "book": "Pointsbet"
             },
             "35": {
               "odds": 34.0,
@@ -3014,12 +3014,12 @@
               "book": "Betr"
             },
             "14": {
-              "odds": 1.04,
+              "odds": 1.03,
               "book": "Pointsbet"
             },
             "16": {
               "odds": 1.14,
-              "book": "Ladbrokes"
+              "book": "Pointsbet"
             },
             "36": {
               "odds": 51.0,
@@ -3030,7 +3030,7 @@
             "17": [
               {
                 "book": "Pointsbet",
-                "odds": 1.21
+                "odds": 1.22
               },
               {
                 "book": "Sportsbet",
@@ -3068,7 +3068,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.65
+                "odds": 1.63
               },
               {
                 "book": "Betr",
@@ -3124,7 +3124,7 @@
             "24": [
               {
                 "book": "Pointsbet",
-                "odds": 3.0
+                "odds": 2.9
               },
               {
                 "book": "Ladbrokes",
@@ -3141,12 +3141,12 @@
                 "odds": 3.75
               },
               {
-                "book": "Ladbrokes",
-                "odds": 3.5
+                "book": "Pointsbet",
+                "odds": 3.6
               },
               {
-                "book": "Pointsbet",
-                "odds": 3.4
+                "book": "Ladbrokes",
+                "odds": 3.5
               },
               {
                 "book": "Sportsbet",
@@ -3271,12 +3271,12 @@
             ],
             "34": [
               {
-                "book": "Ladbrokes",
+                "book": "Pointsbet",
                 "odds": 26.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 23.0
+                "book": "Ladbrokes",
+                "odds": 26.0
               },
               {
                 "book": "Sportsbet",
@@ -3287,10 +3287,6 @@
               {
                 "book": "Ladbrokes",
                 "odds": 34.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 31.0
               },
               {
                 "book": "TAB",
@@ -3324,7 +3320,7 @@
             "14": [
               {
                 "book": "Pointsbet",
-                "odds": 1.04
+                "odds": 1.03
               },
               {
                 "book": "Ladbrokes",
@@ -3333,12 +3329,12 @@
             ],
             "16": [
               {
-                "book": "Ladbrokes",
+                "book": "Pointsbet",
                 "odds": 1.14
               },
               {
-                "book": "Pointsbet",
-                "odds": 1.13
+                "book": "Ladbrokes",
+                "odds": 1.14
               }
             ],
             "36": [
@@ -3351,14 +3347,14 @@
           "edges": {
             "19": 5.8,
             "20": 11.7,
-            "24": 31.9,
+            "24": 27.5,
             "25": 43.8,
             "29": 48.0,
             "30": 79.5,
             "34": 86.0,
             "35": 95.8,
             "15": -5.0,
-            "14": -7.6
+            "14": -8.5
           },
           "vs_opp": {
             "l5": 18.6,
@@ -3444,7 +3440,7 @@
           "best_odds": {
             "18": {
               "odds": 1.16,
-              "book": "Ladbrokes"
+              "book": "Pointsbet"
             },
             "19": {
               "odds": 1.24,
@@ -3455,15 +3451,15 @@
               "book": "Ladbrokes"
             },
             "21": {
-              "odds": 1.48,
+              "odds": 1.5,
               "book": "Pointsbet"
             },
             "22": {
-              "odds": 1.65,
+              "odds": 1.67,
               "book": "Pointsbet"
             },
             "23": {
-              "odds": 1.88,
+              "odds": 1.9,
               "book": "Pointsbet"
             },
             "24": {
@@ -3507,12 +3503,12 @@
               "book": "Sportsbet"
             },
             "34": {
-              "odds": 14.0,
-              "book": "Sportsbet"
+              "odds": 15.0,
+              "book": "Pointsbet"
             },
             "35": {
               "odds": 19.0,
-              "book": "Ladbrokes"
+              "book": "Pointsbet"
             },
             "40": {
               "odds": 61.0,
@@ -3523,7 +3519,7 @@
               "book": "BetRight"
             },
             "16": {
-              "odds": 1.05,
+              "odds": 1.06,
               "book": "Pointsbet"
             },
             "17": {
@@ -3531,11 +3527,7 @@
               "book": "Pointsbet"
             },
             "36": {
-              "odds": 23.0,
-              "book": "Ladbrokes"
-            },
-            "37": {
-              "odds": 29.0,
+              "odds": 26.0,
               "book": "Pointsbet"
             },
             "38": {
@@ -3546,12 +3538,12 @@
           "all_odds": {
             "18": [
               {
-                "book": "Ladbrokes",
+                "book": "Pointsbet",
                 "odds": 1.16
               },
               {
-                "book": "Pointsbet",
-                "odds": 1.15
+                "book": "Ladbrokes",
+                "odds": 1.16
               },
               {
                 "book": "Sportsbet",
@@ -3575,7 +3567,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.33
+                "odds": 1.36
               },
               {
                 "book": "Betr",
@@ -3597,7 +3589,7 @@
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 1.48
+                "odds": 1.5
               },
               {
                 "book": "Sportsbet",
@@ -3607,7 +3599,7 @@
             "22": [
               {
                 "book": "Pointsbet",
-                "odds": 1.65
+                "odds": 1.67
               },
               {
                 "book": "Ladbrokes",
@@ -3621,7 +3613,7 @@
             "23": [
               {
                 "book": "Pointsbet",
-                "odds": 1.88
+                "odds": 1.9
               },
               {
                 "book": "Sportsbet",
@@ -3758,12 +3750,12 @@
                 "odds": 10.0
               },
               {
-                "book": "Ladbrokes",
-                "odds": 8.75
+                "book": "Pointsbet",
+                "odds": 9.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 8.5
+                "book": "Ladbrokes",
+                "odds": 8.75
               }
             ],
             "33": [
@@ -3773,10 +3765,14 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 10.5
+                "odds": 11.0
               }
             ],
             "34": [
+              {
+                "book": "Pointsbet",
+                "odds": 15.0
+              },
               {
                 "book": "Sportsbet",
                 "odds": 14.0
@@ -3784,13 +3780,13 @@
               {
                 "book": "Ladbrokes",
                 "odds": 14.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 13.0
               }
             ],
             "35": [
+              {
+                "book": "Pointsbet",
+                "odds": 19.0
+              },
               {
                 "book": "Ladbrokes",
                 "odds": 19.0
@@ -3801,10 +3797,6 @@
               },
               {
                 "book": "BetRight",
-                "odds": 17.0
-              },
-              {
-                "book": "Pointsbet",
                 "odds": 17.0
               },
               {
@@ -3827,7 +3819,7 @@
             "16": [
               {
                 "book": "Pointsbet",
-                "odds": 1.05
+                "odds": 1.06
               },
               {
                 "book": "Ladbrokes",
@@ -3842,18 +3834,12 @@
             ],
             "36": [
               {
-                "book": "Ladbrokes",
-                "odds": 23.0
+                "book": "Pointsbet",
+                "odds": 26.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 21.0
-              }
-            ],
-            "37": [
-              {
-                "book": "Pointsbet",
-                "odds": 29.0
+                "book": "Ladbrokes",
+                "odds": 23.0
               }
             ],
             "38": [
@@ -3870,7 +3856,7 @@
             "25": -13.5,
             "29": -30.6,
             "30": -36.5,
-            "34": -57.3,
+            "34": -54.3,
             "35": -57.1,
             "15": -6.4
           },
@@ -4195,7 +4181,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.5
+                "odds": 2.55
               }
             ],
             "24": [
@@ -4209,7 +4195,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.9
+                "odds": 3.0
               }
             ],
             "25": [
@@ -4235,7 +4221,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.4
+                "odds": 3.6
               }
             ],
             "26": [
@@ -4309,17 +4295,13 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 9.0
+                "odds": 9.5
               }
             ],
             "35": [
               {
                 "book": "TAB",
                 "odds": 67.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 31.0
               }
             ],
             "40": [
@@ -4472,7 +4454,7 @@
               "book": "Pointsbet"
             },
             "21": {
-              "odds": 1.83,
+              "odds": 1.88,
               "book": "Pointsbet"
             },
             "22": {
@@ -4484,7 +4466,7 @@
               "book": "Pointsbet"
             },
             "24": {
-              "odds": 2.9,
+              "odds": 3.0,
               "book": "Pointsbet"
             },
             "25": {
@@ -4496,16 +4478,16 @@
               "book": "Pointsbet"
             },
             "27": {
-              "odds": 5.0,
+              "odds": 4.75,
               "book": "Pointsbet"
             },
             "28": {
-              "odds": 6.0,
-              "book": "Pointsbet"
+              "odds": 5.9,
+              "book": "Sportsbet"
             },
             "29": {
-              "odds": 7.5,
-              "book": "Pointsbet"
+              "odds": 7.0,
+              "book": "Sportsbet"
             },
             "30": {
               "odds": 9.5,
@@ -4520,7 +4502,7 @@
               "book": "Pointsbet"
             },
             "33": {
-              "odds": 17.0,
+              "odds": 19.0,
               "book": "Pointsbet"
             },
             "35": {
@@ -4620,7 +4602,7 @@
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 1.83
+                "odds": 1.88
               },
               {
                 "book": "Sportsbet",
@@ -4654,7 +4636,7 @@
             "24": [
               {
                 "book": "Pointsbet",
-                "odds": 2.9
+                "odds": 3.0
               },
               {
                 "book": "Sportsbet",
@@ -4708,7 +4690,7 @@
             "27": [
               {
                 "book": "Pointsbet",
-                "odds": 5.0
+                "odds": 4.75
               },
               {
                 "book": "Sportsbet",
@@ -4717,12 +4699,12 @@
             ],
             "28": [
               {
-                "book": "Pointsbet",
-                "odds": 6.0
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 5.9
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 5.75
               },
               {
                 "book": "Ladbrokes",
@@ -4731,11 +4713,11 @@
             ],
             "29": [
               {
-                "book": "Pointsbet",
-                "odds": 7.5
+                "book": "Sportsbet",
+                "odds": 7.0
               },
               {
-                "book": "Sportsbet",
+                "book": "Pointsbet",
                 "odds": 7.0
               }
             ],
@@ -4745,11 +4727,11 @@
                 "odds": 9.5
               },
               {
-                "book": "Pointsbet",
-                "odds": 9.0
+                "book": "Betr",
+                "odds": 8.5
               },
               {
-                "book": "Betr",
+                "book": "Pointsbet",
                 "odds": 8.5
               },
               {
@@ -4792,7 +4774,7 @@
             "33": [
               {
                 "book": "Pointsbet",
-                "odds": 17.0
+                "odds": 19.0
               },
               {
                 "book": "Sportsbet",
@@ -4883,9 +4865,9 @@
           "edges": {
             "19": 1.3,
             "20": 3.7,
-            "24": -1.9,
+            "24": 1.5,
             "25": -7.0,
-            "29": -25.5,
+            "29": -30.5,
             "30": -28.8,
             "15": -4.8,
             "14": -4.7,
@@ -4982,7 +4964,7 @@
               "book": "Pointsbet"
             },
             "19": {
-              "odds": 1.36,
+              "odds": 1.33,
               "book": "Pointsbet"
             },
             "20": {
@@ -4990,7 +4972,7 @@
               "book": "Pointsbet"
             },
             "21": {
-              "odds": 1.67,
+              "odds": 1.63,
               "book": "Pointsbet"
             },
             "22": {
@@ -4998,51 +4980,51 @@
               "book": "Pointsbet"
             },
             "23": {
-              "odds": 2.2,
+              "odds": 2.1,
               "book": "Pointsbet"
             },
             "24": {
-              "odds": 2.55,
+              "odds": 2.5,
               "book": "Pointsbet"
             },
             "25": {
-              "odds": 3.0,
+              "odds": 2.9,
               "book": "Pointsbet"
             },
             "26": {
-              "odds": 3.6,
+              "odds": 3.4,
               "book": "Pointsbet"
             },
             "27": {
-              "odds": 4.4,
+              "odds": 4.0,
               "book": "Pointsbet"
             },
             "28": {
-              "odds": 5.0,
+              "odds": 4.75,
               "book": "Pointsbet"
             },
             "29": {
-              "odds": 6.0,
-              "book": "Pointsbet"
+              "odds": 5.9,
+              "book": "Sportsbet"
             },
             "30": {
               "odds": 8.5,
               "book": "Betr"
             },
             "31": {
-              "odds": 9.5,
+              "odds": 9.0,
               "book": "Pointsbet"
             },
             "32": {
-              "odds": 12.0,
+              "odds": 11.0,
               "book": "Pointsbet"
             },
             "33": {
-              "odds": 15.0,
+              "odds": 13.0,
               "book": "Pointsbet"
             },
             "34": {
-              "odds": 19.0,
+              "odds": 17.0,
               "book": "Pointsbet"
             },
             "35": {
@@ -5062,8 +5044,8 @@
               "book": "Pointsbet"
             },
             "36": {
-              "odds": 23.0,
-              "book": "Ladbrokes"
+              "odds": 29.0,
+              "book": "Pointsbet"
             },
             "38": {
               "odds": 41.0,
@@ -5098,7 +5080,7 @@
             "19": [
               {
                 "book": "Pointsbet",
-                "odds": 1.36
+                "odds": 1.33
               },
               {
                 "book": "Sportsbet",
@@ -5134,7 +5116,7 @@
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 1.67
+                "odds": 1.63
               },
               {
                 "book": "Sportsbet",
@@ -5158,7 +5140,7 @@
             "23": [
               {
                 "book": "Pointsbet",
-                "odds": 2.2
+                "odds": 2.1
               },
               {
                 "book": "Sportsbet",
@@ -5168,7 +5150,7 @@
             "24": [
               {
                 "book": "Pointsbet",
-                "odds": 2.55
+                "odds": 2.5
               },
               {
                 "book": "Sportsbet",
@@ -5182,7 +5164,7 @@
             "25": [
               {
                 "book": "Pointsbet",
-                "odds": 3.0
+                "odds": 2.9
               },
               {
                 "book": "Betr",
@@ -5208,7 +5190,7 @@
             "26": [
               {
                 "book": "Pointsbet",
-                "odds": 3.6
+                "odds": 3.4
               },
               {
                 "book": "Sportsbet",
@@ -5222,7 +5204,7 @@
             "27": [
               {
                 "book": "Pointsbet",
-                "odds": 4.4
+                "odds": 4.0
               },
               {
                 "book": "Sportsbet",
@@ -5232,7 +5214,7 @@
             "28": [
               {
                 "book": "Pointsbet",
-                "odds": 5.0
+                "odds": 4.75
               },
               {
                 "book": "Sportsbet",
@@ -5245,12 +5227,12 @@
             ],
             "29": [
               {
-                "book": "Pointsbet",
-                "odds": 6.0
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 5.9
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 5.75
               }
             ],
             "30": [
@@ -5259,15 +5241,15 @@
                 "odds": 8.5
               },
               {
-                "book": "Pointsbet",
-                "odds": 7.5
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 7.0
               },
               {
                 "book": "BetRight",
+                "odds": 7.0
+              },
+              {
+                "book": "Pointsbet",
                 "odds": 7.0
               },
               {
@@ -5282,7 +5264,7 @@
             "31": [
               {
                 "book": "Pointsbet",
-                "odds": 9.5
+                "odds": 9.0
               },
               {
                 "book": "Sportsbet",
@@ -5292,7 +5274,7 @@
             "32": [
               {
                 "book": "Pointsbet",
-                "odds": 12.0
+                "odds": 11.0
               },
               {
                 "book": "Sportsbet",
@@ -5306,7 +5288,7 @@
             "33": [
               {
                 "book": "Pointsbet",
-                "odds": 15.0
+                "odds": 13.0
               },
               {
                 "book": "Sportsbet",
@@ -5316,7 +5298,7 @@
             "34": [
               {
                 "book": "Pointsbet",
-                "odds": 19.0
+                "odds": 17.0
               },
               {
                 "book": "Sportsbet",
@@ -5333,11 +5315,11 @@
                 "odds": 26.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 26.0
+                "book": "BetRight",
+                "odds": 23.0
               },
               {
-                "book": "BetRight",
+                "book": "Pointsbet",
                 "odds": 23.0
               },
               {
@@ -5358,7 +5340,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.05
+                "odds": 1.04
               },
               {
                 "book": "BetRight",
@@ -5377,6 +5359,10 @@
             ],
             "36": [
               {
+                "book": "Pointsbet",
+                "odds": 29.0
+              },
+              {
                 "book": "Ladbrokes",
                 "odds": 23.0
               }
@@ -5389,13 +5375,13 @@
             ]
           },
           "edges": {
-            "19": -5.8,
+            "19": -7.9,
             "20": -7.7,
-            "24": -16.1,
-            "25": -20.3,
-            "29": -42.1,
+            "24": -17.8,
+            "25": -23.0,
+            "29": -43.0,
             "30": -37.9,
-            "34": -56.8,
+            "34": -61.3,
             "15": -7.2
           },
           "vs_opp": {
@@ -5497,7 +5483,7 @@
               "book": "Pointsbet"
             },
             "19": {
-              "odds": 1.44,
+              "odds": 1.48,
               "book": "Pointsbet"
             },
             "20": {
@@ -5521,7 +5507,7 @@
               "book": "Pointsbet"
             },
             "25": {
-              "odds": 3.6,
+              "odds": 3.4,
               "book": "Pointsbet"
             },
             "26": {
@@ -5541,8 +5527,8 @@
               "book": "Pointsbet"
             },
             "30": {
-              "odds": 9.5,
-              "book": "Pointsbet"
+              "odds": 9.0,
+              "book": "BetRight"
             },
             "31": {
               "odds": 12.0,
@@ -5553,7 +5539,7 @@
               "book": "Pointsbet"
             },
             "33": {
-              "odds": 20.0,
+              "odds": 19.0,
               "book": "Pointsbet"
             },
             "35": {
@@ -5569,7 +5555,7 @@
               "book": "Pointsbet"
             },
             "34": {
-              "odds": 29.0,
+              "odds": 26.0,
               "book": "Pointsbet"
             },
             "36": {
@@ -5641,7 +5627,7 @@
             "19": [
               {
                 "book": "Pointsbet",
-                "odds": 1.44
+                "odds": 1.48
               },
               {
                 "book": "Sportsbet",
@@ -5725,7 +5711,7 @@
             "25": [
               {
                 "book": "Pointsbet",
-                "odds": 3.6
+                "odds": 3.4
               },
               {
                 "book": "Ladbrokes",
@@ -5798,11 +5784,11 @@
             ],
             "30": [
               {
-                "book": "Pointsbet",
-                "odds": 9.5
+                "book": "BetRight",
+                "odds": 9.0
               },
               {
-                "book": "BetRight",
+                "book": "Pointsbet",
                 "odds": 9.0
               },
               {
@@ -5849,7 +5835,7 @@
             "33": [
               {
                 "book": "Pointsbet",
-                "odds": 20.0
+                "odds": 19.0
               },
               {
                 "book": "Sportsbet",
@@ -5860,6 +5846,10 @@
               {
                 "book": "Ladbrokes",
                 "odds": 34.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 31.0
               },
               {
                 "book": "TAB",
@@ -5885,7 +5875,7 @@
             "34": [
               {
                 "book": "Pointsbet",
-                "odds": 29.0
+                "odds": 26.0
               },
               {
                 "book": "Ladbrokes",
@@ -5901,14 +5891,14 @@
           },
           "edges": {
             "15": -7.6,
-            "19": -5.8,
+            "19": -3.1,
             "20": -3.1,
             "24": -9.2,
-            "25": -8.1,
+            "25": -13.2,
             "29": -25.8,
-            "30": -27.6,
+            "30": -31.4,
             "14": -7.7,
-            "34": -25.4
+            "34": -33.1
           },
           "vs_opp": {
             "l5": 15.0,
@@ -5997,11 +5987,11 @@
               "book": "Pointsbet"
             },
             "17": {
-              "odds": 1.22,
+              "odds": 1.21,
               "book": "Pointsbet"
             },
             "18": {
-              "odds": 1.33,
+              "odds": 1.31,
               "book": "Pointsbet"
             },
             "19": {
@@ -6009,7 +5999,7 @@
               "book": "Pointsbet"
             },
             "20": {
-              "odds": 1.67,
+              "odds": 1.65,
               "book": "Pointsbet"
             },
             "21": {
@@ -6017,11 +6007,11 @@
               "book": "Pointsbet"
             },
             "22": {
-              "odds": 2.2,
+              "odds": 2.15,
               "book": "Pointsbet"
             },
             "23": {
-              "odds": 2.55,
+              "odds": 2.5,
               "book": "Pointsbet"
             },
             "24": {
@@ -6053,15 +6043,15 @@
               "book": "Betr"
             },
             "31": {
-              "odds": 11.0,
-              "book": "Sportsbet"
+              "odds": 12.0,
+              "book": "Pointsbet"
             },
             "32": {
               "odds": 15.0,
               "book": "Pointsbet"
             },
             "33": {
-              "odds": 19.0,
+              "odds": 20.0,
               "book": "Pointsbet"
             },
             "35": {
@@ -6073,7 +6063,7 @@
               "book": "TAB"
             },
             "15": {
-              "odds": 1.07,
+              "odds": 1.08,
               "book": "Pointsbet"
             },
             "14": {
@@ -6081,7 +6071,7 @@
               "book": "Pointsbet"
             },
             "34": {
-              "odds": 23.0,
+              "odds": 26.0,
               "book": "Pointsbet"
             },
             "36": {
@@ -6107,7 +6097,7 @@
             "17": [
               {
                 "book": "Pointsbet",
-                "odds": 1.22
+                "odds": 1.21
               },
               {
                 "book": "Sportsbet",
@@ -6117,7 +6107,7 @@
             "18": [
               {
                 "book": "Pointsbet",
-                "odds": 1.33
+                "odds": 1.31
               },
               {
                 "book": "Ladbrokes",
@@ -6141,7 +6131,7 @@
             "20": [
               {
                 "book": "Pointsbet",
-                "odds": 1.67
+                "odds": 1.65
               },
               {
                 "book": "Ladbrokes",
@@ -6177,7 +6167,7 @@
             "22": [
               {
                 "book": "Pointsbet",
-                "odds": 2.2
+                "odds": 2.15
               },
               {
                 "book": "Ladbrokes",
@@ -6191,7 +6181,7 @@
             "23": [
               {
                 "book": "Pointsbet",
-                "odds": 2.55
+                "odds": 2.5
               },
               {
                 "book": "Sportsbet",
@@ -6305,7 +6295,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 9.0
+                "odds": 9.5
               },
               {
                 "book": "Ladbrokes",
@@ -6314,11 +6304,11 @@
             ],
             "31": [
               {
-                "book": "Sportsbet",
-                "odds": 11.0
+                "book": "Pointsbet",
+                "odds": 12.0
               },
               {
-                "book": "Pointsbet",
+                "book": "Sportsbet",
                 "odds": 11.0
               }
             ],
@@ -6339,7 +6329,7 @@
             "33": [
               {
                 "book": "Pointsbet",
-                "odds": 19.0
+                "odds": 20.0
               },
               {
                 "book": "Sportsbet",
@@ -6350,10 +6340,6 @@
               {
                 "book": "TAB",
                 "odds": 41.0
-              },
-              {
-                "book": "Pointsbet",
-                "odds": 31.0
               },
               {
                 "book": "Ladbrokes",
@@ -6369,7 +6355,7 @@
             "15": [
               {
                 "book": "Pointsbet",
-                "odds": 1.07
+                "odds": 1.08
               },
               {
                 "book": "Betr",
@@ -6397,7 +6383,7 @@
             "34": [
               {
                 "book": "Pointsbet",
-                "odds": 23.0
+                "odds": 26.0
               },
               {
                 "book": "Ladbrokes",
@@ -6413,12 +6399,12 @@
           },
           "edges": {
             "19": -11.3,
-            "20": -14.3,
+            "20": -15.3,
             "24": -37.6,
             "25": -43.7,
             "29": -67.0,
             "30": -68.5,
-            "15": -8.3,
+            "15": -7.4,
             "14": -6.9
           },
           "vs_opp": {
@@ -6524,7 +6510,7 @@
               "book": "Ladbrokes"
             },
             "17": {
-              "odds": 1.88,
+              "odds": 1.9,
               "book": "Pointsbet"
             },
             "18": {
@@ -6564,8 +6550,8 @@
               "book": "Ladbrokes"
             },
             "27": {
-              "odds": 15.0,
-              "book": "Pointsbet"
+              "odds": 14.0,
+              "book": "Sportsbet"
             },
             "30": {
               "odds": 51.0,
@@ -6588,7 +6574,7 @@
               "book": "Ladbrokes"
             },
             "29": {
-              "odds": 26.0,
+              "odds": 23.0,
               "book": "Pointsbet"
             }
           },
@@ -6600,7 +6586,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.09
+                "odds": 1.08
               },
               {
                 "book": "Ladbrokes",
@@ -6637,11 +6623,11 @@
                 "odds": 1.46
               },
               {
-                "book": "TAB",
-                "odds": 1.42
+                "book": "Pointsbet",
+                "odds": 1.44
               },
               {
-                "book": "Pointsbet",
+                "book": "TAB",
                 "odds": 1.42
               },
               {
@@ -6674,7 +6660,7 @@
             "17": [
               {
                 "book": "Pointsbet",
-                "odds": 1.88
+                "odds": 1.9
               },
               {
                 "book": "Sportsbet",
@@ -6702,7 +6688,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.55
+                "odds": 2.6
               }
             ],
             "20": [
@@ -6816,17 +6802,17 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 11.0
+                "odds": 10.5
               }
             ],
             "27": [
               {
-                "book": "Pointsbet",
-                "odds": 15.0
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 14.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 13.0
               }
             ],
             "30": [
@@ -6868,13 +6854,13 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 19.0
+                "odds": 17.0
               }
             ],
             "29": [
               {
                 "book": "Pointsbet",
-                "odds": 26.0
+                "odds": 23.0
               }
             ]
           },
@@ -6886,7 +6872,7 @@
             "24": 60.7,
             "25": 83.0,
             "30": 139.2,
-            "29": 55.9
+            "29": 37.9
           },
           "vs_opp": {
             "l5": 16.4,
@@ -7075,11 +7061,11 @@
               "book": "Ladbrokes"
             },
             "21": {
-              "odds": 2.15,
+              "odds": 2.2,
               "book": "Pointsbet"
             },
             "22": {
-              "odds": 2.55,
+              "odds": 2.6,
               "book": "Pointsbet"
             },
             "23": {
@@ -7107,7 +7093,7 @@
               "book": "Ladbrokes"
             },
             "29": {
-              "odds": 9.0,
+              "odds": 9.5,
               "book": "Pointsbet"
             },
             "30": {
@@ -7115,7 +7101,7 @@
               "book": "Betr"
             },
             "31": {
-              "odds": 13.0,
+              "odds": 15.0,
               "book": "Pointsbet"
             },
             "32": {
@@ -7123,7 +7109,7 @@
               "book": "Ladbrokes"
             },
             "33": {
-              "odds": 26.0,
+              "odds": 23.0,
               "book": "Pointsbet"
             },
             "15": {
@@ -7225,7 +7211,7 @@
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 2.15
+                "odds": 2.2
               },
               {
                 "book": "Sportsbet",
@@ -7235,7 +7221,7 @@
             "22": [
               {
                 "book": "Pointsbet",
-                "odds": 2.55
+                "odds": 2.6
               },
               {
                 "book": "Ladbrokes",
@@ -7337,7 +7323,7 @@
             "29": [
               {
                 "book": "Pointsbet",
-                "odds": 9.0
+                "odds": 9.5
               },
               {
                 "book": "Sportsbet",
@@ -7354,11 +7340,11 @@
                 "odds": 13.0
               },
               {
-                "book": "TAB",
-                "odds": 11.0
+                "book": "Pointsbet",
+                "odds": 12.0
               },
               {
-                "book": "Pointsbet",
+                "book": "TAB",
                 "odds": 11.0
               },
               {
@@ -7373,7 +7359,7 @@
             "31": [
               {
                 "book": "Pointsbet",
-                "odds": 13.0
+                "odds": 15.0
               },
               {
                 "book": "Sportsbet",
@@ -7397,7 +7383,7 @@
             "33": [
               {
                 "book": "Pointsbet",
-                "odds": 26.0
+                "odds": 23.0
               },
               {
                 "book": "Sportsbet",
@@ -7456,6 +7442,10 @@
               {
                 "book": "Ladbrokes",
                 "odds": 41.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 31.0
               }
             ]
           },
@@ -7550,7 +7540,7 @@
           },
           "best_odds": {
             "13": {
-              "odds": 1.09,
+              "odds": 1.1,
               "book": "Pointsbet"
             },
             "14": {
@@ -7566,7 +7556,7 @@
               "book": "Ladbrokes"
             },
             "17": {
-              "odds": 1.65,
+              "odds": 1.59,
               "book": "Pointsbet"
             },
             "18": {
@@ -7574,7 +7564,7 @@
               "book": "Ladbrokes"
             },
             "19": {
-              "odds": 2.25,
+              "odds": 2.15,
               "book": "Pointsbet"
             },
             "20": {
@@ -7582,7 +7572,7 @@
               "book": "Ladbrokes"
             },
             "21": {
-              "odds": 3.1,
+              "odds": 3.0,
               "book": "Pointsbet"
             },
             "22": {
@@ -7590,7 +7580,7 @@
               "book": "Ladbrokes"
             },
             "23": {
-              "odds": 4.5,
+              "odds": 4.4,
               "book": "Pointsbet"
             },
             "24": {
@@ -7606,7 +7596,7 @@
               "book": "Ladbrokes"
             },
             "27": {
-              "odds": 10.0,
+              "odds": 10.5,
               "book": "Pointsbet"
             },
             "28": {
@@ -7614,7 +7604,7 @@
               "book": "Ladbrokes"
             },
             "29": {
-              "odds": 16.0,
+              "odds": 17.0,
               "book": "Pointsbet"
             },
             "30": {
@@ -7630,11 +7620,11 @@
               "book": "TAB"
             },
             "12": {
-              "odds": 1.04,
+              "odds": 1.05,
               "book": "Pointsbet"
             },
             "31": {
-              "odds": 29.0,
+              "odds": 31.0,
               "book": "Pointsbet"
             },
             "32": {
@@ -7646,7 +7636,7 @@
             "13": [
               {
                 "book": "Pointsbet",
-                "odds": 1.09
+                "odds": 1.1
               },
               {
                 "book": "Sportsbet",
@@ -7674,7 +7664,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.29
+                "odds": 1.27
               },
               {
                 "book": "Betr",
@@ -7700,7 +7690,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.44
+                "odds": 1.42
               },
               {
                 "book": "Sportsbet",
@@ -7710,7 +7700,7 @@
             "17": [
               {
                 "book": "Pointsbet",
-                "odds": 1.65
+                "odds": 1.59
               },
               {
                 "book": "Sportsbet",
@@ -7724,7 +7714,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.9
+                "odds": 1.83
               },
               {
                 "book": "Sportsbet",
@@ -7734,7 +7724,7 @@
             "19": [
               {
                 "book": "Pointsbet",
-                "odds": 2.25
+                "odds": 2.15
               },
               {
                 "book": "Sportsbet",
@@ -7748,7 +7738,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.6
+                "odds": 2.55
               },
               {
                 "book": "Betr",
@@ -7770,7 +7760,7 @@
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 3.1
+                "odds": 3.0
               },
               {
                 "book": "Sportsbet",
@@ -7784,7 +7774,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.7
+                "odds": 3.6
               },
               {
                 "book": "Sportsbet",
@@ -7794,7 +7784,7 @@
             "23": [
               {
                 "book": "Pointsbet",
-                "odds": 4.5
+                "odds": 4.4
               },
               {
                 "book": "Sportsbet",
@@ -7858,7 +7848,7 @@
             "27": [
               {
                 "book": "Pointsbet",
-                "odds": 10.0
+                "odds": 10.5
               },
               {
                 "book": "Sportsbet",
@@ -7882,7 +7872,7 @@
             "29": [
               {
                 "book": "Pointsbet",
-                "odds": 16.0
+                "odds": 17.0
               },
               {
                 "book": "Sportsbet",
@@ -7900,7 +7890,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 21.0
+                "odds": 23.0
               },
               {
                 "book": "Sportsbet",
@@ -7922,7 +7912,7 @@
             "12": [
               {
                 "book": "Pointsbet",
-                "odds": 1.04
+                "odds": 1.05
               },
               {
                 "book": "Ladbrokes",
@@ -7932,7 +7922,7 @@
             "31": [
               {
                 "book": "Pointsbet",
-                "odds": 29.0
+                "odds": 31.0
               }
             ],
             "32": [
@@ -7945,11 +7935,11 @@
           "edges": {
             "14": -21.2,
             "15": -21.0,
-            "19": -25.3,
+            "19": -28.7,
             "20": -27.4,
             "24": -35.2,
             "25": -34.6,
-            "29": -50.6,
+            "29": -47.5,
             "30": -31.5
           },
           "vs_opp": {
@@ -8043,7 +8033,7 @@
               "book": "Ladbrokes"
             },
             "13": {
-              "odds": 1.27,
+              "odds": 1.25,
               "book": "Pointsbet"
             },
             "14": {
@@ -8099,7 +8089,7 @@
               "book": "Ladbrokes"
             },
             "27": {
-              "odds": 19.0,
+              "odds": 20.0,
               "book": "Pointsbet"
             },
             "30": {
@@ -8115,7 +8105,7 @@
               "book": "TAB"
             },
             "28": {
-              "odds": 26.0,
+              "odds": 29.0,
               "book": "Pointsbet"
             },
             "10": {
@@ -8151,7 +8141,7 @@
             "13": [
               {
                 "book": "Pointsbet",
-                "odds": 1.27
+                "odds": 1.25
               },
               {
                 "book": "Sportsbet",
@@ -8317,7 +8307,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 9.0
+                "odds": 8.5
               }
             ],
             "25": [
@@ -8363,7 +8353,7 @@
             "27": [
               {
                 "book": "Pointsbet",
-                "odds": 19.0
+                "odds": 20.0
               },
               {
                 "book": "Sportsbet",
@@ -8391,7 +8381,7 @@
             "28": [
               {
                 "book": "Pointsbet",
-                "odds": 26.0
+                "odds": 29.0
               }
             ],
             "10": [
@@ -8505,12 +8495,12 @@
               "book": "Sportsbet"
             },
             "13": {
-              "odds": 1.61,
-              "book": "Sportsbet"
+              "odds": 1.63,
+              "book": "Pointsbet"
             },
             "14": {
-              "odds": 1.89,
-              "book": "Sportsbet"
+              "odds": 1.9,
+              "book": "Pointsbet"
             },
             "15": {
               "odds": 2.3,
@@ -8550,7 +8540,7 @@
             },
             "24": {
               "odds": 17.0,
-              "book": "Ladbrokes"
+              "book": "Pointsbet"
             },
             "25": {
               "odds": 26.0,
@@ -8569,7 +8559,7 @@
               "book": "TAB"
             },
             "26": {
-              "odds": 29.0,
+              "odds": 31.0,
               "book": "Pointsbet"
             }
           },
@@ -8609,7 +8599,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.36
+                "odds": 1.4
               },
               {
                 "book": "Ladbrokes",
@@ -8618,22 +8608,22 @@
             ],
             "13": [
               {
-                "book": "Sportsbet",
-                "odds": 1.61
+                "book": "Pointsbet",
+                "odds": 1.63
               },
               {
-                "book": "Pointsbet",
-                "odds": 1.59
+                "book": "Sportsbet",
+                "odds": 1.61
               }
             ],
             "14": [
               {
-                "book": "Sportsbet",
-                "odds": 1.89
+                "book": "Pointsbet",
+                "odds": 1.9
               },
               {
-                "book": "Pointsbet",
-                "odds": 1.88
+                "book": "Sportsbet",
+                "odds": 1.89
               },
               {
                 "book": "Ladbrokes",
@@ -8659,7 +8649,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.2
+                "odds": 2.25
               },
               {
                 "book": "Ladbrokes",
@@ -8673,7 +8663,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.6
+                "odds": 2.7
               },
               {
                 "book": "Ladbrokes",
@@ -8687,7 +8677,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.25
+                "odds": 3.3
               }
             ],
             "18": [
@@ -8697,7 +8687,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.9
+                "odds": 4.0
               },
               {
                 "book": "Ladbrokes",
@@ -8711,7 +8701,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 4.75
+                "odds": 5.0
               }
             ],
             "20": [
@@ -8756,12 +8746,12 @@
                 "odds": 10.0
               },
               {
-                "book": "Ladbrokes",
-                "odds": 9.75
+                "book": "Pointsbet",
+                "odds": 10.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 9.5
+                "book": "Ladbrokes",
+                "odds": 9.75
               }
             ],
             "23": [
@@ -8776,12 +8766,12 @@
             ],
             "24": [
               {
-                "book": "Ladbrokes",
+                "book": "Pointsbet",
                 "odds": 17.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 16.0
+                "book": "Ladbrokes",
+                "odds": 17.0
               },
               {
                 "book": "Sportsbet",
@@ -8823,13 +8813,13 @@
             "26": [
               {
                 "book": "Pointsbet",
-                "odds": 29.0
+                "odds": 31.0
               }
             ]
           },
           "edges": {
             "10": 9.2,
-            "14": 32.1,
+            "14": 32.8,
             "15": 37.3,
             "19": 6.7,
             "20": 8.7,
@@ -9018,7 +9008,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.05
+                "odds": 1.06
               }
             ],
             "14": [
@@ -9092,7 +9082,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.65
+                "odds": 1.63
               },
               {
                 "book": "Sportsbet",
@@ -9142,7 +9132,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.55
+                "odds": 2.6
               }
             ],
             "22": [
@@ -9497,7 +9487,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.03
+                "odds": 1.04
               }
             ],
             "12": [
@@ -9549,7 +9539,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.44
+                "odds": 1.42
               },
               {
                 "book": "Betr",
@@ -9575,7 +9565,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.63
+                "odds": 1.59
               }
             ],
             "17": [
@@ -9599,7 +9589,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.2
+                "odds": 2.15
               }
             ],
             "19": [
@@ -9645,7 +9635,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.7
+                "odds": 3.6
               }
             ],
             "22": [
@@ -9669,7 +9659,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 5.25
+                "odds": 5.5
               }
             ],
             "24": [
@@ -9683,7 +9673,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 6.5
+                "odds": 7.0
               }
             ],
             "25": [
@@ -9709,7 +9699,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 8.0
+                "odds": 8.5
               }
             ],
             "26": [
@@ -9723,7 +9713,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 10.5
+                "odds": 11.0
               }
             ],
             "27": [
@@ -9758,6 +9748,10 @@
               {
                 "book": "Ladbrokes",
                 "odds": 51.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 31.0
               }
             ],
             "35": [
@@ -9944,17 +9938,21 @@
               "odds": 101.0,
               "book": "TAB"
             },
-            "10": {
-              "odds": 1.03,
-              "book": "Pointsbet"
-            },
             "27": {
-              "odds": 19.0,
+              "odds": 17.0,
               "book": "Pointsbet"
             },
             "28": {
-              "odds": 26.0,
+              "odds": 23.0,
               "book": "Pointsbet"
+            },
+            "29": {
+              "odds": 31.0,
+              "book": "Pointsbet"
+            },
+            "10": {
+              "odds": 1.02,
+              "book": "Ladbrokes"
             }
           },
           "all_odds": {
@@ -9974,11 +9972,11 @@
                 "odds": 1.19
               },
               {
-                "book": "Pointsbet",
-                "odds": 1.15
+                "book": "Sportsbet",
+                "odds": 1.14
               },
               {
-                "book": "Sportsbet",
+                "book": "Pointsbet",
                 "odds": 1.14
               }
             ],
@@ -9998,11 +9996,11 @@
                 "odds": 1.5
               },
               {
-                "book": "Pointsbet",
-                "odds": 1.42
+                "book": "Sportsbet",
+                "odds": 1.4
               },
               {
-                "book": "Sportsbet",
+                "book": "Pointsbet",
                 "odds": 1.4
               }
             ],
@@ -10016,16 +10014,16 @@
                 "odds": 1.65
               },
               {
-                "book": "Pointsbet",
-                "odds": 1.63
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 1.6
               },
               {
                 "book": "Betr",
                 "odds": 1.6
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 1.59
               },
               {
                 "book": "BetRight",
@@ -10043,7 +10041,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.88
+                "odds": 1.83
               }
             ],
             "17": [
@@ -10053,7 +10051,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.25
+                "odds": 2.15
               }
             ],
             "18": [
@@ -10067,7 +10065,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.7
+                "odds": 2.55
               }
             ],
             "19": [
@@ -10077,7 +10075,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.25
+                "odds": 3.1
               }
             ],
             "20": [
@@ -10103,7 +10101,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.9
+                "odds": 3.7
               }
             ],
             "21": [
@@ -10113,7 +10111,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 4.5
+                "odds": 4.4
               }
             ],
             "22": [
@@ -10137,7 +10135,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 7.0
+                "odds": 6.5
               }
             ],
             "24": [
@@ -10177,7 +10175,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 11.0
+                "odds": 10.5
               }
             ],
             "26": [
@@ -10191,7 +10189,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 15.0
+                "odds": 13.0
               }
             ],
             "30": [
@@ -10212,26 +10210,28 @@
                 "odds": 101.0
               }
             ],
-            "10": [
-              {
-                "book": "Pointsbet",
-                "odds": 1.03
-              },
-              {
-                "book": "Ladbrokes",
-                "odds": 1.02
-              }
-            ],
             "27": [
               {
                 "book": "Pointsbet",
-                "odds": 19.0
+                "odds": 17.0
               }
             ],
             "28": [
               {
                 "book": "Pointsbet",
-                "odds": 26.0
+                "odds": 23.0
+              }
+            ],
+            "29": [
+              {
+                "book": "Pointsbet",
+                "odds": 31.0
+              }
+            ],
+            "10": [
+              {
+                "book": "Ladbrokes",
+                "odds": 1.02
               }
             ]
           },
@@ -10241,7 +10241,7 @@
             "19": -46.8,
             "20": -50.0,
             "24": -71.6,
-            "10": -10.1
+            "10": -11.0
           },
           "vs_opp": {
             "l5": 9.0,
@@ -10339,19 +10339,19 @@
               "book": "Pointsbet"
             },
             "18": {
-              "odds": 2.05,
+              "odds": 2.1,
               "book": "Pointsbet"
             },
             "19": {
-              "odds": 2.4,
+              "odds": 2.5,
               "book": "Pointsbet"
             },
             "20": {
-              "odds": 2.85,
+              "odds": 2.9,
               "book": "Pointsbet"
             },
             "21": {
-              "odds": 3.4,
+              "odds": 3.6,
               "book": "Pointsbet"
             },
             "22": {
@@ -10359,15 +10359,15 @@
               "book": "Pointsbet"
             },
             "23": {
-              "odds": 5.0,
+              "odds": 5.25,
               "book": "Pointsbet"
             },
             "24": {
-              "odds": 6.0,
+              "odds": 6.5,
               "book": "Pointsbet"
             },
             "25": {
-              "odds": 7.5,
+              "odds": 8.0,
               "book": "Pointsbet"
             },
             "26": {
@@ -10375,19 +10375,19 @@
               "book": "Pointsbet"
             },
             "27": {
-              "odds": 12.0,
+              "odds": 13.0,
               "book": "Pointsbet"
             },
             "28": {
-              "odds": 16.0,
+              "odds": 17.0,
               "book": "Pointsbet"
             },
             "29": {
-              "odds": 20.0,
+              "odds": 23.0,
               "book": "Pointsbet"
             },
             "30": {
-              "odds": 26.0,
+              "odds": 29.0,
               "book": "Pointsbet"
             },
             "31": {
@@ -10483,7 +10483,7 @@
             "18": [
               {
                 "book": "Pointsbet",
-                "odds": 2.05
+                "odds": 2.1
               },
               {
                 "book": "Ladbrokes",
@@ -10497,7 +10497,7 @@
             "19": [
               {
                 "book": "Pointsbet",
-                "odds": 2.4
+                "odds": 2.5
               },
               {
                 "book": "Sportsbet",
@@ -10507,7 +10507,7 @@
             "20": [
               {
                 "book": "Pointsbet",
-                "odds": 2.85
+                "odds": 2.9
               },
               {
                 "book": "Ladbrokes",
@@ -10529,7 +10529,7 @@
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 3.4
+                "odds": 3.6
               },
               {
                 "book": "Sportsbet",
@@ -10553,7 +10553,7 @@
             "23": [
               {
                 "book": "Pointsbet",
-                "odds": 5.0
+                "odds": 5.25
               },
               {
                 "book": "Sportsbet",
@@ -10563,7 +10563,7 @@
             "24": [
               {
                 "book": "Pointsbet",
-                "odds": 6.0
+                "odds": 6.5
               },
               {
                 "book": "Ladbrokes",
@@ -10577,7 +10577,7 @@
             "25": [
               {
                 "book": "Pointsbet",
-                "odds": 7.5
+                "odds": 8.0
               },
               {
                 "book": "Betr",
@@ -10613,7 +10613,7 @@
             "27": [
               {
                 "book": "Pointsbet",
-                "odds": 12.0
+                "odds": 13.0
               },
               {
                 "book": "Sportsbet",
@@ -10623,7 +10623,7 @@
             "28": [
               {
                 "book": "Pointsbet",
-                "odds": 16.0
+                "odds": 17.0
               },
               {
                 "book": "Ladbrokes",
@@ -10637,7 +10637,7 @@
             "29": [
               {
                 "book": "Pointsbet",
-                "odds": 20.0
+                "odds": 23.0
               },
               {
                 "book": "Sportsbet",
@@ -10647,7 +10647,7 @@
             "30": [
               {
                 "book": "Pointsbet",
-                "odds": 26.0
+                "odds": 29.0
               },
               {
                 "book": "Betr",
@@ -10716,10 +10716,10 @@
           "edges": {
             "14": -30.7,
             "15": -35.0,
-            "19": -52.1,
-            "20": -56.5,
-            "24": -72.0,
-            "25": -74.4
+            "19": -50.1,
+            "20": -55.8,
+            "24": -69.6,
+            "25": -72.7
           },
           "vs_opp": {
             "l5": null,
@@ -10808,11 +10808,11 @@
               "book": "Pointsbet"
             },
             "15": {
-              "odds": 1.27,
+              "odds": 1.29,
               "book": "Pointsbet"
             },
             "16": {
-              "odds": 1.42,
+              "odds": 1.44,
               "book": "Pointsbet"
             },
             "17": {
@@ -10856,8 +10856,8 @@
               "book": "Sportsbet"
             },
             "27": {
-              "odds": 10.5,
-              "book": "Pointsbet"
+              "odds": 10.0,
+              "book": "Sportsbet"
             },
             "28": {
               "odds": 13.0,
@@ -10888,7 +10888,7 @@
               "book": "Pointsbet"
             },
             "31": {
-              "odds": 31.0,
+              "odds": 26.0,
               "book": "Pointsbet"
             },
             "32": {
@@ -10914,7 +10914,7 @@
             "15": [
               {
                 "book": "Pointsbet",
-                "odds": 1.27
+                "odds": 1.29
               },
               {
                 "book": "BetRight",
@@ -10940,7 +10940,7 @@
             "16": [
               {
                 "book": "Pointsbet",
-                "odds": 1.42
+                "odds": 1.44
               },
               {
                 "book": "Ladbrokes",
@@ -11092,7 +11092,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 8.5
+                "odds": 8.0
               },
               {
                 "book": "Ladbrokes",
@@ -11101,11 +11101,11 @@
             ],
             "27": [
               {
-                "book": "Pointsbet",
-                "odds": 10.5
+                "book": "Sportsbet",
+                "odds": 10.0
               },
               {
-                "book": "Sportsbet",
+                "book": "Pointsbet",
                 "odds": 10.0
               }
             ],
@@ -11140,7 +11140,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 23.0
+                "odds": 21.0
               },
               {
                 "book": "Ladbrokes",
@@ -11182,7 +11182,7 @@
             "31": [
               {
                 "book": "Pointsbet",
-                "odds": 31.0
+                "odds": 26.0
               }
             ],
             "32": [
@@ -11194,7 +11194,7 @@
           },
           "edges": {
             "14": -35.1,
-            "15": -45.1,
+            "15": -44.2,
             "19": -77.4,
             "20": -82.7
           },
@@ -11325,20 +11325,20 @@
               "book": "TAB"
             },
             "21": {
-              "odds": 7.0,
-              "book": "Sportsbet"
+              "odds": 7.5,
+              "book": "Pointsbet"
             },
             "22": {
-              "odds": 9.75,
-              "book": "Ladbrokes"
+              "odds": 10.0,
+              "book": "Pointsbet"
             },
             "23": {
-              "odds": 12.0,
+              "odds": 13.0,
               "book": "Pointsbet"
             },
             "24": {
               "odds": 17.0,
-              "book": "Ladbrokes"
+              "book": "Pointsbet"
             },
             "25": {
               "odds": 26.0,
@@ -11355,10 +11355,6 @@
             "40": {
               "odds": 101.0,
               "book": "TAB"
-            },
-            "26": {
-              "odds": 31.0,
-              "book": "Pointsbet"
             }
           },
           "all_odds": {
@@ -11387,7 +11383,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.21
+                "odds": 1.22
               }
             ],
             "12": [
@@ -11411,7 +11407,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.56
+                "odds": 1.59
               }
             ],
             "14": [
@@ -11447,7 +11443,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.15
+                "odds": 2.2
               },
               {
                 "book": "Ladbrokes",
@@ -11475,7 +11471,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.1
+                "odds": 3.25
               }
             ],
             "18": [
@@ -11485,7 +11481,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.9
+                "odds": 4.0
               },
               {
                 "book": "Ladbrokes",
@@ -11516,12 +11512,12 @@
                 "odds": 7.0
               },
               {
-                "book": "Ladbrokes",
-                "odds": 5.8
+                "book": "Pointsbet",
+                "odds": 6.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 5.75
+                "book": "Ladbrokes",
+                "odds": 5.8
               },
               {
                 "book": "Sportsbet",
@@ -11530,22 +11526,22 @@
             ],
             "21": [
               {
-                "book": "Sportsbet",
-                "odds": 7.0
+                "book": "Pointsbet",
+                "odds": 7.5
               },
               {
-                "book": "Pointsbet",
+                "book": "Sportsbet",
                 "odds": 7.0
               }
             ],
             "22": [
               {
-                "book": "Ladbrokes",
-                "odds": 9.75
+                "book": "Pointsbet",
+                "odds": 10.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 9.0
+                "book": "Ladbrokes",
+                "odds": 9.75
               },
               {
                 "book": "Sportsbet",
@@ -11555,7 +11551,7 @@
             "23": [
               {
                 "book": "Pointsbet",
-                "odds": 12.0
+                "odds": 13.0
               },
               {
                 "book": "Sportsbet",
@@ -11564,12 +11560,12 @@
             ],
             "24": [
               {
-                "book": "Ladbrokes",
+                "book": "Pointsbet",
                 "odds": 17.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 16.0
+                "book": "Ladbrokes",
+                "odds": 17.0
               },
               {
                 "book": "Sportsbet",
@@ -11582,12 +11578,12 @@
                 "odds": 26.0
               },
               {
-                "book": "Ladbrokes",
+                "book": "Pointsbet",
                 "odds": 23.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 21.0
+                "book": "Ladbrokes",
+                "odds": 23.0
               },
               {
                 "book": "Betr",
@@ -11614,12 +11610,6 @@
               {
                 "book": "TAB",
                 "odds": 101.0
-              }
-            ],
-            "26": [
-              {
-                "book": "Pointsbet",
-                "odds": 31.0
               }
             ]
           },
@@ -11815,7 +11805,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.04
+                "odds": 1.05
               },
               {
                 "book": "Ladbrokes",
@@ -11883,7 +11873,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.44
+                "odds": 1.42
               }
             ],
             "17": [
@@ -11917,7 +11907,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.15
+                "odds": 2.2
               }
             ],
             "20": [
@@ -11991,7 +11981,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 5.25
+                "odds": 5.0
               }
             ],
             "25": [
@@ -12012,12 +12002,12 @@
                 "odds": 7.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 6.5
-              },
-              {
                 "book": "BetRight",
                 "odds": 6.25
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 6.0
               }
             ],
             "26": [
@@ -12031,7 +12021,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 8.0
+                "odds": 7.5
               }
             ],
             "27": [
@@ -12041,7 +12031,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 10.0
+                "odds": 9.5
               }
             ],
             "28": [
@@ -12272,11 +12262,11 @@
               "book": "TAB"
             },
             "26": {
-              "odds": 20.0,
+              "odds": 21.0,
               "book": "Pointsbet"
             },
             "27": {
-              "odds": 26.0,
+              "odds": 29.0,
               "book": "Pointsbet"
             }
           },
@@ -12292,7 +12282,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.06
+                "odds": 1.05
               }
             ],
             "11": [
@@ -12312,7 +12302,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.24
+                "odds": 1.25
               },
               {
                 "book": "Sportsbet",
@@ -12349,6 +12339,10 @@
                 "odds": 2.05
               },
               {
+                "book": "Pointsbet",
+                "odds": 1.88
+              },
+              {
                 "book": "Sportsbet",
                 "odds": 1.87
               },
@@ -12358,10 +12352,6 @@
               },
               {
                 "book": "BetRight",
-                "odds": 1.83
-              },
-              {
-                "book": "Pointsbet",
                 "odds": 1.83
               },
               {
@@ -12390,7 +12380,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.55
+                "odds": 2.6
               }
             ],
             "18": [
@@ -12530,13 +12520,13 @@
             "26": [
               {
                 "book": "Pointsbet",
-                "odds": 20.0
+                "odds": 21.0
               }
             ],
             "27": [
               {
                 "book": "Pointsbet",
-                "odds": 26.0
+                "odds": 29.0
               }
             ]
           },
@@ -12634,8 +12624,8 @@
               "book": "Ladbrokes"
             },
             "11": {
-              "odds": 1.22,
-              "book": "Sportsbet"
+              "odds": 1.24,
+              "book": "Pointsbet"
             },
             "12": {
               "odds": 1.48,
@@ -12731,11 +12721,11 @@
             ],
             "11": [
               {
-                "book": "Sportsbet",
-                "odds": 1.22
+                "book": "Pointsbet",
+                "odds": 1.24
               },
               {
-                "book": "Pointsbet",
+                "book": "Sportsbet",
                 "odds": 1.22
               }
             ],
@@ -12745,11 +12735,11 @@
                 "odds": 1.48
               },
               {
-                "book": "Sportsbet",
-                "odds": 1.36
+                "book": "Pointsbet",
+                "odds": 1.4
               },
               {
-                "book": "Pointsbet",
+                "book": "Sportsbet",
                 "odds": 1.36
               }
             ],
@@ -12824,7 +12814,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.25
+                "odds": 3.1
               }
             ],
             "18": [
@@ -12884,7 +12874,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 7.5
+                "odds": 7.0
               }
             ],
             "22": [
@@ -12898,7 +12888,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 9.0
+                "odds": 9.5
               }
             ],
             "23": [
@@ -13046,8 +13036,8 @@
               "book": "Sportsbet"
             },
             "11": {
-              "odds": 1.58,
-              "book": "Sportsbet"
+              "odds": 1.59,
+              "book": "Pointsbet"
             },
             "12": {
               "odds": 1.88,
@@ -13106,11 +13096,11 @@
               "book": "TAB"
             },
             "22": {
-              "odds": 23.0,
+              "odds": 21.0,
               "book": "Pointsbet"
             },
             "23": {
-              "odds": 31.0,
+              "odds": 29.0,
               "book": "Pointsbet"
             }
           },
@@ -13135,12 +13125,12 @@
             ],
             "11": [
               {
-                "book": "Sportsbet",
-                "odds": 1.58
+                "book": "Pointsbet",
+                "odds": 1.59
               },
               {
-                "book": "Pointsbet",
-                "odds": 1.56
+                "book": "Sportsbet",
+                "odds": 1.58
               }
             ],
             "12": [
@@ -13252,7 +13242,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 9.0
+                "odds": 8.5
               }
             ],
             "20": [
@@ -13318,13 +13308,13 @@
             "22": [
               {
                 "book": "Pointsbet",
-                "odds": 23.0
+                "odds": 21.0
               }
             ],
             "23": [
               {
                 "book": "Pointsbet",
-                "odds": 31.0
+                "odds": 29.0
               }
             ]
           },
@@ -13439,7 +13429,7 @@
             },
             "15": {
               "odds": 1.88,
-              "book": "Ladbrokes"
+              "book": "Pointsbet"
             },
             "16": {
               "odds": 2.28,
@@ -13498,7 +13488,7 @@
               "book": "Ladbrokes"
             },
             "27": {
-              "odds": 26.0,
+              "odds": 29.0,
               "book": "Pointsbet"
             }
           },
@@ -13510,7 +13500,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.05
+                "odds": 1.06
               },
               {
                 "book": "Ladbrokes",
@@ -13533,11 +13523,11 @@
                 "odds": 1.25
               },
               {
-                "book": "Sportsbet",
-                "odds": 1.22
+                "book": "Pointsbet",
+                "odds": 1.24
               },
               {
-                "book": "Pointsbet",
+                "book": "Sportsbet",
                 "odds": 1.22
               }
             ],
@@ -13567,6 +13557,10 @@
             ],
             "15": [
               {
+                "book": "Pointsbet",
+                "odds": 1.88
+              },
+              {
                 "book": "Ladbrokes",
                 "odds": 1.88
               },
@@ -13580,10 +13574,6 @@
               },
               {
                 "book": "BetRight",
-                "odds": 1.83
-              },
-              {
-                "book": "Pointsbet",
                 "odds": 1.83
               },
               {
@@ -13662,7 +13652,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 4.5
+                "odds": 4.75
               }
             ],
             "21": [
@@ -13672,7 +13662,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 5.5
+                "odds": 5.75
               }
             ],
             "22": [
@@ -13696,7 +13686,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 9.0
+                "odds": 9.5
               }
             ],
             "24": [
@@ -13710,7 +13700,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 12.0
+                "odds": 13.0
               }
             ],
             "25": [
@@ -13762,7 +13752,7 @@
             "27": [
               {
                 "book": "Pointsbet",
-                "odds": 26.0
+                "odds": 29.0
               }
             ]
           },
@@ -13856,7 +13846,7 @@
           },
           "best_odds": {
             "11": {
-              "odds": 1.07,
+              "odds": 1.08,
               "book": "Pointsbet"
             },
             "12": {
@@ -13864,7 +13854,7 @@
               "book": "Ladbrokes"
             },
             "13": {
-              "odds": 1.25,
+              "odds": 1.27,
               "book": "Pointsbet"
             },
             "14": {
@@ -13940,15 +13930,15 @@
               "book": "TAB"
             },
             "10": {
-              "odds": 1.02,
-              "book": "Ladbrokes"
+              "odds": 1.03,
+              "book": "Pointsbet"
             }
           },
           "all_odds": {
             "11": [
               {
                 "book": "Pointsbet",
-                "odds": 1.07
+                "odds": 1.08
               },
               {
                 "book": "Sportsbet",
@@ -13972,7 +13962,7 @@
             "13": [
               {
                 "book": "Pointsbet",
-                "odds": 1.25
+                "odds": 1.27
               },
               {
                 "book": "Sportsbet",
@@ -13986,7 +13976,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.4
+                "odds": 1.42
               },
               {
                 "book": "Sportsbet",
@@ -14003,12 +13993,12 @@
                 "odds": 1.68
               },
               {
-                "book": "Pointsbet",
-                "odds": 1.63
-              },
-              {
                 "book": "Betr",
                 "odds": 1.6
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 1.59
               },
               {
                 "book": "Sportsbet",
@@ -14221,6 +14211,10 @@
             ],
             "10": [
               {
+                "book": "Pointsbet",
+                "odds": 1.03
+              },
+              {
                 "book": "Ladbrokes",
                 "odds": 1.02
               }
@@ -14231,7 +14225,7 @@
             "15": -37.3,
             "19": -71.6,
             "20": -72.3,
-            "10": -15.8
+            "10": -14.9
           },
           "vs_opp": {
             "l5": 12.0,
@@ -14332,8 +14326,8 @@
               "book": "Sportsbet"
             },
             "14": {
-              "odds": 2.3,
-              "book": "Pointsbet"
+              "odds": 2.26,
+              "book": "Sportsbet"
             },
             "15": {
               "odds": 3.1,
@@ -14348,8 +14342,8 @@
               "book": "Pointsbet"
             },
             "18": {
-              "odds": 5.25,
-              "book": "Pointsbet"
+              "odds": 5.2,
+              "book": "Sportsbet"
             },
             "19": {
               "odds": 6.5,
@@ -14360,15 +14354,15 @@
               "book": "BetRight"
             },
             "21": {
-              "odds": 11.0,
+              "odds": 10.5,
               "book": "Pointsbet"
             },
             "22": {
-              "odds": 15.0,
-              "book": "Pointsbet"
+              "odds": 14.0,
+              "book": "Ladbrokes"
             },
             "23": {
-              "odds": 20.0,
+              "odds": 19.0,
               "book": "Pointsbet"
             },
             "25": {
@@ -14404,7 +14398,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.22
+                "odds": 1.21
               },
               {
                 "book": "Ladbrokes",
@@ -14418,7 +14412,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.4
+                "odds": 1.36
               }
             ],
             "12": [
@@ -14442,17 +14436,17 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.9
+                "odds": 1.88
               }
             ],
             "14": [
               {
-                "book": "Pointsbet",
-                "odds": 2.3
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 2.26
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 2.25
               },
               {
                 "book": "Ladbrokes",
@@ -14511,12 +14505,12 @@
             ],
             "18": [
               {
-                "book": "Pointsbet",
-                "odds": 5.25
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 5.2
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 5.0
               },
               {
                 "book": "Ladbrokes",
@@ -14548,7 +14542,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 8.5
+                "odds": 8.0
               },
               {
                 "book": "Ladbrokes",
@@ -14562,7 +14556,7 @@
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 11.0
+                "odds": 10.5
               },
               {
                 "book": "Sportsbet",
@@ -14571,12 +14565,12 @@
             ],
             "22": [
               {
-                "book": "Pointsbet",
-                "odds": 15.0
-              },
-              {
                 "book": "Ladbrokes",
                 "odds": 14.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 13.0
               },
               {
                 "book": "Sportsbet",
@@ -14586,7 +14580,7 @@
             "23": [
               {
                 "book": "Pointsbet",
-                "odds": 20.0
+                "odds": 19.0
               },
               {
                 "book": "Sportsbet",
@@ -14626,7 +14620,7 @@
           },
           "edges": {
             "10": 4.9,
-            "14": -3.2,
+            "14": -4.9,
             "15": -1.1,
             "19": -51.1,
             "20": -50.1
@@ -14726,8 +14720,8 @@
               "book": "Sportsbet"
             },
             "13": {
-              "odds": 1.59,
-              "book": "Pointsbet"
+              "odds": 1.58,
+              "book": "Sportsbet"
             },
             "14": {
               "odds": 1.85,
@@ -14835,12 +14829,12 @@
             ],
             "13": [
               {
-                "book": "Pointsbet",
-                "odds": 1.59
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 1.58
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 1.56
               }
             ],
             "14": [
@@ -14890,7 +14884,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.6
+                "odds": 2.7
               },
               {
                 "book": "Ladbrokes",
@@ -14904,7 +14898,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.1
+                "odds": 3.25
               }
             ],
             "18": [
@@ -14914,7 +14908,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.9
+                "odds": 4.0
               },
               {
                 "book": "Ladbrokes",
@@ -14949,12 +14943,12 @@
                 "odds": 6.0
               },
               {
-                "book": "Ladbrokes",
-                "odds": 5.8
+                "book": "Pointsbet",
+                "odds": 6.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 5.75
+                "book": "Ladbrokes",
+                "odds": 5.8
               }
             ],
             "21": [
@@ -15012,7 +15006,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 26.0
+                "odds": 23.0
               },
               {
                 "book": "Ladbrokes",
@@ -15224,7 +15218,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.05
+                "odds": 1.06
               },
               {
                 "book": "Ladbrokes",
@@ -15248,7 +15242,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.25
+                "odds": 1.24
               },
               {
                 "book": "Ladbrokes",
@@ -15272,7 +15266,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.59
+                "odds": 1.63
               },
               {
                 "book": "Ladbrokes",
@@ -15298,7 +15292,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.83
+                "odds": 1.88
               },
               {
                 "book": "Ladbrokes",
@@ -15350,7 +15344,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.7
+                "odds": 3.9
               }
             ],
             "20": [
@@ -15371,12 +15365,12 @@
                 "odds": 5.2
               },
               {
-                "book": "Pointsbet",
-                "odds": 4.75
-              },
-              {
                 "book": "Ladbrokes",
                 "odds": 4.6
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 4.5
               }
             ],
             "21": [
@@ -15386,7 +15380,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 5.5
+                "odds": 5.75
               }
             ],
             "22": [
@@ -15626,12 +15620,12 @@
               "book": "Sportsbet"
             },
             "23": {
-              "odds": 12.0,
-              "book": "Sportsbet"
+              "odds": 13.0,
+              "book": "Pointsbet"
             },
             "24": {
               "odds": 17.0,
-              "book": "Ladbrokes"
+              "book": "Pointsbet"
             },
             "25": {
               "odds": 26.0,
@@ -15648,10 +15642,6 @@
             "40": {
               "odds": 101.0,
               "book": "TAB"
-            },
-            "26": {
-              "odds": 31.0,
-              "book": "Pointsbet"
             }
           },
           "all_odds": {
@@ -15837,32 +15827,32 @@
                 "odds": 10.0
               },
               {
-                "book": "Ladbrokes",
-                "odds": 9.75
+                "book": "Pointsbet",
+                "odds": 10.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 9.5
+                "book": "Ladbrokes",
+                "odds": 9.75
               }
             ],
             "23": [
               {
-                "book": "Sportsbet",
-                "odds": 12.0
+                "book": "Pointsbet",
+                "odds": 13.0
               },
               {
-                "book": "Pointsbet",
+                "book": "Sportsbet",
                 "odds": 12.0
               }
             ],
             "24": [
               {
-                "book": "Ladbrokes",
+                "book": "Pointsbet",
                 "odds": 17.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 16.0
+                "book": "Ladbrokes",
+                "odds": 17.0
               },
               {
                 "book": "Sportsbet",
@@ -15899,12 +15889,6 @@
               {
                 "book": "TAB",
                 "odds": 101.0
-              }
-            ],
-            "26": [
-              {
-                "book": "Pointsbet",
-                "odds": 31.0
               }
             ]
           },
@@ -16014,8 +15998,8 @@
               "book": "Sportsbet"
             },
             "14": {
-              "odds": 1.9,
-              "book": "Pointsbet"
+              "odds": 1.89,
+              "book": "Sportsbet"
             },
             "15": {
               "odds": 2.28,
@@ -16050,12 +16034,12 @@
               "book": "Sportsbet"
             },
             "23": {
-              "odds": 13.0,
-              "book": "Pointsbet"
+              "odds": 12.0,
+              "book": "Sportsbet"
             },
             "24": {
               "odds": 17.0,
-              "book": "Pointsbet"
+              "book": "Ladbrokes"
             },
             "25": {
               "odds": 26.0,
@@ -16074,7 +16058,7 @@
               "book": "TAB"
             },
             "26": {
-              "odds": 31.0,
+              "odds": 29.0,
               "book": "Pointsbet"
             }
           },
@@ -16133,12 +16117,12 @@
             ],
             "14": [
               {
-                "book": "Pointsbet",
-                "odds": 1.9
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 1.89
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 1.88
               },
               {
                 "book": "Ladbrokes",
@@ -16159,11 +16143,11 @@
                 "odds": 2.25
               },
               {
-                "book": "Pointsbet",
-                "odds": 2.25
+                "book": "TAB",
+                "odds": 2.15
               },
               {
-                "book": "TAB",
+                "book": "Pointsbet",
                 "odds": 2.15
               },
               {
@@ -16178,7 +16162,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.7
+                "odds": 2.6
               },
               {
                 "book": "Ladbrokes",
@@ -16192,7 +16176,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.3
+                "odds": 3.25
               }
             ],
             "18": [
@@ -16202,7 +16186,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 4.0
+                "odds": 3.9
               },
               {
                 "book": "Ladbrokes",
@@ -16252,7 +16236,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 8.0
+                "odds": 7.5
               }
             ],
             "22": [
@@ -16261,32 +16245,32 @@
                 "odds": 10.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 10.0
-              },
-              {
                 "book": "Ladbrokes",
                 "odds": 9.75
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 9.5
               }
             ],
             "23": [
               {
-                "book": "Pointsbet",
-                "odds": 13.0
+                "book": "Sportsbet",
+                "odds": 12.0
               },
               {
-                "book": "Sportsbet",
+                "book": "Pointsbet",
                 "odds": 12.0
               }
             ],
             "24": [
               {
-                "book": "Pointsbet",
+                "book": "Ladbrokes",
                 "odds": 17.0
               },
               {
-                "book": "Ladbrokes",
-                "odds": 17.0
+                "book": "Pointsbet",
+                "odds": 16.0
               },
               {
                 "book": "Sportsbet",
@@ -16328,13 +16312,13 @@
             "26": [
               {
                 "book": "Pointsbet",
-                "odds": 31.0
+                "odds": 29.0
               }
             ]
           },
           "edges": {
             "10": -13.1,
-            "14": -51.3,
+            "14": -51.5,
             "15": -61.6,
             "19": -87.2
           },
@@ -16469,8 +16453,8 @@
               "book": "Pointsbet"
             },
             "22": {
-              "odds": 15.0,
-              "book": "Pointsbet"
+              "odds": 14.0,
+              "book": "Ladbrokes"
             },
             "23": {
               "odds": 19.0,
@@ -16509,7 +16493,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.21
+                "odds": 1.22
               },
               {
                 "book": "Ladbrokes",
@@ -16523,7 +16507,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.36
+                "odds": 1.4
               }
             ],
             "12": [
@@ -16583,7 +16567,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.7
+                "odds": 2.75
               },
               {
                 "book": "Ladbrokes",
@@ -16676,12 +16660,12 @@
             ],
             "22": [
               {
-                "book": "Pointsbet",
-                "odds": 15.0
-              },
-              {
                 "book": "Ladbrokes",
                 "odds": 14.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 13.0
               },
               {
                 "book": "Sportsbet",
@@ -16827,8 +16811,8 @@
               "book": "Sportsbet"
             },
             "12": {
-              "odds": 2.32,
-              "book": "Sportsbet"
+              "odds": 2.35,
+              "book": "Pointsbet"
             },
             "13": {
               "odds": 2.92,
@@ -16843,19 +16827,19 @@
               "book": "TAB"
             },
             "16": {
-              "odds": 5.9,
-              "book": "Sportsbet"
+              "odds": 6.0,
+              "book": "Pointsbet"
             },
             "17": {
               "odds": 7.5,
               "book": "Sportsbet"
             },
             "18": {
-              "odds": 9.5,
-              "book": "Sportsbet"
+              "odds": 10.5,
+              "book": "Pointsbet"
             },
             "19": {
-              "odds": 13.0,
+              "odds": 15.0,
               "book": "Pointsbet"
             },
             "20": {
@@ -16879,7 +16863,7 @@
               "book": "TAB"
             },
             "21": {
-              "odds": 26.0,
+              "odds": 29.0,
               "book": "Pointsbet"
             }
           },
@@ -16909,17 +16893,17 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.88
+                "odds": 1.9
               }
             ],
             "12": [
               {
-                "book": "Sportsbet",
-                "odds": 2.32
+                "book": "Pointsbet",
+                "odds": 2.35
               },
               {
-                "book": "Pointsbet",
-                "odds": 2.25
+                "book": "Sportsbet",
+                "odds": 2.32
               },
               {
                 "book": "Ladbrokes",
@@ -16933,7 +16917,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.75
+                "odds": 2.9
               }
             ],
             "14": [
@@ -16943,7 +16927,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.6
+                "odds": 3.7
               },
               {
                 "book": "Ladbrokes",
@@ -16964,12 +16948,12 @@
                 "odds": 4.75
               },
               {
-                "book": "Sportsbet",
-                "odds": 4.65
+                "book": "Pointsbet",
+                "odds": 4.75
               },
               {
-                "book": "Pointsbet",
-                "odds": 4.4
+                "book": "Sportsbet",
+                "odds": 4.65
               },
               {
                 "book": "Ladbrokes",
@@ -16978,12 +16962,12 @@
             ],
             "16": [
               {
-                "book": "Sportsbet",
-                "odds": 5.9
+                "book": "Pointsbet",
+                "odds": 6.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 5.5
+                "book": "Sportsbet",
+                "odds": 5.9
               },
               {
                 "book": "Ladbrokes",
@@ -17002,11 +16986,11 @@
             ],
             "18": [
               {
-                "book": "Sportsbet",
-                "odds": 9.5
+                "book": "Pointsbet",
+                "odds": 10.5
               },
               {
-                "book": "Pointsbet",
+                "book": "Sportsbet",
                 "odds": 9.5
               },
               {
@@ -17017,7 +17001,7 @@
             "19": [
               {
                 "book": "Pointsbet",
-                "odds": 13.0
+                "odds": 15.0
               },
               {
                 "book": "Sportsbet",
@@ -17030,12 +17014,12 @@
                 "odds": 26.0
               },
               {
-                "book": "Betr",
-                "odds": 18.0
+                "book": "Pointsbet",
+                "odds": 20.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 17.0
+                "book": "Betr",
+                "odds": 18.0
               },
               {
                 "book": "Sportsbet",
@@ -17073,7 +17057,7 @@
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 26.0
+                "odds": 29.0
               }
             ]
           },
@@ -17081,7 +17065,7 @@
             "10": 11.1,
             "14": -7.9,
             "15": -15.0,
-            "19": -62.3
+            "19": -56.5
           },
           "vs_opp": {
             "l5": 10.0,
@@ -17170,12 +17154,12 @@
               "book": "Pointsbet"
             },
             "11": {
-              "odds": 1.56,
-              "book": "Sportsbet"
+              "odds": 1.59,
+              "book": "Pointsbet"
             },
             "12": {
-              "odds": 1.87,
-              "book": "Sportsbet"
+              "odds": 1.88,
+              "book": "Pointsbet"
             },
             "13": {
               "odds": 2.33,
@@ -17255,22 +17239,22 @@
             ],
             "11": [
               {
-                "book": "Sportsbet",
-                "odds": 1.56
+                "book": "Pointsbet",
+                "odds": 1.59
               },
               {
-                "book": "Pointsbet",
+                "book": "Sportsbet",
                 "odds": 1.56
               }
             ],
             "12": [
               {
-                "book": "Sportsbet",
-                "odds": 1.87
+                "book": "Pointsbet",
+                "odds": 1.88
               },
               {
-                "book": "Pointsbet",
-                "odds": 1.83
+                "book": "Sportsbet",
+                "odds": 1.87
               },
               {
                 "book": "Ladbrokes",
@@ -17358,7 +17342,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 7.0
+                "odds": 6.5
               },
               {
                 "book": "Ladbrokes",
@@ -17372,7 +17356,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 9.5
+                "odds": 9.0
               }
             ],
             "20": [
@@ -17408,7 +17392,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 16.0
+                "odds": 17.0
               }
             ],
             "25": [
@@ -17540,7 +17524,7 @@
               "book": "Pointsbet"
             },
             "11": {
-              "odds": 1.59,
+              "odds": 1.56,
               "book": "Pointsbet"
             },
             "12": {
@@ -17596,7 +17580,7 @@
               "book": "TAB"
             },
             "21": {
-              "odds": 15.0,
+              "odds": 16.0,
               "book": "Pointsbet"
             },
             "22": {
@@ -17604,7 +17588,7 @@
               "book": "Pointsbet"
             },
             "23": {
-              "odds": 29.0,
+              "odds": 31.0,
               "book": "Pointsbet"
             }
           },
@@ -17630,7 +17614,7 @@
             "11": [
               {
                 "book": "Pointsbet",
-                "odds": 1.59
+                "odds": 1.56
               },
               {
                 "book": "Sportsbet",
@@ -17668,7 +17652,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.75
+                "odds": 2.7
               },
               {
                 "book": "Ladbrokes",
@@ -17694,7 +17678,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.4
+                "odds": 3.3
               },
               {
                 "book": "Ladbrokes",
@@ -17722,7 +17706,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 5.25
+                "odds": 5.0
               }
             ],
             "18": [
@@ -17763,12 +17747,12 @@
                 "odds": 13.0
               },
               {
-                "book": "Ladbrokes",
-                "odds": 11.5
+                "book": "Pointsbet",
+                "odds": 12.0
               },
               {
-                "book": "Pointsbet",
-                "odds": 11.0
+                "book": "Ladbrokes",
+                "odds": 11.5
               },
               {
                 "book": "TAB",
@@ -17802,7 +17786,7 @@
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 15.0
+                "odds": 16.0
               }
             ],
             "22": [
@@ -17814,7 +17798,7 @@
             "23": [
               {
                 "book": "Pointsbet",
-                "odds": 29.0
+                "odds": 31.0
               }
             ]
           },
@@ -17943,15 +17927,15 @@
               "book": "Sportsbet"
             },
             "19": {
-              "odds": 15.0,
-              "book": "Pointsbet"
+              "odds": 14.0,
+              "book": "Sportsbet"
             },
             "20": {
               "odds": 26.0,
               "book": "BetRight"
             },
             "21": {
-              "odds": 29.0,
+              "odds": 26.0,
               "book": "Pointsbet"
             }
           },
@@ -17963,7 +17947,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.56
+                "odds": 1.59
               },
               {
                 "book": "Ladbrokes",
@@ -17977,7 +17961,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.88
+                "odds": 1.9
               }
             ],
             "12": [
@@ -18001,7 +17985,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.75
+                "odds": 2.85
               }
             ],
             "14": [
@@ -18011,7 +17995,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.4
+                "odds": 3.6
               },
               {
                 "book": "Ladbrokes",
@@ -18033,7 +18017,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 4.4
+                "odds": 4.5
               },
               {
                 "book": "Ladbrokes",
@@ -18080,12 +18064,12 @@
             ],
             "19": [
               {
-                "book": "Pointsbet",
-                "odds": 15.0
-              },
-              {
                 "book": "Sportsbet",
                 "odds": 14.0
+              },
+              {
+                "book": "Pointsbet",
+                "odds": 13.0
               }
             ],
             "20": [
@@ -18095,7 +18079,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 20.0
+                "odds": 19.0
               },
               {
                 "book": "Ladbrokes",
@@ -18105,7 +18089,7 @@
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 29.0
+                "odds": 26.0
               }
             ]
           },
@@ -18255,7 +18239,7 @@
               "book": "TAB"
             },
             "21": {
-              "odds": 26.0,
+              "odds": 29.0,
               "book": "Pointsbet"
             },
             "22": {
@@ -18275,7 +18259,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.53
+                "odds": 1.56
               },
               {
                 "book": "Ladbrokes",
@@ -18289,7 +18273,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.83
+                "odds": 1.88
               }
             ],
             "12": [
@@ -18373,7 +18357,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 7.5
+                "odds": 7.0
               }
             ],
             "18": [
@@ -18445,7 +18429,7 @@
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 26.0
+                "odds": 29.0
               }
             ],
             "22": [
@@ -18627,7 +18611,11 @@
               "book": "Pointsbet"
             },
             "28": {
-              "odds": 26.0,
+              "odds": 23.0,
+              "book": "Pointsbet"
+            },
+            "29": {
+              "odds": 31.0,
               "book": "Pointsbet"
             }
           },
@@ -18663,7 +18651,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.15
+                "odds": 1.14
               }
             ],
             "13": [
@@ -18687,7 +18675,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.42
+                "odds": 1.4
               }
             ],
             "15": [
@@ -18713,7 +18701,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.63
+                "odds": 1.59
               }
             ],
             "16": [
@@ -18889,7 +18877,13 @@
             "28": [
               {
                 "book": "Pointsbet",
-                "odds": 26.0
+                "odds": 23.0
+              }
+            ],
+            "29": [
+              {
+                "book": "Pointsbet",
+                "odds": 31.0
               }
             ]
           },
@@ -19025,7 +19019,7 @@
               "book": "BetRight"
             },
             "21": {
-              "odds": 15.0,
+              "odds": 17.0,
               "book": "Pointsbet"
             },
             "25": {
@@ -19045,11 +19039,7 @@
               "book": "TAB"
             },
             "22": {
-              "odds": 21.0,
-              "book": "Pointsbet"
-            },
-            "23": {
-              "odds": 29.0,
+              "odds": 23.0,
               "book": "Pointsbet"
             }
           },
@@ -19103,7 +19093,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.2
+                "odds": 2.25
               }
             ],
             "14": [
@@ -19139,7 +19129,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.3
+                "odds": 3.4
               },
               {
                 "book": "Ladbrokes",
@@ -19153,7 +19143,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 4.0
+                "odds": 4.2
               },
               {
                 "book": "Ladbrokes",
@@ -19167,7 +19157,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 5.0
+                "odds": 5.25
               }
             ],
             "18": [
@@ -19177,7 +19167,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 6.5
+                "odds": 7.0
               },
               {
                 "book": "Ladbrokes",
@@ -19191,7 +19181,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 8.5
+                "odds": 9.5
               }
             ],
             "20": [
@@ -19204,11 +19194,11 @@
                 "odds": 12.0
               },
               {
-                "book": "Sportsbet",
-                "odds": 11.0
+                "book": "Pointsbet",
+                "odds": 12.0
               },
               {
-                "book": "Pointsbet",
+                "book": "Sportsbet",
                 "odds": 11.0
               },
               {
@@ -19223,7 +19213,7 @@
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 15.0
+                "odds": 17.0
               },
               {
                 "book": "Sportsbet",
@@ -19257,17 +19247,11 @@
             "22": [
               {
                 "book": "Pointsbet",
-                "odds": 21.0
+                "odds": 23.0
               },
               {
                 "book": "Ladbrokes",
                 "odds": 14.0
-              }
-            ],
-            "23": [
-              {
-                "book": "Pointsbet",
-                "odds": 29.0
               }
             ]
           },
@@ -19413,7 +19397,7 @@
               "book": "Pointsbet"
             },
             "19": {
-              "odds": 15.0,
+              "odds": 13.0,
               "book": "Pointsbet"
             },
             "21": {
@@ -19437,7 +19421,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.59
+                "odds": 1.56
               },
               {
                 "book": "Ladbrokes",
@@ -19451,7 +19435,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.88
+                "odds": 1.83
               }
             ],
             "12": [
@@ -19461,7 +19445,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.3
+                "odds": 2.25
               },
               {
                 "book": "Ladbrokes",
@@ -19475,7 +19459,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.85
+                "odds": 2.75
               }
             ],
             "14": [
@@ -19485,7 +19469,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 3.6
+                "odds": 3.4
               },
               {
                 "book": "Ladbrokes",
@@ -19507,7 +19491,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 4.5
+                "odds": 4.4
               },
               {
                 "book": "Ladbrokes",
@@ -19521,7 +19505,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 5.75
+                "odds": 5.5
               },
               {
                 "book": "Ladbrokes",
@@ -19545,7 +19529,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 19.0
+                "odds": 17.0
               },
               {
                 "book": "TAB",
@@ -19593,7 +19577,7 @@
             "19": [
               {
                 "book": "Pointsbet",
-                "odds": 15.0
+                "odds": 13.0
               }
             ],
             "21": [
@@ -19730,7 +19714,7 @@
               "book": "BetRight"
             },
             "18": {
-              "odds": 10.0,
+              "odds": 9.5,
               "book": "Pointsbet"
             },
             "19": {
@@ -19738,7 +19722,7 @@
               "book": "Pointsbet"
             },
             "21": {
-              "odds": 29.0,
+              "odds": 26.0,
               "book": "Pointsbet"
             },
             "22": {
@@ -19768,7 +19752,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 1.88
+                "odds": 1.83
               }
             ],
             "12": [
@@ -19778,7 +19762,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 2.25
+                "odds": 2.3
               },
               {
                 "book": "Ladbrokes",
@@ -19834,7 +19818,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 5.75
+                "odds": 5.5
               },
               {
                 "book": "Ladbrokes",
@@ -19848,7 +19832,7 @@
               },
               {
                 "book": "Pointsbet",
-                "odds": 7.5
+                "odds": 7.0
               }
             ],
             "20": [
@@ -19868,7 +19852,7 @@
             "18": [
               {
                 "book": "Pointsbet",
-                "odds": 10.0
+                "odds": 9.5
               },
               {
                 "book": "Ladbrokes",
@@ -19884,7 +19868,7 @@
             "21": [
               {
                 "book": "Pointsbet",
-                "odds": 29.0
+                "odds": 26.0
               }
             ],
             "22": [
@@ -20064,7 +20048,7 @@
       "threshold": 34,
       "model_prob": null,
       "best_odds": 26.0,
-      "book": "Ladbrokes",
+      "book": "Pointsbet",
       "edge": 86.0,
       "cv": 0.22,
       "confidence": 75.8,
@@ -20202,19 +20186,6 @@
       "l10": 30.3
     },
     {
-      "player": "Cam Rayner",
-      "team": "Brisbane",
-      "threshold": 29,
-      "model_prob": null,
-      "best_odds": 26.0,
-      "book": "Pointsbet",
-      "edge": 55.9,
-      "cv": 0.242,
-      "confidence": 75.8,
-      "pred": 18.4,
-      "l10": 15.7
-    },
-    {
       "player": "Jaspa Fletcher",
       "team": "Brisbane",
       "threshold": 29,
@@ -20226,6 +20197,19 @@
       "confidence": 75.8,
       "pred": 23.0,
       "l10": 19.4
+    },
+    {
+      "player": "Lachie Neale",
+      "team": "Brisbane",
+      "threshold": 30,
+      "model_prob": 57.9,
+      "best_odds": 2.5,
+      "book": "Pointsbet",
+      "edge": 44.9,
+      "cv": 0.22,
+      "confidence": 75.8,
+      "pred": 31.4,
+      "l10": 30.3
     },
     {
       "player": "Jaspa Fletcher",
@@ -20241,6 +20225,19 @@
       "l10": 19.4
     },
     {
+      "player": "Zac Bailey",
+      "team": "Brisbane",
+      "threshold": 25,
+      "model_prob": 47.6,
+      "best_odds": 3.0,
+      "book": "Pointsbet",
+      "edge": 42.7,
+      "cv": 0.189,
+      "confidence": 75.8,
+      "pred": 24.7,
+      "l10": 22.8
+    },
+    {
       "player": "Conor McKenna",
       "team": "Brisbane",
       "threshold": 14,
@@ -20254,43 +20251,30 @@
       "l10": 11.8
     },
     {
-      "player": "Lachie Neale",
-      "team": "Brisbane",
-      "threshold": 30,
-      "model_prob": 57.9,
-      "best_odds": 2.4,
-      "book": "Pointsbet",
-      "edge": 39.1,
-      "cv": 0.22,
-      "confidence": 75.8,
-      "pred": 31.4,
-      "l10": 30.3
-    },
-    {
-      "player": "Zac Bailey",
-      "team": "Brisbane",
-      "threshold": 25,
-      "model_prob": 47.6,
-      "best_odds": 2.9,
-      "book": "Pointsbet",
-      "edge": 38.0,
-      "cv": 0.189,
-      "confidence": 75.8,
-      "pred": 24.7,
-      "l10": 22.8
-    },
-    {
       "player": "Zac Bailey",
       "team": "Brisbane",
       "threshold": 24,
       "model_prob": null,
-      "best_odds": 2.5,
+      "best_odds": 2.55,
       "book": "Pointsbet",
-      "edge": 37.9,
+      "edge": 40.6,
       "cv": 0.189,
       "confidence": 75.8,
       "pred": 24.7,
       "l10": 22.8
+    },
+    {
+      "player": "Cam Rayner",
+      "team": "Brisbane",
+      "threshold": 29,
+      "model_prob": null,
+      "best_odds": 23.0,
+      "book": "Pointsbet",
+      "edge": 37.9,
+      "cv": 0.242,
+      "confidence": 75.8,
+      "pred": 18.4,
+      "l10": 15.7
     },
     {
       "player": "Kai Lohmann",
@@ -20336,26 +20320,13 @@
       "team": "Brisbane",
       "threshold": 14,
       "model_prob": null,
-      "best_odds": 1.89,
-      "book": "Sportsbet",
-      "edge": 32.1,
+      "best_odds": 1.9,
+      "book": "Pointsbet",
+      "edge": 32.8,
       "cv": 0.36,
       "confidence": 75.8,
       "pred": 15.9,
       "l10": 13.0
-    },
-    {
-      "player": "Jaspa Fletcher",
-      "team": "Brisbane",
-      "threshold": 24,
-      "model_prob": null,
-      "best_odds": 3.0,
-      "book": "Pointsbet",
-      "edge": 31.9,
-      "cv": 0.22,
-      "confidence": 75.8,
-      "pred": 23.0,
-      "l10": 19.4
     },
     {
       "player": "Cam Rayner",
@@ -20384,6 +20355,19 @@
       "l10": 21.4
     },
     {
+      "player": "Jaspa Fletcher",
+      "team": "Brisbane",
+      "threshold": 24,
+      "model_prob": null,
+      "best_odds": 2.9,
+      "book": "Pointsbet",
+      "edge": 27.5,
+      "cv": 0.22,
+      "confidence": 75.8,
+      "pred": 23.0,
+      "l10": 19.4
+    },
+    {
       "player": "Zac Bailey",
       "team": "Brisbane",
       "threshold": 29,
@@ -20410,6 +20394,19 @@
       "l10": 15.7
     },
     {
+      "player": "Zac Bailey",
+      "team": "Brisbane",
+      "threshold": 30,
+      "model_prob": 16.6,
+      "best_odds": 7.5,
+      "book": "Pointsbet",
+      "edge": 24.5,
+      "cv": 0.189,
+      "confidence": 75.8,
+      "pred": 24.7,
+      "l10": 22.8
+    },
+    {
       "player": "Will Ashcroft",
       "team": "Brisbane",
       "threshold": 30,
@@ -20423,26 +20420,13 @@
       "l10": 31.4
     },
     {
-      "player": "Will Ashcroft",
-      "team": "Brisbane",
-      "threshold": 29,
-      "model_prob": null,
-      "best_odds": 1.48,
-      "book": "Pointsbet",
-      "edge": 18.3,
-      "cv": 0.138,
-      "confidence": 75.8,
-      "pred": 32.5,
-      "l10": 31.4
-    },
-    {
       "player": "Zac Bailey",
       "team": "Brisbane",
       "threshold": 20,
       "model_prob": 80.5,
-      "best_odds": 1.46,
-      "book": "Ladbrokes",
-      "edge": 17.6,
+      "best_odds": 1.48,
+      "book": "Pointsbet",
+      "edge": 19.2,
       "cv": 0.189,
       "confidence": 75.8,
       "pred": 24.7,
@@ -20462,17 +20446,17 @@
       "l10": 9.0
     },
     {
-      "player": "Zac Bailey",
+      "player": "Will Ashcroft",
       "team": "Brisbane",
-      "threshold": 30,
-      "model_prob": 16.6,
-      "best_odds": 7.0,
+      "threshold": 29,
+      "model_prob": null,
+      "best_odds": 1.44,
       "book": "Pointsbet",
-      "edge": 16.2,
-      "cv": 0.189,
+      "edge": 15.1,
+      "cv": 0.138,
       "confidence": 75.8,
-      "pred": 24.7,
-      "l10": 22.8
+      "pred": 32.5,
+      "l10": 31.4
     },
     {
       "player": "Tim Membrey",
@@ -20568,6 +20552,19 @@
     {
       "player": "Zac Bailey",
       "team": "Brisbane",
+      "threshold": 34,
+      "model_prob": null,
+      "best_odds": 20.0,
+      "book": "Pointsbet",
+      "edge": 11.6,
+      "cv": 0.189,
+      "confidence": 75.8,
+      "pred": 24.7,
+      "l10": 22.8
+    },
+    {
+      "player": "Zac Bailey",
+      "team": "Brisbane",
       "threshold": 19,
       "model_prob": null,
       "best_odds": 1.31,
@@ -20631,17 +20628,17 @@
       "l10": 13.0
     },
     {
-      "player": "Lachie Neale",
+      "player": "Zac Bailey",
       "team": "Brisbane",
-      "threshold": 24,
-      "model_prob": null,
-      "best_odds": 1.29,
+      "threshold": 35,
+      "model_prob": 4.2,
+      "best_odds": 26.0,
       "book": "Pointsbet",
-      "edge": 8.9,
-      "cv": 0.22,
+      "edge": 8.7,
+      "cv": 0.189,
       "confidence": 75.8,
-      "pred": 31.4,
-      "l10": 30.3
+      "pred": 24.7,
+      "l10": 22.8
     },
     {
       "player": "Kai Lohmann",
@@ -20655,6 +20652,19 @@
       "confidence": 75.8,
       "pred": 15.9,
       "l10": 13.0
+    },
+    {
+      "player": "Lachie Neale",
+      "team": "Brisbane",
+      "threshold": 24,
+      "model_prob": null,
+      "best_odds": 1.27,
+      "book": "Pointsbet",
+      "edge": 7.2,
+      "cv": 0.22,
+      "confidence": 75.8,
+      "pred": 31.4,
+      "l10": 30.3
     },
     {
       "player": "Noah Answerth",
@@ -20681,19 +20691,6 @@
       "confidence": 75.8,
       "pred": 15.9,
       "l10": 13.0
-    },
-    {
-      "player": "Zac Bailey",
-      "team": "Brisbane",
-      "threshold": 34,
-      "model_prob": null,
-      "best_odds": 19.0,
-      "book": "Pointsbet",
-      "edge": 6.0,
-      "cv": 0.189,
-      "confidence": 75.8,
-      "pred": 24.7,
-      "l10": 22.8
     },
     {
       "player": "Jaspa Fletcher",
