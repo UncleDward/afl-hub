@@ -31360,10 +31360,10 @@
           "name": "Jesse Dattoli",
           "team": "Sydney",
           "l10": 13.8,
-          "l5": NaN,
+          "l5": null,
           "pred": 17.3,
           "cv": 0.493,
-          "confidence": NaN,
+          "confidence": null,
           "hit_rates": {
             "10": {
               "hits": 4,
@@ -31403,27 +31403,27 @@
           "adj_pct": 25.0,
           "probs": {
             "10": {
-              "prob": NaN,
+              "prob": null,
               "odds": null
             },
             "15": {
-              "prob": NaN,
+              "prob": null,
               "odds": null
             },
             "20": {
-              "prob": NaN,
+              "prob": null,
               "odds": null
             },
             "25": {
-              "prob": NaN,
+              "prob": null,
               "odds": null
             },
             "30": {
-              "prob": NaN,
+              "prob": null,
               "odds": null
             },
             "35": {
-              "prob": NaN,
+              "prob": null,
               "odds": null
             }
           },
