@@ -311,9 +311,10 @@ fetch('model_data.json?v=' + Date.now())
     document.getElementById('pred-content').style.display = 'block';
     initPred();
   })
-  .catch(function(){
+  .catch(function(err){
     document.getElementById('pred-loading').innerHTML =
-      '<div style="color:var(--mu)">No model_data.json found — run generate_hub_json() in your notebook first</div>';
+      '<div style="color:var(--mu)">Error loading hub: ' + (err && err.message ? err.message : err) + '</div>';
+    console.error('Hub load error:', err);
   });
 
 // ── Tab switching ─────────────────────────────────────────────
